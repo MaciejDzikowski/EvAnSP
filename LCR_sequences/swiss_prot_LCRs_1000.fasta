@@ -1,0 +1,2000 @@
+>sp|Q54KX3|VP13F_DICDI Putative vacuolar protein sorting-associated protein 13F OS=Dictyostelium discoideum OX=44689 GN=vps13F PE=3 SV=1 LCR:begin=191, end=199
+SSSSSSSSS
+>sp|P0CG27|FLIL_CAUVC Flagellar FliL protein OS=Caulobacter vibrioides (strain ATCC 19089 / CB15) OX=190650 GN=fliL PE=5 SV=1 LCR:begin=64, end=84
+GEKKEEKKKEKKKEEKGDKKD
+>sp|Q6C449|IRS4_YARLI Increased rDNA silencing protein 4 OS=Yarrowia lipolytica (strain CLIB 122 / E 150) OX=284591 GN=IRS4 PE=3 SV=1 LCR:begin=1, end=17
+SALSASLAAAAAAARAS
+>sp|Q5R8W8|PTCD3_PONAB Pentatricopeptide repeat domain-containing protein 3, mitochondrial OS=Pongo abelii OX=9601 GN=PTCD3 PE=2 SV=1 LCR:begin=669, end=685
+TSDSDTDSSSDSDSDTS
+>sp|Q9LUV4|FRL4A_ARATH FRIGIDA-like protein 4a OS=Arabidopsis thaliana OX=3702 GN=FRL4A PE=2 SV=1 LCR:begin=515, end=529
+HPHHHQHHQFHHQQH
+>sp|Q6CI62|ASF1_YARLI Histone chaperone ASF1 OS=Yarrowia lipolytica (strain CLIB 122 / E 150) OX=284591 GN=ASF1 PE=3 SV=1 LCR:begin=175, end=197
+EEEYGAGEEEEEVEEEVEGETEA
+>sp|Q9UF47|DNJ5B_HUMAN DnaJ homolog subfamily C member 5B OS=Homo sapiens OX=9606 GN=DNAJC5B PE=1 SV=2 LCR:begin=122, end=139
+CYFCCCLCCCCNCCCGHC
+>sp|Q1DQC1|PAN1_COCIM Actin cytoskeleton-regulatory complex protein PAN1 OS=Coccidioides immitis (strain RS) OX=246410 GN=PAN1 PE=3 SV=1 LCR:begin=1406, end=1448
+AGAPPPPPPPPPGDAPPPPGGAPPPPPGPPPPAPPGPAPGPPG
+>sp|Q54GS1|CL16A_DICDI Protein CLEC16A homolog OS=Dictyostelium discoideum OX=44689 GN=DDB_G0289943 PE=3 SV=1 LCR:begin=1108, end=1127
+GGTGGGGGGGMGSGTGGTSS
+>sp|Q54PT9|MRFA_DICDI Myelin gene regulatory factor-like A OS=Dictyostelium discoideum OX=44689 GN=mrfA PE=1 SV=1 LCR:begin=677, end=720
+NNNINNNNNNQHNNNNQHNNNNNHHNINNQHNNQNNNNNNNNNN
+>sp|Q54S52|Y2801_DICDI Protein PIEZO homolog OS=Dictyostelium discoideum OX=44689 GN=DDB_G0282801 PE=3 SV=1 LCR:begin=1201, end=1251
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNQSNNENNENNNN
+>sp|Q9UIF8|BAZ2B_HUMAN Bromodomain adjacent to zinc finger domain protein 2B OS=Homo sapiens OX=9606 GN=BAZ2B PE=1 SV=3 LCR:begin=602, end=633
+DSEDSNEDEEEDDEEEDEEDDEDDESDDSQSE
+>sp|Q55A66|Y2098_DICDI TNF receptor-associated factor family protein DDB_G0272098 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0272098 PE=3 SV=1 LCR:begin=348, end=376
+KNSNSNNNNNNKNTNENENTNENTNENEN
+>sp|P54817|SCAF_BHV1C Capsid scaffolding protein OS=Bovine herpesvirus 1.1 (strain Cooper) OX=10323 GN=UL26 PE=3 SV=1 LCR:begin=471, end=486
+PPHHHSPPPPHPPPSH
+>sp|Q9H4Q4|PRD12_HUMAN PR domain zinc finger protein 12 OS=Homo sapiens OX=9606 GN=PRDM12 PE=1 SV=2 LCR:begin=334, end=363
+PALPAPHAHAPALAAAAAAAAAAAAHHLPA
+>sp|Q86AF2|Y6864_DICDI Putative uncharacterized protein DDB_G0271606 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0271606 PE=4 SV=1 LCR:begin=255, end=274
+NNSNTNNVNNINTNNTNNNN
+>sp|Q8MQJ9|BRAT_DROME Brain tumor protein OS=Drosophila melanogaster OX=7227 GN=brat PE=1 SV=2 LCR:begin=312, end=324
+QQQQQQQQQQQRQ
+>sp|C5E4K0|DEF1_ZYGRC RNA polymerase II degradation factor 1 OS=Zygosaccharomyces rouxii (strain ATCC 2623 / CBS 732 / NBRC 1130 / NCYC 568 / NRRL Y-229) OX=559307 GN=DEF1 PE=3 SV=1 LCR:begin=708, end=736
+QQLQFQQYYQFQQQQQAAAAAAAAAAAQQ
+>sp|Q626N3|TM151_CAEBR Transmembrane protein 151 homolog OS=Caenorhabditis briggsae OX=6238 GN=CBG00907 PE=3 SV=1 LCR:begin=514, end=529
+NNNGAANNNNNNNNEN
+>sp|Q8I1N6|AP2A_PLAF7 AP2/ERF domain-containing protein PFD0985w OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PFD0985w PE=1 SV=2 LCR:begin=2556, end=2583
+NNNNNNNNNNNNNNNNNNNNNNNNNYNN
+>sp|Q5HZ36|GAT21_ARATH GATA transcription factor 21 OS=Arabidopsis thaliana OX=3702 GN=GATA21 PE=1 SV=2 LCR:begin=44, end=58
+SNSSSSSSSISSLSS
+>sp|Q15772|SPEG_HUMAN Striated muscle preferentially expressed protein kinase OS=Homo sapiens OX=9606 GN=SPEG PE=1 SV=4 LCR:begin=2908, end=2923
+APPAPEPPAPEPPPEP
+>sp|B9W8T5|SHO1_CANDC High osmolarity signaling protein SHO1 OS=Candida dubliniensis (strain CD36 / ATCC MYA-646 / CBS 7987 / NCPF 3949 / NRRL Y-17841) OX=573826 GN=SHO1 PE=3 SV=1 LCR:begin=244, end=264
+TPTNANTNTNTTTTNNNNNNT
+>sp|C1G784|MIC60_PARBD MICOS complex subunit MIC60 OS=Paracoccidioides brasiliensis (strain Pb18) OX=502780 GN=MIC60 PE=3 SV=2 LCR:begin=120, end=141
+AAPAPEPAAAPPPSPPPPPPAP
+>sp|Q54KD5|SCTC_DICDI Secreted protein C OS=Dictyostelium discoideum OX=44689 GN=sctC PE=3 SV=1 LCR:begin=75, end=132
+SSGSQSGNASSGSSSGSSSGSSSGSSSGSSSGSQSGNASSGSSSSGSSGSQSGNASSG
+>sp|Q2VWP9|PRTG_RAT Protogenin OS=Rattus norvegicus OX=10116 GN=Prtg PE=2 SV=1 LCR:begin=9, end=20
+LPLLLLLLLPPL
+>sp|Q8IN81|FRU_DROME Sex determination protein fruitless OS=Drosophila melanogaster OX=7227 GN=fru PE=1 SV=1 LCR:begin=388, end=426
+NNNSNSSSTGGNNNNNNNNNNNSSSNNNNSSSNRERNNS
+>sp|O97775|ANDR_PANTR Androgen receptor OS=Pan troglodytes OX=9598 GN=AR PE=1 SV=1 LCR:begin=447, end=463
+GGGGGGGGGGGGGGGGG
+>sp|Q54LN2|VP13D_DICDI Putative vacuolar protein sorting-associated protein 13D OS=Dictyostelium discoideum OX=44689 GN=vps13D PE=3 SV=1 LCR:begin=4165, end=4179
+SNSAISSNNNNNNNN
+>sp|Q54U49|MED12_DICDI Putative mediator of RNA polymerase II transcription subunit 12 OS=Dictyostelium discoideum OX=44689 GN=med12 PE=3 SV=2 LCR:begin=2593, end=2627
+QQLQPQQLNQQQLNQQQLNQQLNQQQQLNQQQFQL
+>sp|Q54P70|Y4757_DICDI OTU domain-containing protein DDB_G0284757 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0284757 PE=4 SV=2 LCR:begin=124, end=141
+QQQQQPNTVQQQQQQPPQ
+>sp|Q49617|NADB_MYCLE L-aspartate oxidase OS=Mycobacterium leprae (strain TN) OX=272631 GN=nadB PE=3 SV=2 LCR:begin=390, end=407
+GGRAGRAAAAHAAAAGRA
+>sp|Q0V9R0|RN111_XENTR E3 ubiquitin-protein ligase arkadia OS=Xenopus tropicalis OX=8364 GN=rnf111 PE=2 SV=1 LCR:begin=479, end=498
+PPHSHHFPHHHHHHHQSSHP
+>sp|Q9JHX2|SP5_MOUSE Transcription factor Sp5 OS=Mus musculus OX=10090 GN=Sp5 PE=2 SV=1 LCR:begin=223, end=234
+ASAAAAAAAAAA
+>sp|Q9US25|HRP1_SCHPO Chromodomain helicase hrp1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=hrp1 PE=1 SV=1 LCR:begin=967, end=979
+EEERERREEEERE
+>sp|Q2GUI4|DBP3_CHAGB ATP-dependent RNA helicase DBP3 OS=Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) OX=306901 GN=DBP3 PE=3 SV=1 LCR:begin=85, end=106
+EKEKKEKNNKKDKKDKKDKKDK
+>sp|Q05095|CDX1_RAT Homeobox protein CDX-1 (Fragment) OS=Rattus norvegicus OX=10116 GN=Cdx1 PE=2 SV=1 LCR:begin=64, end=76
+KKKQQQQQQQQQQ
+>sp|Q54FM3|EI2BD_DICDI Translation initiation factor eIF-2B subunit delta OS=Dictyostelium discoideum OX=44689 GN=eif2b4 PE=3 SV=1 LCR:begin=135, end=160
+STSSTPTSTPSSTPSSSTPSSTPSTP
+>sp|P20775|YPUB_KLEPN Uncharacterized protein in pulS 3'region (Fragment) OS=Klebsiella pneumoniae OX=573 PE=4 SV=1 LCR:begin=29, end=43
+EEDYDDDYDDDYEDE
+>sp|Q54YW1|ELMOA_DICDI ELMO domain-containing protein A OS=Dictyostelium discoideum OX=44689 GN=elmoA PE=1 SV=1 LCR:begin=879, end=896
+LLSSPSLQSSSSSSSSSS
+>sp|P9WI14|PPE24_MYCTO Uncharacterized PPE family protein PPE24 OS=Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh) OX=83331 GN=PPE24 PE=3 SV=1 LCR:begin=63, end=79
+AMAAAAAPYAAWLAAAA
+>sp|P05781|K1C4_XENLA Keratin, type I cytoskeletal 47 kDa OS=Xenopus laevis OX=8355 GN=xk81b2 PE=2 SV=1 LCR:begin=16, end=54
+SGGGGYGAGFGGGSGAGFGGGSGAGFGGGYGAGFGGGAS
+>sp|Q6PEI3|PHR4B_DANRE Phosphatase and actin regulator 4B OS=Danio rerio OX=7955 GN=phactr4b PE=1 SV=2 LCR:begin=482, end=505
+DEDDYSDEEEEEEDDEDDEEPPPD
+>sp|Q55DV8|VPS37_DICDI Vacuolar protein sorting-associated protein 37 OS=Dictyostelium discoideum OX=44689 GN=vps37 PE=3 SV=1 LCR:begin=112, end=133
+QAMQQQQQQQQQQQRNQQAQQQ
+>sp|O08550|KMT2B_MOUSE Histone-lysine N-methyltransferase 2B OS=Mus musculus OX=10090 GN=Kmt2b PE=1 SV=3 LCR:begin=627, end=646
+PPPPPAPPPAPSPPPAPATP
+>sp|A4WW80|IF2_RHOS5 Translation initiation factor IF-2 OS=Rhodobacter sphaeroides (strain ATCC 17025 / ATH 2.4.3) OX=349102 GN=infB PE=3 SV=1 LCR:begin=96, end=114
+RRAEEERQREEERQRRREE
+>sp|P15880|RS2_HUMAN 40S ribosomal protein S2 OS=Homo sapiens OX=9606 GN=RPS2 PE=1 SV=2 LCR:begin=29, end=52
+GSGIRGRGRGRGRGRGRGRGARGG
+>sp|A5E6W6|RRP3_LODEL ATP-dependent rRNA helicase RRP3 OS=Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239) OX=379508 GN=RRP3 PE=3 SV=1 LCR:begin=79, end=95
+SSASSSSSTSSSSSPPS
+>sp|Q80TR8|DCAF1_MOUSE DDB1- and CUL4-associated factor 1 OS=Mus musculus OX=10090 GN=Dcaf1 PE=1 SV=4 LCR:begin=1394, end=1428
+EDEDEEEDQEEEEQEEEDDDEDDDDTDDLDELDTD
+>sp|Q9WSV7|CAPSD_TTVV5 Capsid protein OS=Torque teno virus (isolate Human/Japan/SANBAN/1999) OX=486277 GN=ORF1 PE=3 SV=1 LCR:begin=44, end=63
+RTRRRRWGRRRYRRGWRRRT
+>sp|Q68RJ5|IFT81_CHLRE Intraflagellar transport protein 81 OS=Chlamydomonas reinhardtii OX=3055 GN=IFT81 PE=1 SV=1 LCR:begin=654, end=669
+GGGGGAAGGANGGMAG
+>sp|Q3UMQ8|NAF1_MOUSE H/ACA ribonucleoprotein complex non-core subunit NAF1 OS=Mus musculus OX=10090 GN=Naf1 PE=1 SV=2 LCR:begin=109, end=137
+SDSSDSDSDSETDSDSSSSSSSSSSSSSS
+>sp|O54743|FOXF2_MOUSE Forkhead box protein F2 OS=Mus musculus OX=10090 GN=Foxf2 PE=2 SV=2 LCR:begin=44, end=68
+STSSSSSSSSASCASSSSNSVSASA
+>sp|B4KFE1|AFFL_DROMO AF4/FMR2 family member lilli OS=Drosophila mojavensis OX=7230 GN=lilli PE=3 SV=1 LCR:begin=781, end=804
+SDSGSASSGSGSGSSSSDSAGGSS
+>sp|A8T662|PCSK9_MACNE Proprotein convertase subtilisin/kexin type 9 OS=Macaca nemestrina OX=9545 GN=PCSK9 PE=2 SV=1 LCR:begin=11, end=22
+PLPLPLLLLLLL
+>sp|Q75JN1|IFKC_DICDI Probable serine/threonine-protein kinase ifkC OS=Dictyostelium discoideum OX=44689 GN=ifkC PE=3 SV=1 LCR:begin=583, end=624
+ESGSESEESQSESESESSESEESSESEESSESSESEESEESE
+>sp|Q99457|NP1L3_HUMAN Nucleosome assembly protein 1-like 3 OS=Homo sapiens OX=9606 GN=NAP1L3 PE=1 SV=2 LCR:begin=23, end=69
+SSTSDSGEESDSSSSSSSTSDSSSSSSTSGSSSGSGSSSSSSGSTSS
+>sp|Q2H7G2|KYNU2_CHAGB Kynureninase 2 OS=Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) OX=306901 GN=BNA5-2 PE=3 SV=1 LCR:begin=339, end=356
+GGGGSGGVGGGRGEGGDG
+>sp|Q0DLG0|FH14_ORYSJ Formin-like protein 14 OS=Oryza sativa subsp. japonica OX=39947 GN=FH14 PE=2 SV=1 LCR:begin=94, end=108
+PPPPPPLLPTPPPPP
+>sp|P85154|CO1A2_MAMAE Collagen alpha-2(I) chain OS=Mammut americanum OX=39053 PE=1 SV=3 LCR:begin=1004, end=1027
+GSQGPSGPPGPPGPPGPPGPSGGG
+>sp|Q4FZC9|SYNE3_MOUSE Nesprin-3 OS=Mus musculus OX=10090 GN=Syne3 PE=1 SV=1 LCR:begin=927, end=944
+LPLQLLLLLFLLLLFLLP
+>sp|Q55FG3|VP13C_DICDI Putative vacuolar protein sorting-associated protein 13C OS=Dictyostelium discoideum OX=44689 GN=tipC PE=3 SV=1 LCR:begin=2995, end=3026
+QQQQQLQQQQQQQQQQQQQQQQQQQQQQQQQQ
+>sp|Q28PY9|RS2_JANSC 30S ribosomal protein S2 OS=Jannaschia sp. (strain CCS1) OX=290400 GN=rpsB PE=3 SV=1 LCR:begin=246, end=275
+EEAIAEEAPAAAEEAPAAEPAAEETPAAEA
+>sp|Q9VCA8|ANKHM_DROME Ankyrin repeat and KH domain-containing protein mask OS=Drosophila melanogaster OX=7227 GN=mask PE=1 SV=2 LCR:begin=2741, end=2758
+DDDDASDKDDDSDKDDED
+>sp|A8WT19|CWC22_CAEBR Pre-mRNA-splicing factor CWC22 homolog OS=Caenorhabditis briggsae OX=6238 GN=let-858 PE=3 SV=2 LCR:begin=728, end=764
+SSSDSSSDSSDSSDSSDSSGSSDSSDDSSSSSSSDSS
+>sp|Q8IVU1|IGDC3_HUMAN Immunoglobulin superfamily DCC subclass member 3 OS=Homo sapiens OX=9606 GN=IGDCC3 PE=2 SV=2 LCR:begin=12, end=31
+PAPLWPRLLLPLLLLLLPAP
+>sp|Q24708|CSW_DROVI Tyrosine-protein phosphatase corkscrew (Fragment) OS=Drosophila virilis OX=7244 GN=csw PE=3 SV=1 LCR:begin=693, end=715
+AATAAAAAALASAAAPAATTTAA
+>sp|A0A1S6EK92|MO2_MOROL Morintide mO2 OS=Moringa oleifera OX=3735 PE=1 SV=1 LCR:begin=62, end=76
+GGGGAGGAGGGAGGG
+>sp|D3ZVU9|NAT8L_RAT N-acetylaspartate synthetase OS=Rattus norvegicus OX=10116 GN=Nat8l PE=1 SV=1 LCR:begin=39, end=59
+PPLPAAPGPAAAPPPAAGPQP
+>sp|Q7TN75|PEG10_MOUSE Retrotransposon-derived protein PEG10 OS=Mus musculus OX=10090 GN=Peg10 PE=1 SV=2 LCR:begin=924, end=950
+QPPVPQYPPPQPPPPPPPPPPPPPPPP
+>sp|Q8K3T3|PER1_SPAJD Period circadian protein homolog 1 OS=Spalax judaei OX=134510 GN=PER1 PE=2 SV=1 LCR:begin=1052, end=1067
+SGSLGSGLGSGSGSGS
+>sp|P49312|ROA1_MOUSE Heterogeneous nuclear ribonucleoprotein A1 OS=Mus musculus OX=10090 GN=Hnrnpa1 PE=1 SV=2 LCR:begin=302, end=316
+GGYGGSSSSSSYGSG
+>sp|Q9CQ84|UBL4B_MOUSE Ubiquitin-like protein 4B OS=Mus musculus OX=10090 GN=Ubl4b PE=2 SV=1 LCR:begin=161, end=184
+GGGGGGGGTGGEGGGKKEEEEGEE
+>sp|D4P3R7|CFA74_CHLRE Cilia- and flagella-associated protein 74 OS=Chlamydomonas reinhardtii OX=3055 GN=CFAP74 PE=1 SV=1 LCR:begin=773, end=786
+ATVAAAAAAAAATA
+>sp|F4INP9|QWRF4_ARATH QWRF motif-containing protein 4 OS=Arabidopsis thaliana OX=3702 GN=QWRF4 PE=3 SV=1 LCR:begin=309, end=323
+SPSRSSFSSSSSSNS
+>sp|Q82DQ6|RL7_STRAW 50S ribosomal protein L7/L12 OS=Streptomyces avermitilis (strain ATCC 31267 / DSM 46492 / JCM 5070 / NBRC 14893 / NCIMB 12804 / NRRL 8165 / MA-4680) OX=227882 GN=rplL PE=3 SV=1 LCR:begin=36, end=55
+AAAAVAAAPAGPVAAAEAAE
+>sp|P69798|PTNAB_ECOL6 PTS system mannose-specific EIIAB component OS=Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC) OX=199310 GN=manX PE=3 SV=2 LCR:begin=135, end=154
+KAAPAPAAAAPKAAPTPAKP
+>sp|Q8TFG4|YL54_SCHPO Uncharacterized protein PB18E9.04c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAPB18E9.04c PE=3 SV=1 LCR:begin=646, end=672
+TSTTFTSSTSISTSSSSTATSSTSFAS
+>sp|P70390|SHOX2_MOUSE Short stature homeobox protein 2 OS=Mus musculus OX=10090 GN=Shox2 PE=2 SV=1 LCR:begin=56, end=89
+AAGGGGGAGGGGGGGGGGGGGAGGGGAGGGAGGG
+>sp|Q54QD5|NEK1_DICDI Probable serine/threonine-protein kinase nek1 OS=Dictyostelium discoideum OX=44689 GN=nek1 PE=3 SV=1 LCR:begin=365, end=423
+NNNNNNNDNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNDKNNNINNNVNYN
+>sp|P12830|CADH1_HUMAN Cadherin-1 OS=Homo sapiens OX=9606 GN=CDH1 PE=1 SV=3 LCR:begin=709, end=730
+ILGILGGILALLILILLLLLFL
+>sp|Q55GR7|ELMOF_DICDI ELMO domain-containing protein F OS=Dictyostelium discoideum OX=44689 GN=elmoF PE=4 SV=1 LCR:begin=766, end=779
+TTTTTNTTTATTTT
+>sp|Q1ZXE6|CDC16_DICDI Anaphase-promoting complex subunit 6 OS=Dictyostelium discoideum OX=44689 GN=anapc6 PE=3 SV=1 LCR:begin=401, end=433
+NSNNNTFGANNNNNNNNNNNNNNNNNNNNNSNN
+>sp|Q54IT1|Y7983_DICDI Putative uncharacterized protein DDB_G0288537 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0288537 PE=4 SV=1 LCR:begin=249, end=277
+NGNGCNLNGNNNNNNNNNNNNNNSNSNSN
+>sp|Q6L8G8|KRA57_HUMAN Keratin-associated protein 5-7 OS=Homo sapiens OX=9606 GN=KRTAP5-7 PE=1 SV=1 LCR:begin=1, end=35
+GCCGCSEGCGSGCGGCGSGCGGCGSGCGGCGSSCC
+>sp|P18160|SPLA_DICDI Dual specificity protein kinase splA OS=Dictyostelium discoideum OX=44689 GN=splA PE=1 SV=3 LCR:begin=446, end=513
+QQQQIQHQIQLQQIQQQQQQQQQIQQQQLQQQQQIQQQQIQQQQQQIQQQQQQQQQQQQQQQQLQQIQ
+>sp|Q55CZ1|GDT2_DICDI Probable serine/threonine-protein kinase gdt2 OS=Dictyostelium discoideum OX=44689 GN=gdt2 PE=2 SV=1 LCR:begin=1606, end=1636
+NNKNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+>sp|Q6L5C4|P2C52_ORYSJ Probable protein phosphatase 2C 52 OS=Oryza sativa subsp. japonica OX=39947 GN=Os05g0587100 PE=2 SV=1 LCR:begin=34, end=50
+AAAAAGAGAGAAEEGAA
+>sp|M2YIY2|AFLR_DOTSN Dothistromin biosynthesis regulatory protein aflR OS=Dothistroma septosporum (strain NZE10 / CBS 128990) OX=675120 GN=aflR PE=3 SV=1 LCR:begin=75, end=89
+QKQQQQRQQQQQSQQ
+>sp|Q54EB4|Y4006_DICDI Putative uncharacterized transmembrane protein DDB_G0291600 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0291600 PE=4 SV=1 LCR:begin=290, end=301
+KNKNNNNNNNNN
+>sp|Q6P7Y3|PR38B_DANRE Pre-mRNA-splicing factor 38B OS=Danio rerio OX=7955 GN=prpf38b PE=2 SV=1 LCR:begin=326, end=343
+ERRRSRSRERRRSRSTSR
+>sp|Q99013|ANPB_PSEAM Ice-structuring protein B OS=Pseudopleuronectes americanus OX=8265 PE=1 SV=1 LCR:begin=49, end=68
+AAAAAALTAANAAAAAKLTA
+>sp|Q9NVW2|RNF12_HUMAN E3 ubiquitin-protein ligase RLIM OS=Homo sapiens OX=9606 GN=RLIM PE=1 SV=3 LCR:begin=441, end=489
+SRSGRGGSGGGSSSGSSSSSSSSSSSSSSSSSSSSPSSSSGGESSETSS
+>sp|Q4V8F9|HSDL2_RAT Hydroxysteroid dehydrogenase-like protein 2 OS=Rattus norvegicus OX=10116 GN=Hsdl2 PE=2 SV=1 LCR:begin=365, end=403
+QEQPQQQEKPQPQQQPQQQPQQRPQQRPQPQPQPQPLLQ
+>sp|Q54YU6|CRTF_DICDI CAR1 transcription factor OS=Dictyostelium discoideum OX=44689 GN=CRTF PE=2 SV=1 LCR:begin=374, end=390
+NNNNNNGNSNSNNGNNN
+>sp|B4LV24|AFFL_DROVI AF4/FMR2 family member lilli OS=Drosophila virilis OX=7244 GN=lilli PE=3 SV=2 LCR:begin=886, end=905
+AAAASVMPVAAAAAAAAAPA
+>sp|Q55FW8|FAN1_DICDI Fanconi-associated nuclease 1 homolog OS=Dictyostelium discoideum OX=44689 GN=mtmr15 PE=3 SV=1 LCR:begin=730, end=744
+QIQTQIQTQIQTQIQ
+>sp|Q5R408|NFL_PONAB Neurofilament light polypeptide OS=Pongo abelii OX=9601 GN=NEFL PE=2 SV=2 LCR:begin=498, end=528
+KEESEEAKEEEEGGEGEEGEETKEAEEEEKK
+>sp|Q9W0K4|BAB2_DROME Protein bric-a-brac 2 OS=Drosophila melanogaster OX=7227 GN=bab2 PE=1 SV=2 LCR:begin=513, end=541
+ASALAAAAAGAGAAGAGGAGSGSGSGASA
+>sp|Q5KSV0|GTAK_DICDI GATA zinc finger domain-containing protein 11 OS=Dictyostelium discoideum OX=44689 GN=gtaK PE=2 SV=1 LCR:begin=129, end=166
+NNNNNNNNNNNNNNNNNSNNNSSNNNNNNNNNNNFNNS
+>sp|Q6SZ65|OTP_LYTVA Homeobox protein orthopedia OS=Lytechinus variegatus OX=7654 GN=Otp PE=2 SV=1 LCR:begin=69, end=93
+GGGSEGNGIGGGGGGGGGMVGDGTG
+>sp|Q89DJ8|RL25_BRADU 50S ribosomal protein L25 OS=Bradyrhizobium diazoefficiens (strain JCM 10833 / BCRC 13528 / IAM 13628 / NBRC 14792 / USDA 110) OX=224911 GN=rplY PE=3 SV=1 LCR:begin=195, end=233
+AAAAAAAGGAAPAAAAPAAGAAAPAAAAPAAAAKAPAGG
+>sp|Q6IFV1|K1C14_RAT Keratin, type I cytoskeletal 14 OS=Rattus norvegicus OX=10116 GN=Krt14 PE=2 SV=1 LCR:begin=56, end=113
+GSGYGGGFSSSSFGGGFGGGIGGGIGGGLGGGIGGGFGGGIGGGFGGGIGSGFGGGLG
+>sp|Q96S94|CCNL2_HUMAN Cyclin-L2 OS=Homo sapiens OX=9606 GN=CCNL2 PE=1 SV=1 LCR:begin=460, end=473
+SRSRSSSRSRSRSR
+>sp|Q4WMI1|BFR2_ASPFU Protein bfr2 OS=Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100) OX=330879 GN=bfr2 PE=3 SV=1 LCR:begin=92, end=108
+SSDEEEDSEDEEEEDSE
+>sp|Q54CY5|FOLC_DICDI Putative folylpolyglutamate synthase OS=Dictyostelium discoideum OX=44689 GN=folC PE=3 SV=1 LCR:begin=449, end=470
+NTTTTTTTTTTTTTTNNNDDDT
+>sp|Q9R9N3|ODP2_RHIME Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex OS=Rhizobium meliloti (strain 1021) OX=266834 GN=pdhC PE=3 SV=1 LCR:begin=180, end=196
+GGAAKPAGAPAAAPAPA
+>sp|Q94464|DYNA_DICDI Dynamin-A OS=Dictyostelium discoideum OX=44689 GN=dymA PE=1 SV=2 LCR:begin=550, end=568
+NMNVNQQNMNQQNMNQQNQ
+>sp|O00841|CUDA_DICDI Putative transcriptional regulator cudA OS=Dictyostelium discoideum OX=44689 GN=cudA PE=1 SV=2 LCR:begin=46, end=63
+PHLHHLQQQQQQPQQQQL
+>sp|Q9VML1|DSF_DROME Protein dissatisfaction OS=Drosophila melanogaster OX=7227 GN=dsf PE=1 SV=1 LCR:begin=102, end=146
+HHHHHHAAAAAAAAHHAAAAHHHHHHHHHAHAAAAHHAAVAAAAA
+>sp|J9VGT6|CHS8_CRYNH Chitin synthase 8 OS=Cryptococcus neoformans var. grubii serotype A (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487) OX=235443 GN=CHS8 PE=3 SV=2 LCR:begin=25, end=41
+PPQPQPYPPQPYPPQQP
+>sp|Q9QJ16|IE2_HHV6Z Immediate-early protein 2 OS=Human herpesvirus 6B (strain Z29) OX=36351 GN=U90/U86 PE=3 SV=1 LCR:begin=742, end=783
+RASSRASSRASSRASSRASSRASSRASSRASSRTSSRASSRA
+>sp|P08640|FLO11_YEAST Flocculation protein FLO11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=FLO11 PE=1 SV=2 LCR:begin=961, end=986
+TVTTTVPTTTTTSVTTSSTTTITTTV
+>sp|P0CB66|MED14_DICDI Putative mediator of RNA polymerase II transcription subunit 14 OS=Dictyostelium discoideum OX=44689 GN=med14 PE=3 SV=1 LCR:begin=1384, end=1405
+QQQQQQQQQQQQQQQQQQQQQQ
+>sp|Q9FEC4|RAA3_CHLRE Trans-splicing factor Raa3, chloroplastic OS=Chlamydomonas reinhardtii OX=3055 GN=RAA3 PE=1 SV=1 LCR:begin=352, end=366
+NSSSNSNTSTSSTSN
+>sp|Q5UR10|YL647_MIMIV Uncharacterized protein L647 OS=Acanthamoeba polyphaga mimivirus OX=212035 GN=MIMI_L647 PE=1 SV=1 LCR:begin=129, end=145
+DKDDDKKKKKKDDKKDD
+>sp|Q182E7|DNAJ_CLOD6 Chaperone protein DnaJ OS=Clostridioides difficile (strain 630) OX=272563 GN=dnaJ PE=3 SV=1 LCR:begin=76, end=94
+GQGGFGGQGGFGGQGFGGF
+>sp|A6WXU5|RS16_OCHA4 30S ribosomal protein S16 OS=Ochrobactrum anthropi (strain ATCC 49188 / DSM 6882 / JCM 21032 / NBRC 15819 / NCTC 12168) OX=439375 GN=rpsP PE=3 SV=1 LCR:begin=108, end=131
+AEEEAAAKAAEAAAAAAAPAEEAA
+>sp|P08399|PHXR5_MOUSE Putative per-hexamer repeat protein 5 OS=Mus musculus OX=10090 GN=Phxr5 PE=5 SV=2 LCR:begin=360, end=391
+TGTATGTGTGTDTGTGTGTGTGTGTGSGSGTA
+>sp|Q6VN19|RBP10_MOUSE Ran-binding protein 10 OS=Mus musculus OX=10090 GN=Ranbp10 PE=1 SV=2 LCR:begin=407, end=424
+PSSSSSSSSSSSSSSPSS
+>sp|A8HQ54|DRC9_CHLRE Dynein regulatory complex protein 9 OS=Chlamydomonas reinhardtii OX=3055 GN=DRC9 PE=1 SV=1 LCR:begin=357, end=372
+GGGKKGAKKGGAKKKK
+>sp|P42346|MTOR_RAT Serine/threonine-protein kinase mTOR OS=Rattus norvegicus OX=10116 GN=Mtor PE=1 SV=1 LCR:begin=1825, end=1843
+TNATTTATTAASAAAATST
+>sp|P51991|ROA3_HUMAN Heterogeneous nuclear ribonucleoprotein A3 OS=Homo sapiens OX=9606 GN=HNRNPA3 PE=1 SV=2 LCR:begin=286, end=315
+GGYGGGGPGYGNQGGGYGGGGGYDGYNEGG
+>sp|A7GHV1|PBPA_CLOBL Penicillin-binding protein 1A OS=Clostridium botulinum (strain Langeland / NCTC 10281 / Type F) OX=441772 GN=pbpA PE=3 SV=1 LCR:begin=794, end=807
+NNNNNNNNNDNNNN
+>sp|Q48919|APA_MYCAV Alanine and proline-rich secreted protein Apa OS=Mycobacterium avium OX=1764 GN=apa PE=3 SV=1 LCR:begin=336, end=359
+APAAPAPAAPGAPAAPGAPAPEPG
+>sp|B5F6V2|OBG_SALA4 GTPase Obg OS=Salmonella agona (strain SL483) OX=454166 GN=obg PE=3 SV=1 LCR:begin=364, end=381
+EEDADDDWDDDWDEDDEE
+>sp|A8ITB0|MOC1_CHLRE Holliday junction resolvase MOC1, chloroplastic OS=Chlamydomonas reinhardtii OX=3055 GN=MOC1 PE=3 SV=2 LCR:begin=830, end=855
+SVGSSSVGSSSVGSSSGGGGGGGGGV
+>sp|Q92L39|RL19_RHIME 50S ribosomal protein L19 OS=Rhizobium meliloti (strain 1021) OX=266834 GN=rplS PE=3 SV=1 LCR:begin=145, end=176
+AAAQALAAEKAAAEAAEAKAAEEAKAAEAAAE
+>sp|Q12191|BUG1_YEAST Binder of USO1 and GRH1 protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=BUG1 PE=1 SV=1 LCR:begin=25, end=39
+KKKKNKKNKGKKNKN
+>sp|Q55EA1|ZNTD_DICDI Protein zntD OS=Dictyostelium discoideum OX=44689 GN=zntD PE=2 SV=1 LCR:begin=449, end=477
+GIGNSGNIGSNNNNNNNGGGGGGGGNSNI
+>sp|Q05746|HSP70_PLACB Heat shock 70 kDa protein OS=Plasmodium cynomolgi (strain Berok) OX=5828 PE=2 SV=1 LCR:begin=631, end=658
+GGMPGGMPGGMPGGMPGGMPGGGMPGGM
+>sp|Q45760|CR5AA_BACUD Pesticidal crystal protein Cry5Aa OS=Bacillus thuringiensis subsp. darmstadiensis OX=132264 GN=cry5Aa PE=2 SV=1 LCR:begin=780, end=795
+NNGGGDGGGNGGGDGG
+>sp|Q555C6|VP13B_DICDI Putative vacuolar protein sorting-associated protein 13B OS=Dictyostelium discoideum OX=44689 GN=vps13B PE=3 SV=1 LCR:begin=5364, end=5424
+NLNNSLNNINNNNNNLNNDNNKNKNNNDKNKNNDKNNKNNNDKNNNDNNNNNNNNNNENQN
+>sp|P0CR79|HSE1_CRYNB Class E vacuolar protein-sorting machinery protein HSE1 OS=Cryptococcus neoformans var. neoformans serotype D (strain B-3501A) OX=283643 GN=HSE1 PE=3 SV=1 LCR:begin=438, end=457
+YQQYPQQPQQQPQPYAQAPY
+>sp|O10442|CORE5_ADEM1 Core-capsid bridging protein OS=Murine adenovirus A serotype 1 OX=10530 GN=L2 PE=3 SV=1 LCR:begin=153, end=168
+SPPRRRRRRRRSPRPR
+>sp|Q24266|BTD_DROME Transcription factor btd OS=Drosophila melanogaster OX=7227 GN=btd PE=2 SV=1 LCR:begin=197, end=230
+SSSPSSSAASAAAAAAAAAAAAADLGAAAVASAA
+>sp|O54931|AKAP2_MOUSE A-kinase anchor protein 2 OS=Mus musculus OX=10090 GN=Akap2 PE=1 SV=3 LCR:begin=273, end=311
+QQEQLQLQQQQQQQLQQQQLQQQQLQQQQLQQQLQQQQL
+>sp|Q54KD0|Y7407_DICDI TPR repeat-containing protein DDB_G0287407 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0287407 PE=4 SV=1 LCR:begin=719, end=739
+SNSSSSSSSSMFSTTSTSSVS
+>sp|P45447|E78C_DROME Ecdysone-induced protein 78C OS=Drosophila melanogaster OX=7227 GN=Eip78C PE=2 SV=4 LCR:begin=177, end=205
+QQQQQRQHTHQQQQQQQQQQQHPGQQQHQ
+>sp|Q6CFS5|CBK1_YARLI Serine/threonine-protein kinase CBK1 OS=Yarrowia lipolytica (strain CLIB 122 / E 150) OX=284591 GN=CBK1 PE=3 SV=1 LCR:begin=42, end=64
+QQQQFNQQQYNSQQQYQQQQHSQ
+>sp|P21750|SALA_DROME Protein spalt-accessory OS=Drosophila melanogaster OX=7227 GN=sala PE=2 SV=2 LCR:begin=122, end=141
+HHREHHEHHGHHEHHGHHRH
+>sp|Q3JXI6|DNAA_BURP1 Chromosomal replication initiator protein DnaA OS=Burkholderia pseudomallei (strain 1710b) OX=320372 GN=dnaA PE=3 SV=1 LCR:begin=128, end=153
+NAATAAAVAAAQAAQAAQANAAALNA
+>sp|Q3ZBP3|RBMS1_BOVIN RNA-binding motif, single-stranded-interacting protein 1 OS=Bos taurus OX=9913 GN=RBMS1 PE=2 SV=1 LCR:begin=36, end=53
+PSPSTTSSNNNSSSSSNS
+>sp|A5CR04|TIG_CLAM3 Trigger factor OS=Clavibacter michiganensis subsp. michiganensis (strain NCPPB 382) OX=443906 GN=tig PE=3 SV=1 LCR:begin=446, end=463
+APAEEAAEAPAAEEAPAE
+>sp|Q54S77|VPS15_DICDI Probable serine/threonine-protein kinase vps15 OS=Dictyostelium discoideum OX=44689 GN=vps15 PE=3 SV=1 LCR:begin=366, end=425
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNQTTTTTTNTNINTTQQQQQQQQQQQQQ
+>sp|P54637|PTP3_DICDI Tyrosine-protein phosphatase 3 OS=Dictyostelium discoideum OX=44689 GN=ptpC PE=2 SV=2 LCR:begin=381, end=402
+SGSGSASTTSTSTSSSNSMSSS
+>sp|Q54PK8|Y4491_DICDI Probable serine/threonine-protein kinase DDB_G0284491 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0284491 PE=3 SV=1 LCR:begin=806, end=825
+YNNNNNNYNNNNNNKIINNN
+>sp|Q08163|CAP1_RAT Adenylyl cyclase-associated protein 1 OS=Rattus norvegicus OX=10116 GN=Cap1 PE=1 SV=3 LCR:begin=219, end=245
+PSGPSVGSGPPPPPPGPPPPPVPTSSG
+>sp|P07199|CENPB_HUMAN Major centromere autoantigen B OS=Homo sapiens OX=9606 GN=CENPB PE=1 SV=2 LCR:begin=454, end=468
+DSDEEEEEDEESSSE
+>sp|L8FKX3|ESPB_MYCSE ESX-1 secretion-associated protein EspB OS=Mycolicibacterium smegmatis (strain MKD8) OX=1214915 GN=espB PE=3 SV=1 LCR:begin=413, end=427
+GGGGGGGVGGGGGGG
+>sp|Q9FKL8|XTH13_ARATH Putative xyloglucan endotransglucosylase/hydrolase protein 13 OS=Arabidopsis thaliana OX=3702 GN=XTH13 PE=3 SV=1 LCR:begin=8, end=21
+SLLLLSLLLLISLS
+>sp|Q0VRW6|CH60_ALCBS 60 kDa chaperonin OS=Alcanivorax borkumensis (strain ATCC 700651 / DSM 11573 / NCIMB 13689 / SK2) OX=393595 GN=groL PE=3 SV=1 LCR:begin=534, end=547
+MGGMGGMGGMGGMM
+>sp|P54785|MOT3_YEAST Transcriptional activator/repressor MOT3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MOT3 PE=1 SV=1 LCR:begin=137, end=156
+NNSTSNNNNNNNNNNNNNNN
+>sp|A2BEA6|ARI3A_DANRE AT-rich interactive domain-containing protein 3A OS=Danio rerio OX=7955 GN=arid3a PE=1 SV=1 LCR:begin=416, end=429
+AAQAAAAAAVQAAA
+>sp|A0PQC4|IF2_MYCUA Translation initiation factor IF-2 OS=Mycobacterium ulcerans (strain Agy99) OX=362242 GN=infB PE=3 SV=1 LCR:begin=283, end=309
+APGGGFRGRPGGGGGGGRPGQRGGAAG
+>sp|Q54TK4|Y1809_DICDI Rap-GAP domain-containing protein DDB_G0281809 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0281809 PE=4 SV=1 LCR:begin=933, end=949
+SGSKSNSSSSSSSQPSS
+>sp|Q54XJ4|Y8901_DICDI Probable serine/threonine-protein kinase DDB_G0278901 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0278901 PE=3 SV=1 LCR:begin=469, end=495
+AAAATTTTTTTTTTTTNAATNTTTTTT
+>sp|Q9W0K7|BAB1_DROME Protein bric-a-brac 1 OS=Drosophila melanogaster OX=7227 GN=bab1 PE=2 SV=2 LCR:begin=467, end=491
+GGGGVGGGGVGGGGAGGVGSGGGSS
+>sp|P55802|LPP_MYCMS Uncharacterized lipoprotein lpp OS=Mycoplasma mycoides subsp. mycoides SC (strain PG1) OX=272632 GN=lpp PE=3 SV=2 LCR:begin=59, end=73
+NNNNNSNNNSNSNNN
+>sp|Q701N4|KRA52_HUMAN Keratin-associated protein 5-2 OS=Homo sapiens OX=9606 GN=KRTAP5-2 PE=1 SV=1 LCR:begin=8, end=47
+GCGSGCGGCGSSCGGCGSGCGGCGSGRGGCGSGCGGCSSS
+>sp|P35527|K1C9_HUMAN Keratin, type I cytoskeletal 9 OS=Homo sapiens OX=9606 GN=KRT9 PE=1 SV=3 LCR:begin=10, end=30
+LSRSGGGGGGGLGSGGSIRSS
+>sp|Q54IT1|Y7983_DICDI Putative uncharacterized protein DDB_G0288537 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0288537 PE=4 SV=1 LCR:begin=575, end=641
+QNQKNNQQNQNQNQNQNQNQNQNQNQNQNQNQNQNQNQNQNQNQNQNQNQNQNQNQQNQHQQNQPNN
+>sp|Q6SW48|UL95_HCMVM Protein UL95 OS=Human cytomegalovirus (strain Merlin) OX=295027 GN=UL95 PE=3 SV=1 LCR:begin=380, end=396
+AGGGGGGGSGGGGGAGA
+>sp|M3XQV7|BTBD3_MUSPF BTB/POZ domain-containing protein 3 OS=Mustela putorius furo OX=9669 GN=BTBD3 PE=2 SV=2 LCR:begin=35, end=49
+GGGGGGSSSSSSSSS
+>sp|Q54U49|MED12_DICDI Putative mediator of RNA polymerase II transcription subunit 12 OS=Dictyostelium discoideum OX=44689 GN=med12 PE=3 SV=2 LCR:begin=212, end=243
+QQPIQQQIQQQPQIQQQQIPQPQIQIPSQIQQ
+>sp|Q54MH6|RBBE_DICDI Retinoblastoma-binding-like protein E OS=Dictyostelium discoideum OX=44689 GN=rbbE PE=3 SV=1 LCR:begin=470, end=486
+SSSTTSNSTISSSSSPS
+>sp|Q54U49|MED12_DICDI Putative mediator of RNA polymerase II transcription subunit 12 OS=Dictyostelium discoideum OX=44689 GN=med12 PE=3 SV=2 LCR:begin=1251, end=1267
+NNNNNNKNKNNNKQSNN
+>sp|Q8MVR1|GBPC_DICDI Cyclic GMP-binding protein C OS=Dictyostelium discoideum OX=44689 GN=gbpC PE=1 SV=1 LCR:begin=1200, end=1219
+LNLNGINNNNNNSNNNNNSI
+>sp|Q59Y46|MFG1_CANAL Morphogenetic regulator of filamentous growth protein 1 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=MFG1 PE=3 SV=2 LCR:begin=686, end=714
+SNNNSNSNNSNNNNNNNSNNNNNNNNNNN
+>sp|Q15672|TWST1_HUMAN Twist-related protein 1 OS=Homo sapiens OX=9606 GN=TWIST1 PE=1 SV=1 LCR:begin=74, end=98
+GKKSAGCGGGGGAGGGGGSSSGGGS
+>sp|Q2HJ52|TBP_BOVIN TATA-box-binding protein OS=Bos taurus OX=9913 GN=TBP PE=2 SV=1 LCR:begin=54, end=83
+QQRQQQQQQQQQQQQQQQQQQQAAVAAVQQ
+>sp|B1W3N7|FOLD_STRGG Bifunctional protein FolD OS=Streptomyces griseus subsp. griseus (strain JCM 4626 / NBRC 13350) OX=455632 GN=folD PE=3 SV=1 LCR:begin=276, end=291
+EAAERAAAEAADAAAA
+>sp|Q3UHC7|DAB2P_MOUSE Disabled homolog 2-interacting protein OS=Mus musculus OX=10090 GN=Dab2ip PE=1 SV=1 LCR:begin=919, end=937
+PPPPPPPPPPAPRGRTPPT
+>sp|Q7Z417|NUFP2_HUMAN Nuclear fragile X mental retardation-interacting protein 2 OS=Homo sapiens OX=9606 GN=NUFIP2 PE=1 SV=1 LCR:begin=372, end=385
+SSVSPTSSSSSSSS
+>sp|Q03251|RBG8_ARATH Glycine-rich RNA-binding protein 8 OS=Arabidopsis thaliana OX=3702 GN=RBG8 PE=1 SV=1 LCR:begin=83, end=123
+SRGSGGGGGGRGGSGGGYRSGGGGGYSGGGGGGYSGGGGGG
+>sp|Q4V3C1|MED8_ARATH Mediator of RNA polymerase II transcription subunit 8 OS=Arabidopsis thaliana OX=3702 GN=MED8 PE=1 SV=1 LCR:begin=313, end=332
+QLPQHQQQQLLAQQQQQLRQ
+>sp|P25777|ORYB_ORYSJ Oryzain beta chain OS=Oryza sativa subsp. japonica OX=39947 GN=Os04g0670200 PE=1 SV=2 LCR:begin=362, end=381
+PPKPSPTPPTPPTPPPPSAP
+>sp|Q8BT18|ARMD4_MOUSE Armadillo-like helical domain-containing protein 4 OS=Mus musculus OX=10090 GN=Armh4 PE=2 SV=2 LCR:begin=606, end=639
+ESEEVEDDEDEEDEEDEEEEEEDEEDEEDEEDKE
+>sp|Q54ER4|ATR1_DICDI Probable serine/threonine-protein kinase atr1 OS=Dictyostelium discoideum OX=44689 GN=atr1 PE=3 SV=1 LCR:begin=2484, end=2503
+IINSNNNSSNNSSSNININN
+>sp|Q869V1|NRAM1_DICDI Metal transporter nramp1 homolog OS=Dictyostelium discoideum OX=44689 GN=nramp1 PE=2 SV=1 LCR:begin=13, end=33
+VNKNNNNNNDNNNNNNVDEEN
+>sp|Q29RR1|LRC41_BOVIN Leucine-rich repeat-containing protein 41 OS=Bos taurus OX=9913 GN=LRRC41 PE=2 SV=1 LCR:begin=357, end=375
+PSAPATTSSASASSSTSSS
+>sp|Q9GLP9|HSP1_AEPRU Sperm protamine P1 OS=Aepyprymnus rufescens OX=38598 GN=PRM1 PE=2 SV=3 LCR:begin=2, end=60
+RYRHSRSRSRSRYRRRRRRRSRYRSRRRRYRGSRRRRRSRRRRRRGYSRRRYSRRRRRY
+>sp|P16887|H2BS2_STRPU Histone H2B.2, sperm OS=Strongylocentrotus purpuratus OX=7668 PE=2 SV=2 LCR:begin=40, end=52
+RRRNVVRRRRRRR
+>sp|Q552X2|MED26_DICDI Putative mediator of RNA polymerase II transcription subunit 26 OS=Dictyostelium discoideum OX=44689 GN=med26 PE=3 SV=2 LCR:begin=1848, end=1890
+NNNNNNNNINNNNNIINNINNNNNNNMNNNNMGNMNNMGNMNN
+>sp|A3GF61|RIX1_PICST Pre-rRNA-processing protein RIX1 OS=Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545) OX=322104 GN=RIX1 PE=3 SV=2 LCR:begin=590, end=611
+ESVFEEEEEEEEEHEQEEKEIE
+>sp|P79780|SIAL_CHICK Bone sialoprotein 2 OS=Gallus gallus OX=9031 GN=IBSP PE=1 SV=1 LCR:begin=165, end=196
+AAEEEEDDDEEEEEEEEEEEEAEATTAAATTA
+>sp|Q12218|TIR4_YEAST Cell wall protein TIR4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TIR4 PE=1 SV=1 LCR:begin=226, end=248
+SSSEVVSSSVASSSSEVASSSVA
+>sp|O44664|NLP29_CAEEL Neuropeptide-like protein 29 OS=Caenorhabditis elegans OX=6239 GN=nlp-29 PE=2 SV=1 LCR:begin=24, end=69
+GYGGYGRGYGGYGGYGRGMYGGYGRGMYGGYGRGMYGGYGRGMYGG
+>sp|Q9VZ08|RME6_DROME Receptor-mediated endocytosis protein 6 homolog OS=Drosophila melanogaster OX=7227 GN=CG1657 PE=1 SV=2 LCR:begin=1206, end=1234
+ERDRERDRERERDRERDRERDRERDRERD
+>sp|Q9VAW5|LARP_DROME La-related protein 1 OS=Drosophila melanogaster OX=7227 GN=larp PE=1 SV=5 LCR:begin=1634, end=1658
+STRATTSAAATATTAASAATSTAAT
+>sp|Q12072|IOC2_YEAST ISWI one complex protein 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=IOC2 PE=1 SV=1 LCR:begin=782, end=795
+QPQQQQQQQQQQQP
+>sp|Q8IRU4|PDE4E_DROME cAMP-specific 3',5'-cyclic phosphodiesterase, isoform F OS=Drosophila melanogaster OX=7227 GN=dnc PE=3 SV=1 LCR:begin=628, end=644
+AASALSGAGGGGGGGGG
+>sp|P46974|RSF2_YEAST Respiration factor 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RSF2 PE=1 SV=1 LCR:begin=423, end=432
+QQQQQQQQQQ
+>sp|Q54TJ4|DDX27_DICDI Probable ATP-dependent RNA helicase ddx27 OS=Dictyostelium discoideum OX=44689 GN=ddx27 PE=3 SV=1 LCR:begin=124, end=153
+NDNDDDDEEVNEEEEEEEEEEDNENEKEIN
+>sp|Q8T2A1|COLB_DICDI Colossin-B OS=Dictyostelium discoideum OX=44689 GN=colB PE=3 SV=1 LCR:begin=44, end=61
+SSGSGSGSGGASGSGGGG
+>sp|B0CFQ6|CH601_ACAM1 60 kDa chaperonin 1 OS=Acaryochloris marina (strain MBIC 11017) OX=329726 GN=groL1 PE=3 SV=1 LCR:begin=533, end=557
+MGGMGGMGGMGGMGGMGGMGGMGMM
+>sp|Q54GH2|BZPR_DICDI Probable basic-leucine zipper transcription factor R OS=Dictyostelium discoideum OX=44689 GN=bzpR PE=3 SV=1 LCR:begin=484, end=548
+PPPSLPSSPPSPPSPPSPPPQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQLQQQQLQQQQLQQQ
+>sp|Q55FI4|NOP58_DICDI Nucleolar protein 58 OS=Dictyostelium discoideum OX=44689 GN=nop58 PE=3 SV=1 LCR:begin=456, end=477
+EEASSSDSDSSSDSDSSEEEKS
+>sp|Q8UVK2|SPT6H_DANRE Transcription elongation factor SPT6 OS=Danio rerio OX=7955 GN=supt6h PE=1 SV=1 LCR:begin=1578, end=1596
+YGYSGGSSAGGGGGSSSAY
+>sp|Q15517|CDSN_HUMAN Corneodesmosin OS=Homo sapiens OX=9606 GN=CDSN PE=1 SV=3 LCR:begin=59, end=79
+GDSSGFSSYSGSSSSGSSISS
+>sp|Q61091|FZD8_MOUSE Frizzled-8 OS=Mus musculus OX=10090 GN=Fzd8 PE=1 SV=2 LCR:begin=338, end=369
+GGAPGAGGAGGAGGAAAAGAGAAGAGASSPGA
+>sp|Q7TSC1|PRC2A_MOUSE Protein PRRC2A OS=Mus musculus OX=10090 GN=Prrc2a PE=1 SV=1 LCR:begin=646, end=668
+QRQQQEQLLKQQQQQQQWQQQQQ
+>sp|P54637|PTP3_DICDI Tyrosine-protein phosphatase 3 OS=Dictyostelium discoideum OX=44689 GN=ptpC PE=2 SV=2 LCR:begin=942, end=967
+SNNNKNNNNNSNNNNNNNNNKNSDNN
+>sp|O96433|CCNT_DROME Cyclin-T OS=Drosophila melanogaster OX=7227 GN=CycT PE=1 SV=2 LCR:begin=868, end=887
+KSEKKKKKDKHKHKEKDKSK
+>sp|P9WIG4|WA22_MYCTO WAG22 antigen OS=Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh) OX=83331 GN=wag22 PE=3 SV=1 LCR:begin=408, end=424
+SGSGGSGGAGGSGGPAG
+>sp|Q9R1C7|PR40A_MOUSE Pre-mRNA-processing factor 40 homolog A OS=Mus musculus OX=10090 GN=Prpf40a PE=1 SV=1 LCR:begin=271, end=293
+AAAEAAAAVVAAAAAAAAAANAN
+>sp|Q54IF2|Y0670_DICDI Probable serine/threonine-protein kinase DDB_G0288795 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0288795 PE=2 SV=1 LCR:begin=566, end=578
+QQQIQQQQQQHHQ
+>sp|Q0BI18|DNAK_BURCM Chaperone protein DnaK OS=Burkholderia ambifaria (strain ATCC BAA-244 / AMMD) OX=339670 GN=dnaK PE=3 SV=1 LCR:begin=609, end=632
+QAQQAGAAGAAGAAEGAAHAGGAQ
+>sp|Q9JHJ1|RAMP2_RAT Receptor activity-modifying protein 2 OS=Rattus norvegicus OX=10116 GN=Ramp2 PE=2 SV=1 LCR:begin=21, end=39
+RPAALRLPPLLLLLLLLLL
+>sp|Q86GC8|ACES_CULPI Acetylcholinesterase OS=Culex pipiens OX=7175 GN=ACHE1 PE=2 SV=2 LCR:begin=53, end=68
+SQSSSLSSSSQSSSSL
+>sp|Q54QV3|YAKA_DICDI Probable serine/threonine-protein kinase yakA OS=Dictyostelium discoideum OX=44689 GN=yakA PE=1 SV=1 LCR:begin=35, end=75
+NSNDNTNTTNNNNNNNNNNNNNNNNNNNNNNNNNINNNNNN
+>sp|B2AL40|NOP9_PODAN Nucleolar protein 9 OS=Podospora anserina (strain S / ATCC MYA-4624 / DSM 980 / FGSC 10383) OX=515849 GN=NOP9 PE=3 SV=1 LCR:begin=764, end=826
+EPVKVKKEKKEKKEKKEKKEKKEKKEKKEKKEKKEKKEKKEKKEKKEKKEKKEKKEKKPKVEE
+>sp|Q6CQX9|PAN1_KLULA Actin cytoskeleton-regulatory complex protein PAN1 OS=Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) OX=284590 GN=PAN1 PE=3 SV=1 LCR:begin=335, end=353
+QPQQMQQQQQQQQQQPQQQ
+>sp|Q550K8|Y7071_DICDI Probable serine/threonine-protein kinase DDB_G0277071 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0277071 PE=3 SV=1 LCR:begin=2394, end=2408
+QQQQQQQNQNIQQNN
+>sp|Q27450|CYP1_BRUMA Peptidyl-prolyl cis-trans isomerase 1 OS=Brugia malayi OX=6279 GN=CYP-1 PE=1 SV=1 LCR:begin=699, end=727
+RSRSRRRRSRSNGRRRRSSSRRSRSRDRR
+>sp|Q54IT1|Y7983_DICDI Putative uncharacterized protein DDB_G0288537 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0288537 PE=4 SV=1 LCR:begin=482, end=501
+SLSSSSSPSSSTSSSSNSLL
+>sp|G5ED89|DCP66_CAEEL Transcription factor dcp-66 OS=Caenorhabditis elegans OX=6239 GN=dcp-66 PE=2 SV=2 LCR:begin=644, end=674
+QAAQAQVARAQAAKAQAAQAQAAQAQAQAQA
+>sp|Q9NEW6|RSP3_CAEEL Probable splicing factor, arginine/serine-rich 3 OS=Caenorhabditis elegans OX=6239 GN=rsp-3 PE=1 SV=2 LCR:begin=100, end=115
+RGGDFRGGRGGGRGGG
+>sp|Q59XU5|RAS1_CANAL Ras-like protein 1 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=RAS1 PE=3 SV=2 LCR:begin=245, end=270
+PNQSQSQSQRQQQQQQQEPQQQSENQ
+>sp|Q95JC9|PRP_PIG Basic proline-rich protein OS=Sus scrofa OX=9823 PE=1 SV=2 LCR:begin=435, end=461
+KPKKKPPPPAGPPPPGPPSPGPAPPGA
+>sp|Q6IR42|ZCPW1_MOUSE Zinc finger CW-type PWWP domain protein 1 OS=Mus musculus OX=10090 GN=Zcwpw1 PE=1 SV=2 LCR:begin=442, end=461
+LEKEEKDLEEEKEEEEEKKD
+>sp|Q54Q69|DHKG_DICDI Hybrid signal transduction histidine kinase G OS=Dictyostelium discoideum OX=44689 GN=dhkG PE=3 SV=1 LCR:begin=384, end=418
+NLNYNINNSLNNLNNNNNNNNNSYNNNYNNNNNNN
+>sp|Q9FGW9|GTE10_ARATH Transcription factor GTE10 OS=Arabidopsis thaliana OX=3702 GN=GTE10 PE=1 SV=2 LCR:begin=447, end=473
+ESSSSSSSSSESGSSSSDSDSCSSSGS
+>sp|Q4R4J7|NUCL_MACFA Nucleolin OS=Macaca fascicularis OX=9541 GN=NCL PE=2 SV=3 LCR:begin=183, end=209
+SEDEDDEDDEDDEDEDDDDEEDDSEEE
+>sp|O13547|CCW14_YEAST Covalently-linked cell wall protein 14 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CCW14 PE=1 SV=1 LCR:begin=142, end=161
+SSSKASSTESSSSSSSSTKA
+>sp|Q9U256|PA2L_CAEEL Phospholipase A2-like protein Y52B11A.8 OS=Caenorhabditis elegans OX=6239 GN=Y52B11A.8 PE=1 SV=1 LCR:begin=18, end=32
+TPTTTTKSPPPTTTT
+>sp|B1YVN3|UVRC_BURA4 UvrABC system protein C OS=Burkholderia ambifaria (strain MC40-6) OX=398577 GN=uvrC PE=3 SV=1 LCR:begin=328, end=345
+AAAARDAASAASSASSAS
+>sp|Q01917|CDC2H_CRIFA Cell division control protein 2 homolog OS=Crithidia fasciculata OX=5656 GN=CRK PE=3 SV=1 LCR:begin=331, end=344
+QQQQLQAQQQQPQQ
+>sp|Q8ST25|GEFG_DICDI Ras guanine nucleotide exchange factor G OS=Dictyostelium discoideum OX=44689 GN=gefG PE=2 SV=1 LCR:begin=95, end=124
+NDTDNNDNLTTTTTTTTTTTTTTTTTNTIT
+>sp|P13839|SIAL_RAT Bone sialoprotein 2 OS=Rattus norvegicus OX=10116 GN=Ibsp PE=1 SV=1 LCR:begin=151, end=175
+ESDEEEEEEEEEENENEEAEVDENE
+>sp|P70206|PLXA1_MOUSE Plexin-A1 OS=Mus musculus OX=10090 GN=Plxna1 PE=1 SV=1 LCR:begin=2, end=19
+LPPLSSRTLLLLLLLLLR
+>sp|Q556Y8|DUSPR_DICDI Probable rhodanese domain-containing dual specificity protein phosphatase OS=Dictyostelium discoideum OX=44689 GN=DDB_G0273199 PE=3 SV=1 LCR:begin=115, end=135
+TISTTTITTTATTTTTTTTTS
+>sp|Q54U31|SHKD_DICDI Dual specificity protein kinase shkD OS=Dictyostelium discoideum OX=44689 GN=shkD PE=3 SV=1 LCR:begin=43, end=70
+QTPTPQNNNTNNNTNNNNNTNSNNSNQQ
+>sp|Q54F05|DHX8_DICDI ATP-dependent RNA helicase dhx8 OS=Dictyostelium discoideum OX=44689 GN=dhx8 PE=3 SV=1 LCR:begin=71, end=109
+KKKTTTTTNNNNNNNNNNTNTAKTTTTTTTTTTTTNNNN
+>sp|Q8NDB2|BANK1_HUMAN B-cell scaffold protein with ankyrin repeats OS=Homo sapiens OX=9606 GN=BANK1 PE=1 SV=3 LCR:begin=560, end=574
+EKEKKEEEKEQEEEE
+>sp|P12538|CAPSP_ADE05 Penton protein OS=Human adenovirus C serotype 5 OX=28285 GN=L2 PE=1 SV=1 LCR:begin=347, end=365
+AEEKRAEAEAAAEAAAPAA
+>sp|Q94AS9|CNGC4_ARATH Cyclic nucleotide-gated ion channel 4 OS=Arabidopsis thaliana OX=3702 GN=CNGC4 PE=2 SV=2 LCR:begin=24, end=52
+EEDNTEEEDEEEEEMEEIEEEEEEEEEED
+>sp|Q6ZN18|AEBP2_HUMAN Zinc finger protein AEBP2 OS=Homo sapiens OX=9606 GN=AEBP2 PE=1 SV=2 LCR:begin=94, end=112
+EDEDEEEDDEEEEDESSSS
+>sp|Q54YV4|LONM1_DICDI Lon protease homolog, mitochondrial 1 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0278063 PE=3 SV=3 LCR:begin=31, end=56
+NNNNNNNNNNNNNNNNNNNNNNNNNN
+>sp|P14777|INF24_UROAP Infection structure-specific protein 24 OS=Uromyces appendiculatus OX=5264 GN=INF24 PE=2 SV=2 LCR:begin=20, end=38
+GGGFGGGLGIGGGFGGFGG
+>sp|C3PMH6|RL7_RICAE 50S ribosomal protein L7/L12 OS=Rickettsia africae (strain ESF-5) OX=347255 GN=rplL PE=3 SV=1 LCR:begin=33, end=54
+AAAPVAVAAAGAAAPAAEAVAE
+>sp|O57043|CAPSD_HV19S Major capsid protein OS=Helminthosporium victoriae virus-190S OX=45237 PE=3 SV=2 LCR:begin=715, end=740
+PLPPAPGAAPPPPPGPPNGPPAGPPP
+>sp|Q5R679|FA98A_PONAB Protein FAM98A OS=Pongo abelii OX=9601 GN=FAM98A PE=2 SV=1 LCR:begin=450, end=483
+GGHHGDRGGGRGGRGGRGGRGGRAGQGGGWGGRG
+>sp|Q55FG3|VP13C_DICDI Putative vacuolar protein sorting-associated protein 13C OS=Dictyostelium discoideum OX=44689 GN=tipC PE=3 SV=1 LCR:begin=3211, end=3227
+NDPNNPNNPNNNPNNND
+>sp|Q6GZX3|002L_FRG3G Uncharacterized protein 002L OS=Frog virus 3 (isolate Goorha) OX=654924 GN=FV3-002L PE=4 SV=1 LCR:begin=262, end=294
+PPPPPPKPTPPTPPTPPTPPTPPTPPTPPTPRP
+>sp|Q9FWS3|C3H16_ARATH Zinc finger CCCH domain-containing protein 16 OS=Arabidopsis thaliana OX=3702 GN=CG1 PE=1 SV=2 LCR:begin=38, end=50
+QNQQQQQQQQQQN
+>sp|Q8BZ32|ASXL2_MOUSE Putative Polycomb group protein ASXL2 OS=Mus musculus OX=10090 GN=Asxl2 PE=1 SV=1 LCR:begin=624, end=636
+AAAAAAAAAAAAA
+>sp|Q7XT07|DUS3L_ORYSJ tRNA-dihydrouridine(47) synthase [NAD(P)(+)]-like OS=Oryza sativa subsp. japonica OX=39947 GN=Os04g0117600 PE=2 SV=2 LCR:begin=1, end=17
+AATAAAAAAAPPADPPD
+>sp|B2VGT5|OBG_ERWT9 GTPase Obg OS=Erwinia tasmaniensis (strain DSM 17950 / CIP 109463 / Et1/99) OX=465817 GN=obg PE=3 SV=1 LCR:begin=368, end=383
+EEDDDWDDDWDEDDEE
+>sp|Q9XV66|UNC80_CAEEL Protein unc-80 OS=Caenorhabditis elegans OX=6239 GN=unc-80 PE=2 SV=4 LCR:begin=1677, end=1694
+EKMQQEKEKEKEKEKEEK
+>sp|Q2UH00|PRP28_ASPOR Pre-mRNA-splicing ATP-dependent RNA helicase prp28 OS=Aspergillus oryzae (strain ATCC 42149 / RIB 40) OX=510516 GN=prp28 PE=3 SV=1 LCR:begin=46, end=63
+APPPPPEDLPPAPPPPEP
+>sp|P11686|PSPC_HUMAN Pulmonary surfactant-associated protein C OS=Homo sapiens OX=9606 GN=SFTPC PE=1 SV=2 LCR:begin=35, end=50
+LLIVVVVVVLIVVVIV
+>sp|Q24760|FRIZ_DROVI Frizzled OS=Drosophila virilis OX=7244 GN=fz PE=2 SV=3 LCR:begin=1, end=15
+LLQPLLLLLLPALLQ
+>sp|Q06A37|CHD7_CHICK Chromodomain-helicase-DNA-binding protein 7 OS=Gallus gallus OX=9031 GN=CHD7 PE=2 SV=1 LCR:begin=158, end=175
+PYQQQQQQPQPTQPPQAP
+>sp|B8ZKK3|RL7_STRPJ 50S ribosomal protein L7/L12 OS=Streptococcus pneumoniae (strain ATCC 700669 / Spain 23F-1) OX=561276 GN=rplL PE=3 SV=1 LCR:begin=34, end=51
+AAAPVAVAAADAADAGAA
+>sp|Q28527|KCNA4_MUSPF Potassium voltage-gated channel subfamily A member 4 OS=Mustela putorius furo OX=9669 GN=KCNA4 PE=2 SV=1 LCR:begin=122, end=136
+EEEEEEEDEEEEEEE
+>sp|Q9FK07|CLPX1_ARATH CLP protease regulatory subunit CLPX1, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=CLPX1 PE=2 SV=1 LCR:begin=122, end=140
+GRGGGGGGSSPGGPGNGTG
+>sp|Q2RQV2|RL7_RHORT 50S ribosomal protein L7/L12 OS=Rhodospirillum rubrum (strain ATCC 11170 / ATH 1.1.1 / DSM 467 / LMG 4362 / NCIB 8255 / S1) OX=269796 GN=rplL PE=3 SV=1 LCR:begin=33, end=52
+AAAPVAVAAVAAEAAAPVEE
+>sp|Q4P5P0|GAR1_USTMA H/ACA ribonucleoprotein complex subunit GAR1 OS=Ustilago maydis (strain 521 / FGSC 9021) OX=237631 GN=GAR1 PE=3 SV=1 LCR:begin=3, end=17
+RGGGRGGGDRGGRGG
+>sp|O46252|HUNB_DROPO Protein hunchback (Fragments) OS=Drosophila petalopeza OX=58309 GN=hb PE=3 SV=2 LCR:begin=57, end=78
+LQLEQYLKQQQQQQQLQQQQQQ
+>sp|Q53F19|NCBP3_HUMAN Nuclear cap-binding protein subunit 3 OS=Homo sapiens OX=9606 GN=NCBP3 PE=1 SV=2 LCR:begin=339, end=358
+EEPIEEEEEEEEEEEEEEEE
+>sp|Q64HY5|SP8_CHICK Transcription factor Sp8 OS=Gallus gallus OX=9031 GN=SP8 PE=2 SV=1 LCR:begin=59, end=79
+AGAARNGSSAAAAAAAAAAAA
+>sp|Q9VWN9|ZSWM8_DROME Zinc finger SWIM domain-containing protein 8 homolog OS=Drosophila melanogaster OX=7227 GN=CG34401 PE=2 SV=2 LCR:begin=1627, end=1658
+QQQQQAVQQQQAVQQQQQVVQQQQQVVQQQQQ
+>sp|Q554C5|WRKY1_DICDI Probable WRKY transcription factor protein 1 OS=Dictyostelium discoideum OX=44689 GN=wrky1 PE=3 SV=2 LCR:begin=702, end=714
+TTTTTTTTTTPTP
+>sp|P67832|HSP1_PSEMD Sperm protamine P1 OS=Pseudantechinus macdonnellensis OX=9299 GN=PRM1 PE=2 SV=2 LCR:begin=32, end=62
+YRRSRRHSRRRRGRRRGYSRRRYSRRGRRRY
+>sp|A9V2C1|NHAAB_MONBE Probable nitrile hydratase OS=Monosiga brevicollis OX=81824 GN=37534 PE=3 SV=1 LCR:begin=236, end=265
+AHKHHHHRHHHDHHHHHHHHHAMHAEHEAH
+>sp|Q54JC7|Y1197_DICDI Probable serine/threonine-protein kinase DDB_G0288147 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0288147 PE=3 SV=1 LCR:begin=1244, end=1259
+TTTTTTTTTTRTTTTT
+>sp|Q61409|PDE3B_MOUSE cGMP-inhibited 3',5'-cyclic phosphodiesterase B OS=Mus musculus OX=10090 GN=Pde3b PE=1 SV=2 LCR:begin=992, end=1015
+EEGDDTESDDDDDDDDGDGGEELD
+>sp|Q66659|IE63_EHV2 Immediate-early phosphoprotein 57 OS=Equine herpesvirus 2 (strain 86/87) OX=82831 GN=57 PE=3 SV=2 LCR:begin=73, end=89
+REQQPPPQQQQPQQREQ
+>sp|B3PR19|RL19_RHIE6 50S ribosomal protein L19 OS=Rhizobium etli (strain CIAT 652) OX=491916 GN=rplS PE=3 SV=1 LCR:begin=145, end=177
+AAAQALAAEKAAAEAAEAKAAAEAAAAAETAAE
+>sp|A0A0H2URK1|PSRP_STRPN Pneumococcal serine-rich repeat protein OS=Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4) OX=170187 GN=psrP PE=1 SV=1 LCR:begin=4505, end=4555
+SASESASTSASASASTSASASASTSASVSASTSASASASTSASASASISAS
+>sp|Q4PD88|ERT1_USTMA Transcription activator of gluconeogenesis ERT1 OS=Ustilago maydis (strain 521 / FGSC 9021) OX=237631 GN=ERT1 PE=3 SV=2 LCR:begin=466, end=482
+SSGSGNGNGNGSGSGSG
+>sp|P14195|AAC1_DICDI Leucine-rich repeat-containing protein AAC1 OS=Dictyostelium discoideum OX=44689 GN=AAC1 PE=2 SV=2 LCR:begin=81, end=103
+TTSTTTTTTPITTTTTTTTTTTT
+>sp|A8H740|IF2_SHEPA Translation initiation factor IF-2 OS=Shewanella pealeana (strain ATCC 700345 / ANG-SQ1) OX=398579 GN=infB PE=3 SV=1 LCR:begin=98, end=131
+EAAEAELAAAAKAEEAKAAEAEAKAKAEAEAKAK
+>sp|P0CA29|VF123_ASFWA Uncharacterized protein CP123L OS=African swine fever virus (isolate Warthog/Namibia/Wart80/1980) OX=561444 GN=War-101 PE=3 SV=1 LCR:begin=36, end=50
+PPPIPPPTPPPPKKK
+>sp|P17941|INVO_HYLLA Involucrin OS=Hylobates lar OX=9580 GN=IVL PE=2 SV=1 LCR:begin=75, end=89
+EQQQQEPQEQELQQQ
+>sp|Q8AZM1|ICP4_VZVO Major viral transcription factor ICP4 homolog OS=Varicella-zoster virus (strain Oka vaccine) OX=341980 GN=ORF62 PE=3 SV=1 LCR:begin=352, end=364
+SSSSSSSSWGSSS
+>sp|P29555|ABDA_DROME Homeobox protein abdominal-A OS=Drosophila melanogaster OX=7227 GN=abd-A PE=2 SV=2 LCR:begin=128, end=150
+QQQHLNHQQQQHLHHQQQQHHHQ
+>sp|Q54P47|NDRC_DICDI Probable serine/threonine-protein kinase ndrC OS=Dictyostelium discoideum OX=44689 GN=ndrC PE=3 SV=1 LCR:begin=290, end=312
+QQQLLQQQLQQRLQNQNQNQNNN
+>sp|Q0RRT3|RL10_FRAAA 50S ribosomal protein L10 OS=Frankia alni (strain ACN14a) OX=326424 GN=rplJ PE=3 SV=1 LCR:begin=173, end=193
+AAETPAAEATEAAEAAEAPAE
+>sp|P90493|ICP4_HHV2H Major viral transcription factor ICP4 homolog OS=Human herpesvirus 2 (strain HG52) OX=10315 GN=ICP4 PE=1 SV=1 LCR:begin=816, end=844
+APRPAAAPPAGAAPPAPPTPPPRPPRPAA
+>sp|Q5AED9|BBP_CANAL Branchpoint-bridging protein OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=BBP PE=3 SV=1 LCR:begin=335, end=347
+PPPPPPPPPPAPP
+>sp|P79114|MYO10_BOVIN Unconventional myosin-X OS=Bos taurus OX=9913 GN=MYO10 PE=1 SV=1 LCR:begin=813, end=846
+EKRAEEEKRKREEEEKRKREEEERERERERREAE
+>sp|Q54WV4|T2FA_DICDI General transcription factor IIF subunit 1 OS=Dictyostelium discoideum OX=44689 GN=gtf2f1 PE=3 SV=1 LCR:begin=372, end=393
+GGTGGGDDEDDDEDDEDPDQDD
+>sp|Q75BI6|MED15_ASHGO Mediator of RNA polymerase II transcription subunit 15 OS=Ashbya gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056) OX=284811 GN=GAL11 PE=3 SV=2 LCR:begin=670, end=713
+AQAQAQQPQPQQQTQQQTQQQQQQQQQQQQQQTQQQTQHQPQPQ
+>sp|Q94JX9|NACA2_ARATH Nascent polypeptide-associated complex subunit alpha-like protein 2 OS=Arabidopsis thaliana OX=3702 GN=At3g49470 PE=2 SV=2 LCR:begin=43, end=58
+DDEDDDDDDEEEEDDD
+>sp|Q9FX02|FB38_ARATH Putative F-box protein At1g47300 OS=Arabidopsis thaliana OX=3702 GN=At1g47300 PE=4 SV=2 LCR:begin=239, end=278
+ESKEEEEEEEEEEEEEEEEEEEEEEEEEEEESKEREKEKK
+>sp|Q4V7C9|NKAP_RAT NF-kappa-B-activating protein OS=Rattus norvegicus OX=10116 GN=Nkap PE=1 SV=1 LCR:begin=228, end=247
+KRRAKKAKKKEKKKKRRGKK
+>sp|Q86Y01|DTX1_HUMAN E3 ubiquitin-protein ligase DTX1 OS=Homo sapiens OX=9606 GN=DTX1 PE=1 SV=1 LCR:begin=225, end=245
+APPAPPLPPPPPPGGPPGALA
+>sp|P07182|CH36_DROME Chorion protein S36 OS=Drosophila melanogaster OX=7227 GN=Cp36 PE=3 SV=2 LCR:begin=245, end=260
+GSAGAASSAAGAASSA
+>sp|P0C656|MED12_CAEBR Mediator of RNA polymerase II transcription subunit 12 OS=Caenorhabditis briggsae OX=6238 GN=dpy-22 PE=3 SV=2 LCR:begin=3308, end=3327
+QGQMGGQMGQQQGQMGQQMQ
+>sp|P27921|JUND_CHICK Transcription factor jun-D OS=Gallus gallus OX=9031 GN=JUND PE=3 SV=1 LCR:begin=200, end=212
+PPPRLPPPPPPPL
+>sp|P20730|CHHB2_BOMMO Chorion class high-cysteine HCB protein 13 OS=Bombyx mori OX=7091 PE=3 SV=1 LCR:begin=110, end=177
+CGGCGCGCGGCGGCGCGGCGGCGCGGCGGCGCCGGCGGCGCGCGGCGGCGCCGGCGGCGCGCGGCGCC
+>sp|Q54I30|Y9041_DICDI Putative uncharacterized protein DDB_G0289041 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0289041 PE=4 SV=2 LCR:begin=603, end=627
+SNNNNNSIVNNGNNNNNGNNNNSII
+>sp|J9VQ03|NOG2_CRYNH Nucleolar GTP-binding protein 2 OS=Cryptococcus neoformans var. grubii serotype A (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487) OX=235443 GN=NOG2 PE=3 SV=2 LCR:begin=582, end=597
+EEDEDEDEDDDDDVEE
+>sp|Q86H13|PDE4_DICDI cAMP-specific 3',5'-cAMP phosphodiesterase 4 OS=Dictyostelium discoideum OX=44689 GN=Pde4 PE=1 SV=2 LCR:begin=762, end=803
+TITPTPNSTTSTTTTTTTTTTTTNNNNNNNSNNNSLNNIINN
+>sp|Q54XZ5|Y0138_DICDI Probable serine/threonine-protein kinase DDB_G0278509 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0278509 PE=3 SV=1 LCR:begin=250, end=274
+NSDNSNNNNSNNSNNNNIGSNINSN
+>sp|Q9HBL0|TENS1_HUMAN Tensin-1 OS=Homo sapiens OX=9606 GN=TNS1 PE=1 SV=2 LCR:begin=650, end=666
+QQQQQQQQQPRPPPRQQ
+>sp|Q6X5Y6|WRI1_ARATH Ethylene-responsive transcription factor WRI1 OS=Arabidopsis thaliana OX=3702 GN=WRI1 PE=1 SV=1 LCR:begin=5, end=25
+TTSTCSSSPSSSVSSSTTTSS
+>sp|Q9ZUH3|PUP5_ARATH Probable purine permease 5 OS=Arabidopsis thaliana OX=3702 GN=PUP5 PE=3 SV=2 LCR:begin=346, end=360
+SSSSNSSTQASSSSS
+>sp|Q54DK4|AK1_DICDI Alpha-protein kinase 1 OS=Dictyostelium discoideum OX=44689 GN=ak1 PE=3 SV=1 LCR:begin=137, end=185
+SNVNNINNNSNHNNNINNNNNNINNNNNNNINNNNNIINNFSNINNISN
+>sp|Q54DC8|Y2350_DICDI Probable serine/threonine-protein kinase DDB_G0292350 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0292350 PE=3 SV=1 LCR:begin=354, end=370
+QQEKQHQQQQQQQQNQQ
+>sp|Q1ZXQ0|PHR_DICDI Sca1 complex protein phr OS=Dictyostelium discoideum OX=44689 GN=phr PE=1 SV=1 LCR:begin=92, end=101
+SSSSSSSSSS
+>sp|Q54ZP5|WDR48_DICDI WD repeat-containing protein 48 homolog OS=Dictyostelium discoideum OX=44689 GN=DDB_G0277533 PE=3 SV=1 LCR:begin=484, end=502
+VDVDDEDDDDDDDDDDDDD
+>sp|O54949|NLK_MOUSE Serine/threonine-protein kinase NLK OS=Mus musculus OX=10090 GN=Nlk PE=1 SV=2 LCR:begin=26, end=54
+HHHHHHHHLPHLPPPHLHHHHHPQHHLHP
+>sp|Q86AQ7|VAM7B_DICDI Vesicle-associated membrane protein 7B OS=Dictyostelium discoideum OX=44689 GN=vamp7B PE=3 SV=1 LCR:begin=226, end=249
+STPTPTPTETPTPTPTPTSTPTPS
+>sp|Q55EQ0|GTAF_DICDI GATA zinc finger domain-containing protein 6 OS=Dictyostelium discoideum OX=44689 GN=gtaF PE=4 SV=1 LCR:begin=160, end=178
+SSNINTINNNSNNNNNNNN
+>sp|P02831|HXA3_MOUSE Homeobox protein Hox-A3 OS=Mus musculus OX=10090 GN=Hoxa3 PE=1 SV=2 LCR:begin=88, end=122
+PPLPPPPPQAAPPAPQPPQPPPQPPAPTPAAPPPP
+>sp|Q07G42|RNF12_XENTR E3 ubiquitin-protein ligase RNF12 OS=Xenopus tropicalis OX=8364 GN=rnf12 PE=2 SV=1 LCR:begin=302, end=326
+QSQSQTQTQSQSQTQTQSQTQSQST
+>sp|Q40401|CALR_NICPL Calreticulin OS=Nicotiana plumbaginifolia OX=4092 GN=CAL1 PE=2 SV=1 LCR:begin=383, end=402
+ADSDAEEDDDADDDSDDADD
+>sp|P29994|ITPR1_RAT Inositol 1,4,5-trisphosphate receptor type 1 OS=Rattus norvegicus OX=10116 GN=Itpr1 PE=1 SV=2 LCR:begin=1765, end=1783
+SPGGPSKPGGGGGGPGSGS
+>sp|Q6B0Y8|YM012_YEAST Putative uncharacterized protein YML012C-A OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YML012C-A PE=5 SV=1 LCR:begin=6, end=20
+SSFSSSSSSSSSSAS
+>sp|Q77Z83|IE2_HHV6U Immediate-early protein 2 OS=Human herpesvirus 6A (strain Uganda-1102) OX=10370 GN=U90/U87/U86 PE=1 SV=2 LCR:begin=724, end=800
+SRASSRASSRDSSRASSRASSRASSRDSSRASSRASSRDSSRASSRASSRASSKASSRASSRASSRASSRDSSRASS
+>sp|Q6RHW0|K1C9_MOUSE Keratin, type I cytoskeletal 9 OS=Mus musculus OX=10090 GN=Krt9 PE=1 SV=3 LCR:begin=62, end=82
+GGGGGGSFGSSYGGGYGGGFS
+>sp|Q8IVW6|ARI3B_HUMAN AT-rich interactive domain-containing protein 3B OS=Homo sapiens OX=9606 GN=ARID3B PE=1 SV=2 LCR:begin=4, end=16
+QQQQQQQQQQQKQ
+>sp|Q9VLV7|SPZ3_DROME Protein spaetzle 3 OS=Drosophila melanogaster OX=7227 GN=spz3 PE=2 SV=2 LCR:begin=168, end=184
+PGQQAQPPQQQQPQQKQ
+>sp|Q54XG7|DIMA_DICDI Basic-leucine zipper transcription factor A OS=Dictyostelium discoideum OX=44689 GN=dimA PE=1 SV=2 LCR:begin=429, end=445
+QNQNQQQLQLPQPQQQQ
+>sp|P04419|CEA2_ECOLX Colicin-E2 OS=Escherichia coli OX=562 GN=col PE=1 SV=2 LCR:begin=56, end=79
+GGGSGHGNGGGNGNSGGGSGTGGN
+>sp|O97239|DOP1_PLAF7 Protein dopey homolog PFC0245c OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PFC0245c PE=1 SV=1 LCR:begin=622, end=641
+NNYDDDEEEEDEEEEDNNNN
+>sp|Q54GH0|BZPO_DICDI Probable basic-leucine zipper transcription factor O OS=Dictyostelium discoideum OX=44689 GN=bzpO PE=3 SV=1 LCR:begin=339, end=359
+PITPTPTPTPILTTTTTKTTK
+>sp|Q9LQX4|DOF13_ARATH Dof zinc finger protein DOF1.3 OS=Arabidopsis thaliana OX=3702 GN=DOF1.3 PE=3 SV=1 LCR:begin=33, end=44
+SSSSSSSSSLSL
+>sp|Q8CJQ8|IF2_STRCO Translation initiation factor IF-2 OS=Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145) OX=100226 GN=infB PE=3 SV=1 LCR:begin=309, end=391
+PAAGPRPGPGGGGRGPGGAGRPGGGGGRPGGGGFAGRPGGGGGGRPGGGGGFAGRPGGGGGFGGGGGRPGFGGRPGGPGGRGG
+>sp|Q9H254|SPTN4_HUMAN Spectrin beta chain, non-erythrocytic 4 OS=Homo sapiens OX=9606 GN=SPTBN4 PE=1 SV=2 LCR:begin=668, end=687
+AAGGGGAAGAAGAAGTAGGA
+>sp|P21519|MAM_DROME Neurogenic protein mastermind OS=Drosophila melanogaster OX=7227 GN=mam PE=2 SV=2 LCR:begin=950, end=961
+QQQAQQQQQQQQ
+>sp|P06332|CD4_MOUSE T-cell surface glycoprotein CD4 OS=Mus musculus OX=10090 GN=Cd4 PE=1 SV=1 LCR:begin=5, end=20
+SLRRLLLLLLQLSQLL
+>sp|A0A0H2URK1|PSRP_STRPN Pneumococcal serine-rich repeat protein OS=Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4) OX=170187 GN=psrP PE=1 SV=1 LCR:begin=1549, end=1671
+SASESASTSASASASTSASASASTSASASASTSASASASTSASASASTSASASASTSASASASTSASASASTSASASASTSASESASTSASASASTSASASASTSASASASTSASVSASTSAS
+>sp|B4SQS0|IF2_STRM5 Translation initiation factor IF-2 OS=Stenotrophomonas maltophilia (strain R551-3) OX=391008 GN=infB PE=3 SV=1 LCR:begin=157, end=184
+AAKERAEAEKKAAEEAAAAAKAAEALAA
+>sp|Q8SX83|SPEN_DROME Protein split ends OS=Drosophila melanogaster OX=7227 GN=spen PE=1 SV=2 LCR:begin=3928, end=3943
+QQQHLSQQQHQSQQQL
+>sp|Q3YEC7|RABL6_HUMAN Rab-like protein 6 OS=Homo sapiens OX=9606 GN=RABL6 PE=1 SV=2 LCR:begin=651, end=671
+KEKKKKKKKGKEEEEKAAKKK
+>sp|P51173|APEA_DICDI DNA-(apurinic or apyrimidinic site) endonuclease OS=Dictyostelium discoideum OX=44689 GN=apeA PE=2 SV=2 LCR:begin=46, end=65
+KKTPAKKAPAKKAAAKKKSK
+>sp|Q91V88|NPNT_MOUSE Nephronectin OS=Mus musculus OX=10090 GN=Npnt PE=1 SV=1 LCR:begin=315, end=337
+TRPTPNPTPQPTPPPPPPLPTEP
+>sp|Q5VXT5|SYPL2_HUMAN Synaptophysin-like protein 2 OS=Homo sapiens OX=9606 GN=SYPL2 PE=1 SV=1 LCR:begin=240, end=256
+GQGQGQDQDQDQDQGQG
+>sp|Q54S29|NFYA_DICDI Nuclear transcription factor Y subunit alpha OS=Dictyostelium discoideum OX=44689 GN=nfyA PE=3 SV=1 LCR:begin=294, end=309
+AQNAANAAAAAANPNA
+>sp|Q6Z1Z3|IDEF1_ORYSJ B3 domain-containing protein IDEF1 OS=Oryza sativa subsp. japonica OX=39947 GN=IDEF1 PE=1 SV=1 LCR:begin=48, end=71
+HNHNHNHNHNHNIHNSHNHNHNHN
+>sp|Q9C658|DCP5_ARATH Protein decapping 5 OS=Arabidopsis thaliana OX=3702 GN=DCP5 PE=1 SV=1 LCR:begin=570, end=604
+GYSRGGYGGRGYGGYGGRGGGGGGYGYGGRGQGRG
+>sp|Q8IH24|MED31_DROME Mediator of RNA polymerase II transcription subunit 31 OS=Drosophila melanogaster OX=7227 GN=MED31 PE=1 SV=2 LCR:begin=126, end=138
+QQQQQQLQQQQQQ
+>sp|Q8IUB9|KR191_HUMAN Keratin-associated protein 19-1 OS=Homo sapiens OX=9606 GN=KRTAP19-1 PE=1 SV=2 LCR:begin=48, end=73
+GFGSYGYGSGFGGYGYGSGFGGYGYG
+>sp|Q9AAU7|RL7_CAUVC 50S ribosomal protein L7/L12 OS=Caulobacter vibrioides (strain ATCC 19089 / CB15) OX=190650 GN=rplL PE=3 SV=1 LCR:begin=33, end=54
+AAAPVAVAAAGGAAAAPAEAAE
+>sp|Q8SSW7|GEFS_DICDI Ras guanine nucleotide exchange factor S OS=Dictyostelium discoideum OX=44689 GN=gefS PE=2 SV=1 LCR:begin=334, end=345
+QQQQQQQQQQQQ
+>sp|Q551B5|MIO_DICDI GATOR complex protein MIOS OS=Dictyostelium discoideum OX=44689 GN=mios PE=3 SV=1 LCR:begin=620, end=669
+IINNNNNNNNNKNINNNINNINNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+>sp|Q1RMM5|NP1L5_BOVIN Nucleosome assembly protein 1-like 5 OS=Bos taurus OX=9913 GN=NAP1L5 PE=2 SV=1 LCR:begin=139, end=165
+EGDEEDDDDDEYEDEEEGEEEDEEEEE
+>sp|Q3UG20|KMT2E_MOUSE Inactive histone-lysine N-methyltransferase 2E OS=Mus musculus OX=10090 GN=Kmt2e PE=1 SV=2 LCR:begin=1719, end=1730
+PPPPPPPPPPPP
+>sp|P50117|S10A9_RABIT Protein S100-A9 OS=Oryctolagus cuniculus OX=9986 GN=S100A9 PE=2 SV=3 LCR:begin=109, end=131
+GLGGGGPGHGHGHSHGHGHGHSH
+>sp|Q13428|TCOF_HUMAN Treacle protein OS=Homo sapiens OX=9606 GN=TCOF1 PE=1 SV=3 LCR:begin=335, end=351
+EEDSESSSEESSDSEEE
+>sp|B4JQ42|AFFL_DROGR AF4/FMR2 family member lilli OS=Drosophila grimshawi OX=7222 GN=lilli PE=3 SV=1 LCR:begin=740, end=767
+EQQEQQQQQQQQQQQQQQQQQQQQQQQQ
+>sp|P9WIE8|PG44_MYCTO Uncharacterized PE-PGRS family protein PE_PGRS44 OS=Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh) OX=83331 GN=PE_PGRS44 PE=3 SV=1 LCR:begin=457, end=471
+GLGGNGGDGGDGGGL
+>sp|Q54EM5|C519D_DICDI Probable cytochrome P450 519D1 OS=Dictyostelium discoideum OX=44689 GN=cyp519D1 PE=3 SV=1 LCR:begin=471, end=487
+NNNNNNNNNNNNNNSNN
+>sp|Q983S4|CH604_RHILO 60 kDa chaperonin 4 OS=Mesorhizobium japonicum (strain LMG 29417 / CECT 9101 / MAFF 303099) OX=266835 GN=groL4 PE=3 SV=1 LCR:begin=530, end=548
+GGGMPGGMGGGGMGGMGGM
+>sp|Q4R584|ABHD8_MACFA Protein ABHD8 OS=Macaca fascicularis OX=9541 GN=ABHD8 PE=2 SV=1 LCR:begin=133, end=150
+GSGSGSGSGSGSGGRRRR
+>sp|X1WE18|KANK2_DANRE KN motif and ankyrin repeat domain-containing protein 2 OS=Danio rerio OX=7955 GN=kank2 PE=3 SV=1 LCR:begin=581, end=601
+ESTSSEESSSESSEDESDASE
+>sp|Q54DG3|Y4305_DICDI Putative uncharacterized protein DDB_G0292292 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0292292 PE=4 SV=1 LCR:begin=212, end=223
+NNNNNDNNNNNN
+>sp|Q54TE3|GTAJ_DICDI GATA zinc finger domain-containing protein 10 OS=Dictyostelium discoideum OX=44689 GN=gtaJ PE=4 SV=1 LCR:begin=282, end=321
+NNNNNNNNNNNINNNNNNNNNNNINNNNNNNNNNNNNNNI
+>sp|Q57B65|RS16_BRUAB 30S ribosomal protein S16 OS=Brucella abortus biovar 1 (strain 9-941) OX=262698 GN=rpsP PE=3 SV=1 LCR:begin=108, end=133
+AEEEASAKAAEAAAAAAAPAEEAASE
+>sp|Q651Z5|HOX6_ORYSJ Homeobox-leucine zipper protein HOX6 OS=Oryza sativa subsp. japonica OX=39947 GN=HOX6 PE=2 SV=1 LCR:begin=14, end=25
+GGKGGKGGGGGG
+>sp|Q550D5|GTAA_DICDI Transcription factor stalky OS=Dictyostelium discoideum OX=44689 GN=stkA PE=1 SV=1 LCR:begin=115, end=141
+IINLIDNNNNNNKNNNNNNNNNNILKI
+>sp|Q54VL5|ALLC_DICDI Allantoicase OS=Dictyostelium discoideum OX=44689 GN=allC PE=1 SV=1 LCR:begin=344, end=356
+NNNNNNNNNNNNN
+>sp|Q2TBE0|C19L2_HUMAN CWF19-like protein 2 OS=Homo sapiens OX=9606 GN=CWF19L2 PE=1 SV=4 LCR:begin=76, end=95
+KKKKKKDKHSKKAKKEKKKK
+>sp|Q9SU56|GLDH_ARATH L-galactono-1,4-lactone dehydrogenase, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=GLDH PE=1 SV=1 LCR:begin=43, end=56
+PPPPPPPRPPPPPP
+>sp|Q54IM2|Y8040_DICDI Putative uncharacterized transmembrane protein DDB_G0288661 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0288661 PE=3 SV=1 LCR:begin=52, end=86
+NNWNKVEENNNKNNNNNNNNNNNNNNNNKNSKVKN
+>sp|P19785|ESR1_MOUSE Estrogen receptor OS=Mus musculus OX=10090 GN=Esr1 PE=1 SV=1 LCR:begin=57, end=73
+AAYEFNAAAAAAAAASA
+>sp|A0A286YF60|SCGR3_HUMAN Small cysteine and glycine repeat-containing protein 3 OS=Homo sapiens OX=9606 GN=SCYGR3 PE=1 SV=1 LCR:begin=1, end=37
+GCCGCGSCGGCGGGCGGCGGGCGGGCGGGCGGVCGSC
+>sp|Q6Y7W6|GGYF2_HUMAN GRB10-interacting GYF protein 2 OS=Homo sapiens OX=9606 GN=GIGYF2 PE=1 SV=1 LCR:begin=816, end=833
+EEALRRLEERRREEEERR
+>sp|B3EWZ0|SAP1A_ACRMI Secreted acidic protein 1A OS=Acropora millepora OX=45264 PE=1 SV=1 LCR:begin=134, end=155
+NDNEGDDDDDDDSGDDDDVDES
+>sp|Q28FB9|THOC4_XENTR THO complex subunit 4 OS=Xenopus tropicalis OX=8364 GN=alyref PE=2 SV=1 LCR:begin=215, end=235
+GANRRGGRGGNRGRGRGAGRN
+>sp|Q8DEC6|OBG_VIBVU GTPase Obg OS=Vibrio vulnificus (strain CMCP6) OX=216895 GN=obg PE=3 SV=1 LCR:begin=365, end=380
+EDDDDDWDDWDDEEDD
+>sp|Q86XN8|MEX3D_HUMAN RNA-binding protein MEX3D OS=Homo sapiens OX=9606 GN=MEX3D PE=1 SV=3 LCR:begin=9, end=24
+GGGGGGGGGGGVGAAG
+>sp|O93235|CIRBA_XENLA Cold-inducible RNA-binding protein A OS=Xenopus laevis OX=8355 GN=cirbp-a PE=1 SV=2 LCR:begin=92, end=114
+RGGSSGGRGFFRGGRGRGGGDRG
+>sp|F1LP90|MINK1_RAT Misshapen-like kinase 1 OS=Rattus norvegicus OX=10116 GN=Mink1 PE=1 SV=2 LCR:begin=478, end=495
+QKQQQQQQQQQQQQQQQQ
+>sp|B0G194|DYM_DICDI Dymeclin OS=Dictyostelium discoideum OX=44689 GN=dym PE=3 SV=1 LCR:begin=858, end=875
+TNTTTTTTTTTNSTSSNT
+>sp|P43572|EPL1_YEAST Enhancer of polycomb-like protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=EPL1 PE=1 SV=1 LCR:begin=446, end=460
+QQQQQLLQQQQQQQQ
+>sp|Q8JN60|POLG_BECNB Genome polyprotein OS=Bovine enteric calicivirus NB (isolate Bovine/United States/Nebraska/1980) OX=190239 GN=ORF1 PE=3 SV=1 LCR:begin=1685, end=1699
+AAAAAPAPPVAAAPA
+>sp|Q54VC4|ASCC2_DICDI Activating signal cointegrator 1 complex subunit 2 homolog OS=Dictyostelium discoideum OX=44689 GN=ascc2 PE=3 SV=2 LCR:begin=823, end=851
+KQHPQQQPKQQPKQQPQQPKQQSQQQPKQ
+>sp|Q9YGK2|COLI_THUOB Pro-opiomelanocortin OS=Thunnus obesus OX=8241 GN=pomc PE=2 SV=1 LCR:begin=69, end=87
+PSSSSSFILPSSSSSSSSP
+>sp|P52288|MIG1_KLUMA Regulatory protein MIG1 OS=Kluyveromyces marxianus OX=4911 GN=MIG1 PE=3 SV=1 LCR:begin=109, end=130
+LQRQRQQQQLQQQQQQQLQQQQ
+>sp|Q869W0|HBX2_DICDI Homeobox protein 2 OS=Dictyostelium discoideum OX=44689 GN=hbx2 PE=2 SV=1 LCR:begin=216, end=242
+NNKNNNNINNNNNNNNNNNNNNNNNNN
+>sp|Q54WH5|ELMOE_DICDI ELMO domain-containing protein E OS=Dictyostelium discoideum OX=44689 GN=elmoE PE=4 SV=1 LCR:begin=591, end=615
+DDDNDNNNNQELNNNNNNNNNNNYN
+>sp|Q8IKW2|SIR2B_PLAF7 NAD-dependent protein deacetylase Sir2B OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=Sir2B PE=1 SV=1 LCR:begin=1156, end=1203
+YNKNNDNNNDDNNYDDNKNDDDNNNDDNNNNDDNNNNDDNNNNDDNNN
+>sp|A0QV37|RS16_MYCS2 30S ribosomal protein S16 OS=Mycolicibacterium smegmatis (strain ATCC 700084 / mc(2)155) OX=246196 GN=rpsP PE=1 SV=1 LCR:begin=132, end=152
+DEAAEAPAEAAEAPAEAADAA
+>sp|Q9FVQ1|NUCL1_ARATH Nucleolin 1 OS=Arabidopsis thaliana OX=3702 GN=NUCL1 PE=1 SV=1 LCR:begin=244, end=262
+SSSDESSESEEDESEDEEE
+>sp|P13692|P54_ENTFC Protein P54 OS=Enterococcus faecium OX=1352 PE=3 SV=2 LCR:begin=378, end=393
+TPAPTPTPTPAPAPAP
+>sp|Q8NDY8|TMM52_HUMAN Transmembrane protein 52 OS=Homo sapiens OX=9606 GN=TMEM52 PE=2 SV=1 LCR:begin=12, end=26
+LLLPLLPLLPLLPLP
+>sp|Q96DR8|MUCL1_HUMAN Mucin-like protein 1 OS=Homo sapiens OX=9606 GN=MUCL1 PE=1 SV=1 LCR:begin=43, end=68
+AETTAAATTATTAAPTTATTAASTTA
+>sp|Q54VQ7|HDA22_DICDI Type-2 histone deacetylase 2 OS=Dictyostelium discoideum OX=44689 GN=hdaC PE=2 SV=1 LCR:begin=44, end=67
+NNNNTNDNDNNSDNNNNKNNNNNN
+>sp|Q54VU4|Y8013_DICDI Probable serine/threonine-protein kinase DDB_G0280133 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0280133 PE=3 SV=1 LCR:begin=288, end=313
+QQQQQTTTTTTTTTTTTSTTSTTTST
+>sp|P29702|FNTA_BOVIN Protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha OS=Bos taurus OX=9913 GN=FNTA PE=2 SV=2 LCR:begin=15, end=39
+PGQPEPPPPPQPHPPPPPPQPPQEE
+>sp|Q559A0|GACU_DICDI Rho GTPase-activating protein gacU OS=Dictyostelium discoideum OX=44689 GN=gacU PE=3 SV=1 LCR:begin=551, end=574
+SNSVNNNNSNNNNNNNNSSNNNNN
+>sp|P58107|EPIPL_HUMAN Epiplakin OS=Homo sapiens OX=9606 GN=EPPK1 PE=1 SV=3 LCR:begin=2623, end=2632
+AAAAAAAAAA
+>sp|Q5BLP8|CD048_HUMAN Neuropeptide-like protein C4orf48 OS=Homo sapiens OX=9606 GN=C4orf48 PE=1 SV=3 LCR:begin=8, end=27
+SPMSPPPPPLLLLLLSLALL
+>sp|Q54QD5|NEK1_DICDI Probable serine/threonine-protein kinase nek1 OS=Dictyostelium discoideum OX=44689 GN=nek1 PE=3 SV=1 LCR:begin=144, end=162
+SSSDSGSGSGSGSGSSNDS
+>sp|Q1A1A5|FOXG1_CHLPG Forkhead box protein G1 OS=Chlorocebus pygerythrus OX=60710 GN=FOXG1 PE=3 SV=1 LCR:begin=42, end=85
+HHPQHHHHHHHHHHHPPPPAPQPPPPPQQQPPPPPPPPAPQPPQ
+>sp|Q54U63|LVSC_DICDI BEACH domain-containing protein lvsC OS=Dictyostelium discoideum OX=44689 GN=lvsC PE=4 SV=2 LCR:begin=1356, end=1378
+QQQQQQQQQQQQQQQQQQQQQQQ
+>sp|Q55F68|CYAD_DICDI Adenylate cyclase, terminal-differentiation specific OS=Dictyostelium discoideum OX=44689 GN=acrA PE=1 SV=1 LCR:begin=40, end=56
+SPSSDSISTSSSSSLSS
+>sp|P24728|VPHE_NPVAC Polyhedral envelope-associated phosphoprotein OS=Autographa californica nuclear polyhedrosis virus OX=46015 GN=pp34 PE=1 SV=1 LCR:begin=126, end=149
+RPRSRSRSRSRSRSRSSSPRRGRR
+>sp|B4N9T4|SUR8_DROWI Leucine-rich repeat protein soc-2 homolog OS=Drosophila willistoni OX=7260 GN=Sur-8 PE=3 SV=1 LCR:begin=25, end=50
+NGGGKGGDGSGGGGGGGSSSNQNGSS
+>sp|O46254|HUNB_SCAAL Protein hunchback (Fragments) OS=Scaptomyza albovittata OX=7299 GN=hb PE=3 SV=2 LCR:begin=15, end=35
+SHHHHHSHHSHGHHHSNSNSN
+>sp|Q12411|MPC70_YEAST Sporulation-specific protein 21 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SPO21 PE=1 SV=1 LCR:begin=142, end=158
+SSTTSQTTCSSSSSSSS
+>sp|Q54DV0|UBR7_DICDI Putative E3 ubiquitin-protein ligase ubr7 OS=Dictyostelium discoideum OX=44689 GN=ubr7 PE=3 SV=2 LCR:begin=316, end=328
+NNNNNNNSNNSNS
+>sp|Q24432|OMB_DROME Optomotor-blind protein OS=Drosophila melanogaster OX=7227 GN=bi PE=1 SV=3 LCR:begin=48, end=79
+GSNNNNSGNTNSGNNNSNSNNNTNSNTNNTNN
+>sp|Q6SPE9|SAMD1_RABIT Atherin OS=Oryctolagus cuniculus OX=9986 GN=SAMD1 PE=2 SV=1 LCR:begin=213, end=243
+PLPPPPQPPAPPQQQQQPPPPPPPQQPQPPP
+>sp|Q8T6B4|ABCF4_DICDI ABC transporter F family member 4 OS=Dictyostelium discoideum OX=44689 GN=abcF4 PE=3 SV=1 LCR:begin=390, end=403
+EEEEEEEEEEEEIE
+>sp|Q9Q3G5|CAPSD_TASV2 Capsid polyprotein VP90 OS=Turkey astrovirus 2 OX=246343 GN=ORF2 PE=1 SV=1 LCR:begin=15, end=33
+RRRGRSNSRSRSRSRSRSR
+>sp|Q01622|HLOX2_HELRO Homeobox protein LOX2 (Fragment) OS=Helobdella robusta OX=6412 GN=LOX2 PE=2 SV=1 LCR:begin=385, end=404
+NGNNNNNNNINNNNINNNNG
+>sp|F4I2H7|TPX2_ARATH Protein TPX2 OS=Arabidopsis thaliana OX=3702 GN=TPX2 PE=1 SV=1 LCR:begin=596, end=613
+EEEMRREREERRRMETEE
+>sp|Q7LLZ8|URE2_SACPA Protein URE2 OS=Saccharomyces paradoxus OX=27291 GN=URE2 PE=3 SV=1 LCR:begin=43, end=67
+NNNNNNSSSSNNNNNNNNNAQNNNS
+>sp|Q7PZD5|CLU_ANOGA Clustered mitochondria protein homolog OS=Anopheles gambiae OX=7165 GN=AGAP011851 PE=3 SV=4 LCR:begin=963, end=981
+KRGGGGGGGKGAAGGGRKA
+>sp|Q6XHA5|ROC11_DICDI Probable serine/threonine-protein kinase roco11 OS=Dictyostelium discoideum OX=44689 GN=roco11 PE=3 SV=1 LCR:begin=950, end=1012
+NIDNNNNNNNNNNNNNNNNNNINNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNIKNIINN
+>sp|P50904|RASA1_RAT Ras GTPase-activating protein 1 OS=Rattus norvegicus OX=10116 GN=Rasa1 PE=1 SV=1 LCR:begin=82, end=102
+AALTGGAAAGVAGAAAAGPAG
+>sp|P48423|GAP1_DROME GTPase-activating protein OS=Drosophila melanogaster OX=7227 GN=RasGAP1 PE=1 SV=2 LCR:begin=1027, end=1053
+QQHHQQQQHQQQQQQQQQQQLQQFQPQ
+>sp|Q9XX47|F161_CAEEL Protein fam-161 OS=Caenorhabditis elegans OX=6239 GN=famh-161 PE=1 SV=1 LCR:begin=785, end=811
+SSRSSKPKSSKSTSSKSSSSRSTSSSS
+>sp|Q555I8|KIF9_DICDI Kinesin-related protein 9 OS=Dictyostelium discoideum OX=44689 GN=kif9 PE=2 SV=1 LCR:begin=145, end=158
+NNNNNNNNGSNGNN
+>sp|Q2IPW2|Y1068_ANADE UPF0173 metal-dependent hydrolase Adeh_1068 OS=Anaeromyxobacter dehalogenans (strain 2CP-C) OX=290397 GN=Adeh_1068 PE=3 SV=1 LCR:begin=5, end=27
+RSLARLAALALAALAAAPLAASA
+>sp|Q2HBE7|DED1_CHAGB ATP-dependent RNA helicase DED1 OS=Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) OX=306901 GN=DED1 PE=3 SV=1 LCR:begin=595, end=614
+GGGGGRGRGGGGRGRGGRGG
+>sp|Q4PCY0|CWC22_USTMA Pre-mRNA-splicing factor CWC22 OS=Ustilago maydis (strain 521 / FGSC 9021) OX=237631 GN=CWC22 PE=3 SV=2 LCR:begin=766, end=804
+RRARSASYSSYSSRSRSSSSSSSRSRSRSRSRSRSFSRS
+>sp|B9DVF2|DNAJ_STRU0 Chaperone protein DnaJ OS=Streptococcus uberis (strain ATCC BAA-854 / 0140J) OX=218495 GN=dnaJ PE=3 SV=1 LCR:begin=68, end=92
+GAAGAQGGFGGGGFGGFDGGGFGGF
+>sp|Q057H8|SYA_BUCCC Alanine--tRNA ligase OS=Buchnera aphidicola subsp. Cinara cedri (strain Cc) OX=372461 GN=alaS PE=3 SV=1 LCR:begin=432, end=447
+KNNKKKQKNKEKKKKN
+>sp|A3NDV4|SECA_BURP6 Protein translocase subunit SecA OS=Burkholderia pseudomallei (strain 668) OX=320373 GN=secA PE=3 SV=1 LCR:begin=871, end=887
+AAAAAAATAGGAVVADA
+>sp|P30318|DPOL_NPVLD DNA polymerase OS=Lymantria dispar multicapsid nuclear polyhedrosis virus OX=10449 GN=POL PE=3 SV=2 LCR:begin=964, end=976
+DSDSDSDSDDDDD
+>sp|P49869|HR38_DROME Probable nuclear hormone receptor HR38 OS=Drosophila melanogaster OX=7227 GN=Hr38 PE=1 SV=3 LCR:begin=440, end=467
+QQQQQQQQQQQQQQQQHQQQQQHLQLQL
+>sp|O57401|SOX1_CHICK Transcription factor SOX-1 OS=Gallus gallus OX=9031 GN=SOX1 PE=2 SV=1 LCR:begin=213, end=232
+HPGGGGHPHHPHPHHPHHPH
+>sp|Q2TAP0|GOG7B_HUMAN Golgin subfamily A member 7B OS=Homo sapiens OX=9606 GN=GOLGA7B PE=1 SV=2 LCR:begin=141, end=162
+SSGSSSSGSSSGSGSSSGGGGG
+>sp|Q5KSV0|GTAK_DICDI GATA zinc finger domain-containing protein 11 OS=Dictyostelium discoideum OX=44689 GN=gtaK PE=2 SV=1 LCR:begin=17, end=54
+NNTNTNSNNNNNNNNNNNNNNNINNTTTTTTTTTSNNN
+>sp|Q8R4V4|CBPZ_MOUSE Carboxypeptidase Z OS=Mus musculus OX=10090 GN=Cpz PE=2 SV=2 LCR:begin=5, end=20
+LLLAALAALAVLALAA
+>sp|Q9FM99|ATCA8_ARATH Alpha carbonic anhydrase 8 OS=Arabidopsis thaliana OX=3702 GN=ACA8 PE=3 SV=3 LCR:begin=22, end=94
+APAPKPPKPKPAPAPTPPKPKPTPAPTPPKPKPKPAPTPPKPKPAPAPTPPKPKPAPAPTPPKPKPKPAPTPP
+>sp|Q9SYG4|UBP1A_ARATH Oligouridylate-binding protein 1A OS=Arabidopsis thaliana OX=3702 GN=UBP1A PE=1 SV=1 LCR:begin=1, end=24
+QNQRLIKQQQQQQQQQHQQAMIQQ
+>sp|Q5TZE2|SYN1L_DANRE Synapse differentiation-inducing gene protein 1-like OS=Danio rerio OX=7955 GN=syndig1l PE=3 SV=1 LCR:begin=43, end=66
+VTGGGGGGGGGGGGGGVAVTGGNG
+>sp|P33485|VNUA_SUHVK Probable nuclear antigen OS=Suid herpesvirus 1 (strain Kaplan) OX=33703 PE=4 SV=1 LCR:begin=1383, end=1421
+RGPGGLRGRGRGGRGGGGGGGGRGPRGRGGRRRRRWRPG
+>sp|B5Z6D1|CH60_HELPG 60 kDa chaperonin OS=Helicobacter pylori (strain G27) OX=563041 GN=groL PE=3 SV=1 LCR:begin=532, end=545
+MGGMGGMGGMGGMM
+>sp|Q69RG7|4CLL7_ORYSJ 4-coumarate--CoA ligase-like 7 OS=Oryza sativa subsp. japonica OX=39947 GN=4CLL7 PE=2 SV=1 LCR:begin=49, end=64
+SLLPRSSSSSSSSLLP
+>sp|O77666|TRI26_PIG Tripartite motif-containing protein 26 OS=Sus scrofa OX=9823 GN=TRIM26 PE=3 SV=2 LCR:begin=380, end=399
+EDEEEGDEEEEGEEEEEEEE
+>sp|Q54J24|Y5966_DICDI Uncharacterized transmembrane protein DDB_G0288365 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0288365 PE=4 SV=1 LCR:begin=17, end=31
+FLFFIFYFLFFFIFF
+>sp|A5VSG4|RS16_BRUO2 30S ribosomal protein S16 OS=Brucella ovis (strain ATCC 25840 / 63/290 / NCTC 10512) OX=444178 GN=rpsP PE=3 SV=1 LCR:begin=108, end=131
+AEEEAAAKAAEAAAAAAAPAEEAA
+>sp|Q9LIN5|IF4B1_ARATH Eukaryotic translation initiation factor 4B1 OS=Arabidopsis thaliana OX=3702 GN=EIF4B1 PE=1 SV=1 LCR:begin=192, end=215
+SGDGGGFGGGGSGFGGGGGGGGGG
+>sp|Q9NRF2|SH2B1_HUMAN SH2B adapter protein 1 OS=Homo sapiens OX=9606 GN=SH2B1 PE=1 SV=3 LCR:begin=11, end=24
+SPSSPPLPPPPPPS
+>sp|B3LKR9|AIM44_YEAS1 Altered inheritance of mitochondria protein 44 OS=Saccharomyces cerevisiae (strain RM11-1a) OX=285006 GN=AIM44 PE=3 SV=1 LCR:begin=650, end=689
+DEEEEEDEDDEDDEEEEEENDDEEDEEDEEDDEDDEEEEE
+>sp|B1AHZ7|RL7_UREP2 50S ribosomal protein L7/L12 OS=Ureaplasma parvum serovar 3 (strain ATCC 27815 / 27 / NCTC 11736) OX=505682 GN=rplL PE=3 SV=1 LCR:begin=35, end=51
+AAAPVAAAAAPVAAEAP
+>sp|Q9UL25|RAB21_HUMAN Ras-related protein Rab-21 OS=Homo sapiens OX=9606 GN=RAB21 PE=1 SV=3 LCR:begin=1, end=14
+AAAGGGGGGAAAAG
+>sp|Q54GV0|MED24_DICDI Putative mediator of RNA polymerase II transcription subunit 24 OS=Dictyostelium discoideum OX=44689 GN=med24 PE=3 SV=2 LCR:begin=47, end=72
+NNNNNNNSNNNNNNNNNNNNNNVDNN
+>sp|O77033|CYC8_DICDI General transcriptional corepressor trfA OS=Dictyostelium discoideum OX=44689 GN=trfA PE=2 SV=1 LCR:begin=1340, end=1370
+ERDRDRERERERERDRERERERERERERERE
+>sp|Q555C6|VP13B_DICDI Putative vacuolar protein sorting-associated protein 13B OS=Dictyostelium discoideum OX=44689 GN=vps13B PE=3 SV=1 LCR:begin=2232, end=2262
+NPINNNNNNNNDDDDIIINNNINNNNSNNIN
+>sp|Q9HCJ5|ZSWM6_HUMAN Zinc finger SWIM domain-containing protein 6 OS=Homo sapiens OX=9606 GN=ZSWIM6 PE=2 SV=2 LCR:begin=154, end=196
+SSSSPAATSAAATSAAAAAAAAAAAAAAAAGAGAPSVGAAGAA
+>sp|Q8K3X4|I2BPL_MOUSE Probable E3 ubiquitin-protein ligase IRF2BPL OS=Mus musculus OX=10090 GN=Irf2bpl PE=1 SV=1 LCR:begin=87, end=107
+AAAAAAAAQQQQQQQQQQQQQ
+>sp|A2XIA8|SHR2_ORYSI Protein SHORT-ROOT 2 OS=Oryza sativa subsp. indica OX=39946 GN=SHR2 PE=3 SV=1 LCR:begin=67, end=81
+YYYQGGGGGGGGYYY
+>sp|Q54MA9|KU70_DICDI ATP-dependent DNA helicase ku70 OS=Dictyostelium discoideum OX=44689 GN=ku70 PE=3 SV=1 LCR:begin=488, end=539
+QQLLNSLSSQQQQQQSSQQSSSSQQQQQQQQQQQQQQQQQQQQQLPSSSQQS
+>sp|A6NJZ7|RIM3C_HUMAN RIMS-binding protein 3C OS=Homo sapiens OX=9606 GN=RIMBP3C PE=1 SV=3 LCR:begin=321, end=338
+SRRLSPPPSPLPPPPPPS
+>sp|Q15022|SUZ12_HUMAN Polycomb protein SUZ12 OS=Homo sapiens OX=9606 GN=SUZ12 PE=1 SV=3 LCR:begin=36, end=52
+SGGKSGGGSCGGGGSYS
+>sp|Q8WNZ1|HSP1_PLEAU Sperm protamine P1 OS=Plecotus auritus OX=61862 GN=PRM1 PE=2 SV=3 LCR:begin=11, end=40
+RSRCRRRRRRCYRRRRRCCRRRRRRVCCRR
+>sp|Q5RD69|TICN3_PONAB Testican-3 OS=Pongo abelii OX=9601 GN=SPOCK3 PE=2 SV=2 LCR:begin=410, end=433
+DEDEIEDDDEDEGDDDDGGDDHDG
+>sp|Q00975|CAC1B_HUMAN Voltage-dependent N-type calcium channel subunit alpha-1B OS=Homo sapiens OX=9606 GN=CACNA1B PE=1 SV=1 LCR:begin=22, end=35
+GGGAGGAGGPGPGG
+>sp|Q96F45|ZN503_HUMAN Zinc finger protein 503 OS=Homo sapiens OX=9606 GN=ZNF503 PE=1 SV=1 LCR:begin=140, end=152
+GGGAGGAGGGAAG
+>sp|O18784|TRPC1_BOVIN Short transient receptor potential channel 1 OS=Bos taurus OX=9913 GN=TRPC1 PE=2 SV=1 LCR:begin=14, end=27
+SSSSLPSSPSSSSP
+>sp|Q293Q2|SQZ_DROPS Zinc finger protein squeeze OS=Drosophila pseudoobscura pseudoobscura OX=46245 GN=sqz PE=3 SV=2 LCR:begin=84, end=114
+QQQQQHQAHQEQQQQQQQQQQQHHHQQQQHH
+>sp|Q49X54|IF2_STAS1 Translation initiation factor IF-2 OS=Staphylococcus saprophyticus subsp. saprophyticus (strain ATCC 15305 / DSM 20229 / NCIMB 8711 / NCTC 7292 / S-41) OX=342451 GN=infB PE=3 SV=1 LCR:begin=83, end=111
+NQNNKPNNKKNNKNNKNNKNNKNNKQPKQ
+>sp|Q9Z335|SBK1_RAT Serine/threonine-protein kinase SBK1 OS=Rattus norvegicus OX=10116 GN=Sbk1 PE=1 SV=1 LCR:begin=362, end=382
+PSPPSVGPVVPVPVPVPVPVP
+>sp|Q9V3D5|DYRK2_DROME Dual specificity tyrosine-phosphorylation-regulated kinase 2 OS=Drosophila melanogaster OX=7227 GN=Dyrk2 PE=1 SV=1 LCR:begin=58, end=77
+NGNGNGNGNSNSNNNNNIGS
+>sp|Q6BH13|MCA1_DEBHA Metacaspase-1 OS=Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / JCM 1990 / NBRC 0083 / IGC 2968) OX=284592 GN=MCA1 PE=3 SV=2 LCR:begin=73, end=98
+QGYQQQGGQQQGGQQQGGQQQGGQRQ
+>sp|Q54EW0|FRMA_DICDI FERM domain-containing protein A OS=Dictyostelium discoideum OX=44689 GN=frmA PE=2 SV=1 LCR:begin=981, end=1007
+GNGIITGGNGGSGGGGSGIGGNGSGIN
+>sp|Q9JM93|AR6P4_MOUSE ADP-ribosylation factor-like protein 6-interacting protein 4 OS=Mus musculus OX=10090 GN=Arl6ip4 PE=1 SV=1 LCR:begin=89, end=118
+RKKRAKHKEKKRKKKKKKRKKKLKKRVKEK
+>sp|A8WR59|COL99_CAEBR Putative cuticle collagen 99 OS=Caenorhabditis briggsae OX=6238 GN=col-99 PE=3 SV=2 LCR:begin=229, end=242
+GPPGPPGPPGPPGP
+>sp|Q54Z85|RACO_DICDI Rho-related protein racO OS=Dictyostelium discoideum OX=44689 GN=racO PE=3 SV=1 LCR:begin=219, end=266
+NNDNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNENNNNSYKNHNN
+>sp|Q5ZM33|HP1B3_CHICK Heterochromatin protein 1-binding protein 3 OS=Gallus gallus OX=9031 GN=HP1BP3 PE=2 SV=1 LCR:begin=428, end=458
+QDEDSEESQEEEEEESEEEEESEEEESEEEE
+>sp|A6ZRW8|YNL5_YEAS7 Uncharacterized vacuolar membrane protein SCY_4679 OS=Saccharomyces cerevisiae (strain YJM789) OX=307796 GN=SCY_4679 PE=3 SV=1 LCR:begin=468, end=487
+GRGDGDDGDDGNGNDGDGRN
+>sp|P54674|PI3K2_DICDI Phosphatidylinositol 3-kinase 2 OS=Dictyostelium discoideum OX=44689 GN=pikB PE=2 SV=2 LCR:begin=180, end=235
+TTTSNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNTTSTTTTTTS
+>sp|P16749|ICP27_HCMVA mRNA export factor ICP27 homolog OS=Human cytomegalovirus (strain AD169) OX=10360 GN=UL69 PE=1 SV=1 LCR:begin=702, end=717
+QQQQPPPPPPPPPVPQ
+>sp|Q55FN5|HDA11_DICDI Type-1 histone deacetylase 1 OS=Dictyostelium discoideum OX=44689 GN=hdaA PE=2 SV=1 LCR:begin=453, end=484
+NSRNNNNNNNNNNNNNNNNNNNSNNNNSHHHN
+>sp|P0C7L0|WIPF3_MOUSE WAS/WASL-interacting protein family member 3 OS=Mus musculus OX=10090 GN=Wipf3 PE=1 SV=1 LCR:begin=1, end=41
+PVPPPPPPPPPPPPPPPPPLGAPPPPPLGAPPPPPPPGPPV
+>sp|A4JBS1|DNAK_BURVG Chaperone protein DnaK OS=Burkholderia vietnamiensis (strain G4 / LMG 22486) OX=269482 GN=dnaK PE=3 SV=1 LCR:begin=609, end=632
+QAQQAGAAGAAGAAEGAAHAGGAQ
+>sp|Q9NA13|IPLA_DICDI Inositol 1,4,5-trisphosphate receptor-like protein A OS=Dictyostelium discoideum OX=44689 GN=iplA PE=2 SV=1 LCR:begin=1019, end=1048
+NNTTTTTNNSTNNTTNNNTNNNNNNNNTNS
+>sp|C0HJP8|CO1A2_TOXSP Collagen alpha-2(I) chain (Fragments) OS=Toxodon sp. OX=1563122 GN=COL1A2 PE=1 SV=1 LCR:begin=890, end=906
+GPAGPPGPPGPPGPPGP
+>sp|P75295|Y491_MYCPN Uncharacterized protein MPN_491 OS=Mycoplasma pneumoniae (strain ATCC 29342 / M129) OX=272634 GN=MPN_491 PE=4 SV=1 LCR:begin=193, end=209
+KKKSSKSKSSKGSKKQK
+>sp|Q54MP8|Y5837_DICDI Bromodomain and WD repeat-containing DDB_G0285837 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0285837 PE=4 SV=1 LCR:begin=1669, end=1702
+TTSNTTTTTTTTTETSNNNNNNNNNNNNNNNNNN
+>sp|B0TVL3|CH60_SHEHH 60 kDa chaperonin OS=Shewanella halifaxensis (strain HAW-EB4) OX=458817 GN=groL PE=3 SV=1 LCR:begin=530, end=546
+MGGMGGMGGMGGMGGMM
+>sp|Q71VG9|HSP1_MYOWA Sperm protamine P1 OS=Myoictis wallacei OX=63144 GN=PRM1 PE=2 SV=3 LCR:begin=2, end=34
+RYRRHSRSRSRSRYRRRRRRRSRHRNRRRTYRR
+>sp|Q54DK3|CDC7_DICDI Probable serine/threonine-protein kinase cdc7 OS=Dictyostelium discoideum OX=44689 GN=cdc7 PE=3 SV=1 LCR:begin=115, end=126
+QQQQQQQQQQQQ
+>sp|B2Y1Z2|RR11_WELMI 30S ribosomal protein S11, chloroplastic OS=Welwitschia mirabilis OX=3377 GN=rps11 PE=3 SV=1 LCR:begin=9, end=23
+RGYRYRYRYRYGYRR
+>sp|Q7K0S9|GLIS2_DROME Zinc finger protein GLIS2 homolog OS=Drosophila melanogaster OX=7227 GN=sug PE=2 SV=1 LCR:begin=47, end=64
+HHQHHQQQHQQHQQQMQH
+>sp|A0RLC4|RPOE_BACAH Probable DNA-directed RNA polymerase subunit delta OS=Bacillus thuringiensis (strain Al Hakam) OX=412694 GN=rpoE PE=3 SV=1 LCR:begin=159, end=174
+EEELEYDETEEEEEEE
+>sp|Q54P94|Y6147_DICDI Putative uncharacterized protein DDB_G0284695 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0284695 PE=4 SV=1 LCR:begin=21, end=43
+ENNNSNNINNGNNRNNENNENNE
+>sp|P37370|VRP1_YEAST Verprolin OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=VRP1 PE=1 SV=2 LCR:begin=3, end=14
+APAPPPPPPPPA
+>sp|A5PJN8|SF3A2_BOVIN Splicing factor 3A subunit 2 OS=Bos taurus OX=9913 GN=SF3A2 PE=2 SV=1 LCR:begin=250, end=265
+LPPPPPGGLPLPPMPP
+>sp|Q54PI9|FORI_DICDI Formin-I OS=Dictyostelium discoideum OX=44689 GN=forI PE=1 SV=1 LCR:begin=454, end=480
+PSVPPPPPVGAPPPPPPPPPPPPPPPP
+>sp|P10511|YPG1_DICSP Uncharacterized plasmid pDG1 103 kDa protein OS=Dictyostelium sp. (strain GA11) OX=5785 PE=4 SV=1 LCR:begin=235, end=254
+TTKQTTTTTTTTPQTRTRKR
+>sp|P34735|YLU2_PICAN Uncharacterized protein in LEU2 3'region (Fragment) OS=Pichia angusta OX=870730 PE=4 SV=1 LCR:begin=227, end=244
+ATATSASAAASSSSASSA
+>sp|Q8XZV6|IF2_RALSO Translation initiation factor IF-2 OS=Ralstonia solanacearum (strain GMI1000) OX=267608 GN=infB PE=3 SV=1 LCR:begin=293, end=314
+ARPAPAAKKAAAPAAAPAATPA
+>sp|Q9FEC4|RAA3_CHLRE Trans-splicing factor Raa3, chloroplastic OS=Chlamydomonas reinhardtii OX=3055 GN=RAA3 PE=1 SV=1 LCR:begin=1312, end=1324
+AGAGTAAAAGAAA
+>sp|A5GFT6|TSH2_PIG Teashirt homolog 2 OS=Sus scrofa OX=9823 GN=TSHZ2 PE=3 SV=1 LCR:begin=16, end=34
+QEEQLKEEEEIKEEEEEEE
+>sp|Q6PKG0|LARP1_HUMAN La-related protein 1 OS=Homo sapiens OX=9606 GN=LARP1 PE=1 SV=2 LCR:begin=91, end=111
+GEEGGGEPGAGGGAAGAAGAG
+>sp|Q54KF2|Y7452_DICDI Putative uncharacterized protein DDB_G0287457 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0287457 PE=4 SV=2 LCR:begin=299, end=329
+NKNNQANNIFNNNNNNNNNNNNNFYNNPFLN
+>sp|Q6XHA6|ROC10_DICDI Probable inactive serine/threonine-protein kinase roco10 OS=Dictyostelium discoideum OX=44689 GN=roco10 PE=3 SV=1 LCR:begin=1647, end=1658
+NNNNNNNSNGNN
+>sp|Q54JW9|IMPCT_DICDI Protein IMPACT homolog OS=Dictyostelium discoideum OX=44689 GN=impact PE=3 SV=1 LCR:begin=180, end=202
+NQNQNQFENQNQNQNQNQNQNQN
+>sp|P29126|XYNA_RUMFL Bifunctional endo-1,4-beta-xylanase XylA OS=Ruminococcus flavefaciens OX=1265 GN=xynA PE=3 SV=1 LCR:begin=389, end=448
+WDNNNNWNQNNQQQNNWDWNNQNNWNNNQQQNNDWNQWNNQNNWNNNQQQNNDWNQWNNQ
+>sp|Q8TBK6|ZCH10_HUMAN Zinc finger CCHC domain-containing protein 10 OS=Homo sapiens OX=9606 GN=ZCCHC10 PE=1 SV=1 LCR:begin=130, end=183
+STSSSSEDSDTDESSSSSSSSASSTTSSSSSDSDSDSSSSSSSSTSTDSSSDDE
+>sp|G0SA56|MLP1_CHATD Protein MLP1 homolog OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=MLP1 PE=3 SV=1 LCR:begin=2066, end=2082
+GERGGKRARGGGGGGGG
+>sp|P21461|SINA_DROME E3 ubiquitin-protein ligase sina OS=Drosophila melanogaster OX=7227 GN=sina PE=1 SV=2 LCR:begin=38, end=55
+NTSSANTSSSSSSSLSSA
+>sp|P31361|PO3F3_MOUSE POU domain, class 3, transcription factor 3 OS=Mus musculus OX=10090 GN=Pou3f3 PE=2 SV=2 LCR:begin=25, end=48
+AAGAGGGGGGGGGGGGGAGGGGGG
+>sp|P67849|HSP1_DASSP Sperm protamine P1 OS=Dasyurus spartacus OX=32546 GN=PRM1 PE=2 SV=2 LCR:begin=31, end=61
+YRRSRRHSRRRRGRRRGYSRRRYSRRGRRRY
+>sp|Q8IS44|DRD2L_DROME Dopamine D2-like receptor OS=Drosophila melanogaster OX=7227 GN=Dop2R PE=2 SV=2 LCR:begin=195, end=209
+AGGGAAGAGDGGDAG
+>sp|Q75JB3|Y8452_DICDI Putative uncharacterized protein DDB_G0271698 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0271698 PE=4 SV=1 LCR:begin=156, end=177
+NNRFNNNNSNNNNINNNNDNNN
+>sp|B4G2G5|LST2_DROPE Lateral signaling target protein 2 homolog OS=Drosophila persimilis OX=7234 GN=GL23610 PE=3 SV=1 LCR:begin=332, end=346
+SSNNNNNNKSSSSSS
+>sp|B7Z0K8|COLL1_DROME Collagen alpha chain CG42342 OS=Drosophila melanogaster OX=7227 GN=CG42342 PE=2 SV=1 LCR:begin=75, end=94
+INNSNNNSNISNNSSNSSSS
+>sp|P54877|NEUG_CAPHI Neurogranin OS=Capra hircus OX=9925 GN=NRGN PE=3 SV=1 LCR:begin=54, end=76
+GPGPGGPGGAGGARGGAGGGPSG
+>sp|O54898|CAC1G_RAT Voltage-dependent T-type calcium channel subunit alpha-1G OS=Rattus norvegicus OX=10116 GN=Cacna1g PE=1 SV=2 LCR:begin=490, end=506
+VHHLVHHHHHHHHHYHL
+>sp|Q9FH77|DCP5L_ARATH Decapping 5-like protein OS=Arabidopsis thaliana OX=3702 GN=DCP5-L PE=2 SV=1 LCR:begin=2, end=24
+SESSQSSSPSSSQPPSSVPSPSP
+>sp|Q6NRE7|CBLBB_XENLA E3 ubiquitin-protein ligase CBL-B-B OS=Xenopus laevis OX=8355 GN=cblb-b PE=2 SV=1 LCR:begin=2, end=18
+SSSSSSSNSSTSSSALS
+>sp|Q8MYF0|MG101_DICDI Mitochondrial genome maintenance protein mgm101 homolog OS=Dictyostelium discoideum OX=44689 GN=mgm101 PE=3 SV=1 LCR:begin=254, end=286
+SNSSYSSSSSSINNNSNSSNNNNNNSDSSSSIN
+>sp|Q13495|MAMD1_HUMAN Mastermind-like domain-containing protein 1 OS=Homo sapiens OX=9606 GN=MAMLD1 PE=1 SV=2 LCR:begin=341, end=361
+PVPSPHPPPLPLPPPPPPFSP
+>sp|Q54LJ3|TS101_DICDI ESCRT-I complex subunit tsg101 OS=Dictyostelium discoideum OX=44689 GN=tsg101 PE=3 SV=1 LCR:begin=449, end=468
+QNQQQLQQQQQQQNSPQRQQ
+>sp|Q54TA5|TBC5B_DICDI TBC1 domain family member 5 homolog B OS=Dictyostelium discoideum OX=44689 GN=tbc1d5B PE=3 SV=1 LCR:begin=717, end=754
+NNNNNNNNNNNNNNNNNNNNNNSNNNINNNNNNSNNNI
+>sp|P49883|ECR_MANSE Ecdysone receptor OS=Manduca sexta OX=7130 GN=EcR PE=2 SV=1 LCR:begin=74, end=83
+QQQQQQQQQQ
+>sp|P53210|YG1B_YEAST Uncharacterized protein YGR017W OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YGR017W PE=1 SV=1 LCR:begin=152, end=167
+NDDDDDDKNNDADNND
+>sp|Q95Y80|BET1_CAEEL Bromodomain-containing protein bet-1 OS=Caenorhabditis elegans OX=6239 GN=bet-1 PE=1 SV=3 LCR:begin=655, end=673
+ESSESQSSSSSDDDSDDED
+>sp|Q39610|DYHA_CHLRE Dynein alpha chain, flagellar outer arm OS=Chlamydomonas reinhardtii OX=3055 GN=ODA11 PE=3 SV=2 LCR:begin=4205, end=4217
+GGGGGGGGGGGGG
+>sp|B3A0P3|PLSP2_LOTGI Peroxidase-like protein 2 (Fragments) OS=Lottia gigantea OX=225164 PE=1 SV=1 LCR:begin=781, end=855
+GSVGSGGMGGSVGVGGSGGMGGSVGVGGMGGSVGVGGSGGMGGSVGVGGMGGSVGVGGSVGSGGSGGSRGAGGSG
+>sp|Q55CZ1|GDT2_DICDI Probable serine/threonine-protein kinase gdt2 OS=Dictyostelium discoideum OX=44689 GN=gdt2 PE=2 SV=1 LCR:begin=1556, end=1601
+DKDKKNKKKNKNNNNNNNNNNNNNNNNNNNNNNNDDHDDNNNNIND
+>sp|Q54YW1|ELMOA_DICDI ELMO domain-containing protein A OS=Dictyostelium discoideum OX=44689 GN=elmoA PE=1 SV=1 LCR:begin=674, end=685
+NNNNNNNNNNEN
+>sp|Q54U87|DHKA_DICDI Hybrid signal transduction histidine kinase A OS=Dictyostelium discoideum OX=44689 GN=dhkA PE=1 SV=1 LCR:begin=304, end=317
+NNNSNNNNNNNNNS
+>sp|Q54LV0|SMC4_DICDI Structural maintenance of chromosomes protein 4 OS=Dictyostelium discoideum OX=44689 GN=smc4 PE=3 SV=1 LCR:begin=99, end=117
+QTSQSSQSSQSSQSSQQQQ
+>sp|Q9CX86|ROA0_MOUSE Heterogeneous nuclear ribonucleoprotein A0 OS=Mus musculus OX=10090 GN=Hnrnpa0 PE=1 SV=1 LCR:begin=272, end=289
+SGGGGGGGGSWGGRSNSG
+>sp|P16649|TUP1_YEAST General transcriptional corepressor TUP1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TUP1 PE=1 SV=2 LCR:begin=180, end=201
+QQQLPQQQLQQQQLQQQQPPPQ
+>sp|P35385|HSPB7_MOUSE Heat shock protein beta-7 OS=Mus musculus OX=10090 GN=Hspb7 PE=1 SV=3 LCR:begin=9, end=31
+RAERSFRSSSSSSSSSSSSASRA
+>sp|H2A0P1|USP10_PINMG Uncharacterized shell protein 10 OS=Margaritifera margaritifera OX=102329 PE=1 SV=1 LCR:begin=65, end=103
+LAGLLGGAGNGGNGGGGNGGNGGGGNGGNNGNGNGNNGL
+>sp|Q61329|ZFHX3_MOUSE Zinc finger homeobox protein 3 OS=Mus musculus OX=10090 GN=Zfhx3 PE=1 SV=1 LCR:begin=3371, end=3419
+QQSLQEAIQQQQQQQQQQQQQQQQQQRQLQQQQQQQQQKVQQQQQQQQQ
+>sp|Q54TU3|Y5626_DICDI Uncharacterized protein DDB_G0281497 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0281497 PE=4 SV=1 LCR:begin=359, end=386
+NGSNSGNSKNSSSSSSSSSSNNGNCSSN
+>sp|Q8HY67|AN32A_CANLF Acidic leucine-rich nuclear phosphoprotein 32 family member A OS=Canis lupus familiaris OX=9615 GN=ANP32A PE=2 SV=1 LCR:begin=167, end=181
+DDDEEDEDEEEYDED
+>sp|Q9Y5W3|KLF2_HUMAN Krueppel-like factor 2 OS=Homo sapiens OX=9606 GN=KLF2 PE=1 SV=2 LCR:begin=57, end=77
+AEAAPEPPPPPPPPAFYYPEP
+>sp|Q1MTR5|YG66_SCHPO Uncharacterized RING finger membrane protein C15C4.06c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC15C4.06c PE=4 SV=1 LCR:begin=88, end=108
+DESDSMSSSSESDSDSVSSES
+>sp|O25748|SLYD_HELPY FKBP-type peptidyl-prolyl cis-trans isomerase SlyD OS=Helicobacter pylori (strain ATCC 700392 / 26695) OX=85962 GN=slyD PE=1 SV=1 LCR:begin=161, end=179
+GCCGGHGGHGGKKGGGCGC
+>sp|Q91YE2|EGLN2_MOUSE Prolyl hydroxylase EGLN2 OS=Mus musculus OX=10090 GN=Egln2 PE=1 SV=2 LCR:begin=156, end=169
+SNSSSSSSNTTSSS
+>sp|C1KYI3|RL7_LISMC 50S ribosomal protein L7/L12 OS=Listeria monocytogenes serotype 4b (strain CLIP80459) OX=568819 GN=rplL PE=3 SV=1 LCR:begin=34, end=48
+AAAPVAVAAAGGAAA
+>sp|Q8VIM6|STRC_MOUSE Stereocilin OS=Mus musculus OX=10090 GN=Strc PE=2 SV=2 LCR:begin=377, end=401
+TPRPPPTTPRPPPTTPQPPPTTTQP
+>sp|Q1ZXQ8|MTAA_DICDI Centrosomal protein 224 OS=Dictyostelium discoideum OX=44689 GN=mtaA PE=1 SV=1 LCR:begin=1050, end=1077
+PSKTKQSTSSSSSSSSTTSQQSSTPSSP
+>sp|Q86AH2|Y1996_DICDI FNIP repeat-containing protein DDB_G0271996 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0271996 PE=4 SV=1 LCR:begin=903, end=933
+NNINQNQNQNNNNYNNNNNNNNNNNNNKKKN
+>sp|Q7SC91|SEN54_NEUCR Probable tRNA-splicing endonuclease subunit tsp-5 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=tsp-5 PE=3 SV=2 LCR:begin=528, end=556
+GNNNGRGSRGRGGGRGGGRGGRGGRGRGN
+>sp|B4LMA2|EAF_DROVI Ell-associated factor Eaf OS=Drosophila virilis OX=7244 GN=Eaf PE=3 SV=1 LCR:begin=364, end=386
+SASSSSSESDSSDSDSGSDSDDS
+>sp|Q54WN7|BZPF_DICDI Probable basic-leucine zipper transcription factor F OS=Dictyostelium discoideum OX=44689 GN=bzpF PE=3 SV=1 LCR:begin=154, end=181
+NNSYHDNVNNNNNNNNNNNNNNNNINLN
+>sp|P54637|PTP3_DICDI Tyrosine-protein phosphatase 3 OS=Dictyostelium discoideum OX=44689 GN=ptpC PE=2 SV=2 LCR:begin=875, end=897
+KNNDNNNKQQQQQQQQQQKNNQQ
+>sp|A6YP92|ARX_RAT Homeobox protein ARX OS=Rattus norvegicus OX=10116 GN=Arx PE=2 SV=1 LCR:begin=98, end=121
+GAAAAAAAAAAAAAAAATATGTAG
+>sp|Q39D35|SURA_BURL3 Chaperone SurA OS=Burkholderia lata (strain ATCC 17760 / DSM 23089 / LMG 22485 / NCIMB 9086 / R18194 / 383) OX=482957 GN=surA PE=3 SV=1 LCR:begin=11, end=30
+SSLAAASALLAAAPAAAQAL
+>sp|P02919|PBPB_ECOLI Penicillin-binding protein 1B OS=Escherichia coli (strain K12) OX=83333 GN=mrcB PE=1 SV=2 LCR:begin=809, end=826
+QSSQPQQQPQQQPAQQEQ
+>sp|Q54IJ9|BZPQ_DICDI Probable basic-leucine zipper transcription factor Q OS=Dictyostelium discoideum OX=44689 GN=bzpQ PE=3 SV=1 LCR:begin=86, end=109
+QSYQQQQQQHYQQRQQQYQQQYQQ
+>sp|C4YHA6|HWP1_CANAW Hyphal wall protein 1 OS=Candida albicans (strain WO-1) OX=294748 GN=HWP1 PE=3 SV=1 LCR:begin=203, end=227
+TTTTSESSSSSSSSSSTTPKTSAST
+>sp|Q6IG00|K2C4_RAT Keratin, type II cytoskeletal 4 OS=Rattus norvegicus OX=10116 GN=Krt4 PE=3 SV=1 LCR:begin=80, end=103
+GVGGYGAGFGAGGFGGGFGGSFNG
+>sp|Q6PZE0|MUC19_MOUSE Mucin-19 OS=Mus musculus OX=10090 GN=Muc19 PE=2 SV=2 LCR:begin=2822, end=2841
+AATTTSTATTTTTTTTTATT
+>sp|Q95KF9|NO40_MACFA Nucleolar protein of 40 kDa OS=Macaca fascicularis OX=9541 GN=ZCCHC17 PE=2 SV=1 LCR:begin=175, end=191
+KAAKKKKKKKKHKKKHK
+>sp|P0C1B0|FKBP4_EMENI FK506-binding protein 4 OS=Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) OX=227321 GN=fpr4 PE=3 SV=2 LCR:begin=68, end=91
+DEEDSDDDYEDEDDSEDDSEDDEE
+>sp|Q6PZE0|MUC19_MOUSE Mucin-19 OS=Mus musculus OX=10090 GN=Muc19 PE=2 SV=2 LCR:begin=3963, end=3982
+AATTTSTATTTTTTTTTATT
+>sp|Q9U6L4|TTY1_DROME Protein tweety OS=Drosophila melanogaster OX=7227 GN=tty PE=2 SV=1 LCR:begin=696, end=710
+QQQQQPPPPSQQQQQ
+>sp|Q9NGW9|MKCB_DICDI Probable serine/threonine-protein kinase mkcB OS=Dictyostelium discoideum OX=44689 GN=mkcB PE=2 SV=1 LCR:begin=113, end=134
+PPPPQQPHSQQQQQQQQQSQSQ
+>sp|Q8MIF3|TWST1_EULFU Twist-related protein 1 OS=Eulemur fulvus fulvus OX=40322 GN=TWIST1 PE=3 SV=1 LCR:begin=76, end=94
+SAGCGGGAGGGGSSSGGGS
+>sp|Q8SPR7|PLCD4_PIG 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-4 OS=Sus scrofa OX=9823 GN=PLCD4 PE=2 SV=1 LCR:begin=446, end=467
+LEEDLEEEEEEPEESELEGEQE
+>sp|P70323|TBX1_MOUSE T-box transcription factor TBX1 OS=Mus musculus OX=10090 GN=Tbx1 PE=1 SV=2 LCR:begin=431, end=447
+HPHAHPHAHPHHHHHPA
+>sp|Q5K4L6|S27A3_HUMAN Solute carrier family 27 member 3 OS=Homo sapiens OX=9606 GN=SLC27A3 PE=1 SV=4 LCR:begin=3, end=21
+LLLLPLLLLLPLLLLKLHL
+>sp|Q6ZDF3|TRAB1_ORYSJ bZIP transcription factor TRAB1 OS=Oryza sativa subsp. japonica OX=39947 GN=TRAB1 PE=1 SV=2 LCR:begin=161, end=177
+AAAAAMVAAAAAPPVAP
+>sp|P0CN78|GAR1_CRYNJ H/ACA ribonucleoprotein complex subunit GAR1 OS=Cryptococcus neoformans var. neoformans serotype D (strain JEC21 / ATCC MYA-565) OX=214684 GN=GAR1 PE=3 SV=1 LCR:begin=7, end=27
+RGGGGGFRGGARGGRGGGRGG
+>sp|Q63618|ESPN_RAT Espin OS=Rattus norvegicus OX=10116 GN=Espn PE=1 SV=2 LCR:begin=432, end=446
+PPPPPPGTQLPPPPP
+>sp|P49791|NU153_RAT Nuclear pore complex protein Nup153 OS=Rattus norvegicus OX=10116 GN=Nup153 PE=1 SV=1 LCR:begin=1187, end=1202
+SSSSSSSTPATSSSAS
+>sp|Q969K3|RNF34_HUMAN E3 ubiquitin-protein ligase RNF34 OS=Homo sapiens OX=9606 GN=RNF34 PE=1 SV=1 LCR:begin=221, end=236
+EDDDDDDDEDDDDEEE
+>sp|Q9FXA2|PABP8_ARATH Polyadenylate-binding protein 8 OS=Arabidopsis thaliana OX=3702 GN=PAB8 PE=1 SV=1 LCR:begin=18, end=39
+GAAAAEAAAAAAGAAAAAAGAA
+>sp|Q8HXH6|PR38A_MACFA Pre-mRNA-splicing factor 38A OS=Macaca fascicularis OX=9541 GN=PRPF38A PE=2 SV=1 LCR:begin=229, end=251
+RYRRSRSRSPRRRSRSPKRRSPS
+>sp|P41046|CORTO_DROME Centrosomal and chromosomal factor OS=Drosophila melanogaster OX=7227 GN=corto PE=1 SV=2 LCR:begin=242, end=264
+QQQQQQQQRYQQQQQQLRQQHQQ
+>sp|Q9VW47|MED12_DROME Mediator of RNA polymerase II transcription subunit 12 OS=Drosophila melanogaster OX=7227 GN=kto PE=1 SV=2 LCR:begin=2371, end=2386
+AAAAVAQQQQQQQQQQ
+>sp|P0CN79|GAR1_CRYNB H/ACA ribonucleoprotein complex subunit GAR1 OS=Cryptococcus neoformans var. neoformans serotype D (strain B-3501A) OX=283643 GN=GAR1 PE=3 SV=1 LCR:begin=164, end=182
+RGGPGGRGGARGGAGGRGG
+>sp|Q2GNS7|CHZ1_CHAGB Histone H2A.Z-specific chaperone CHZ1 OS=Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) OX=306901 GN=CHZ1 PE=3 SV=2 LCR:begin=97, end=111
+DDDDEEDDDDFVEDD
+>sp|Q9Y2I1|NISCH_HUMAN Nischarin OS=Homo sapiens OX=9606 GN=NISCH PE=1 SV=3 LCR:begin=628, end=647
+EEGQGEQGEEEDEEEEEEED
+>sp|Q55AX2|DOT1L_DICDI Histone-lysine N-methyltransferase, H3 lysine-79 specific OS=Dictyostelium discoideum OX=44689 GN=dotA PE=2 SV=2 LCR:begin=238, end=262
+NNNNNNNNNNNNNNNNNNNNNNNNN
+>sp|P18700|TBB_STRPU Tubulin beta chain (Fragment) OS=Strongylocentrotus purpuratus OX=7668 PE=2 SV=1 LCR:begin=275, end=289
+EEEGEFDEEEEGDEE
+>sp|Q1ZXN4|C519C_DICDI Probable cytochrome P450 519C1 OS=Dictyostelium discoideum OX=44689 GN=cyp519C1 PE=3 SV=1 LCR:begin=427, end=450
+INYYNQKQQQQQQQQQPQPIQNNN
+>sp|P67850|HSP1_DASGE Sperm protamine P1 OS=Dasyurus geoffroii OX=63143 GN=PRM1 PE=2 SV=2 LCR:begin=31, end=61
+YRRSRRHSRRRRGRRRGYSRRRYSRRGRRRY
+>sp|Q5R9I6|PSMD2_PONAB 26S proteasome non-ATPase regulatory subunit 2 OS=Pongo abelii OX=9601 GN=PSMD2 PE=2 SV=1 LCR:begin=622, end=640
+KEKEEDKDKKEKKDKDKKE
+>sp|B6S2X2|CAMP_OPHHA Cathelicidin-related peptide Oh-Cath OS=Ophiophagus hannah OX=8665 PE=2 SV=1 LCR:begin=131, end=150
+EEGNEEEKEVEKEEKEEDEK
+>sp|P43597|YFI6_YEAST Uncharacterized protein YFR016C OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YFR016C PE=1 SV=1 LCR:begin=462, end=476
+VEVEKEEEEEEEEEE
+>sp|Q99PJ1|PCD15_MOUSE Protocadherin-15 OS=Mus musculus OX=10090 GN=Pcdh15 PE=1 SV=3 LCR:begin=1789, end=1811
+PPTSSLPLPPPLSLPPPPRPPAP
+>sp|Q7M3M8|CAS_DROME Transcription factor castor OS=Drosophila melanogaster OX=7227 GN=cas PE=1 SV=2 LCR:begin=754, end=775
+GNLAALSAASAAAAAAAAANGA
+>sp|P06400|RB_HUMAN Retinoblastoma-associated protein OS=Homo sapiens OX=9606 GN=RB1 PE=1 SV=2 LCR:begin=8, end=30
+TAATAAAAAAEPPAPPPPPPPEE
+>sp|Q54SY5|Y5150_DICDI Putative uncharacterized protein DDB_G0282129 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0282129 PE=4 SV=1 LCR:begin=437, end=484
+NNNNSININNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNKINNN
+>sp|Q9VVL6|MED19_DROME Mediator of RNA polymerase II transcription subunit 19 OS=Drosophila melanogaster OX=7227 GN=MED19 PE=2 SV=1 LCR:begin=279, end=299
+SSSMQMQQQQQMPMQQQQMSS
+>sp|Q7A781|SDRC_STAAN Serine-aspartate repeat-containing protein C OS=Staphylococcus aureus (strain N315) OX=158879 GN=sdrC PE=1 SV=1 LCR:begin=717, end=892
+SDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSESDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDNDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSD
+>sp|Q54KX3|VP13F_DICDI Putative vacuolar protein sorting-associated protein 13F OS=Dictyostelium discoideum OX=44689 GN=vps13F PE=3 SV=1 LCR:begin=3180, end=3193
+NNNNNNNNNNNNNN
+>sp|Q59SG9|PGA55_CANAL Probable GPI-anchored adhesin-like protein PGA55 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=PGA55 PE=1 SV=2 LCR:begin=149, end=166
+SSSSEVVSSSSKVSSSSE
+>sp|Q5HPS2|IF2_STAEQ Translation initiation factor IF-2 OS=Staphylococcus epidermidis (strain ATCC 35984 / RP62A) OX=176279 GN=infB PE=3 SV=1 LCR:begin=100, end=128
+KQQNKNNKTNKNQKNNKNKKNNKNNKPQN
+>sp|Q09GK2|VNP_PHIOL C-type natriuretic peptide OS=Philodryas olfersii OX=120305 PE=2 SV=1 LCR:begin=120, end=130
+GGGGGGGGGGG
+>sp|A5DYS6|PESC_LODEL Pescadillo homolog OS=Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239) OX=379508 GN=NOP7 PE=3 SV=1 LCR:begin=479, end=501
+EAEEEEEEEEEDEEEEEEEEEIE
+>sp|Q55AV3|LVSD_DICDI BEACH domain-containing protein lvsD OS=Dictyostelium discoideum OX=44689 GN=lvsD PE=4 SV=2 LCR:begin=913, end=936
+NNNNNSNNNNNNNNSNSNNNNINI
+>sp|A5VBQ6|CH60_SPHWW 60 kDa chaperonin OS=Sphingomonas wittichii (strain RW1 / DSM 6014 / JCM 10273) OX=392499 GN=groL PE=3 SV=1 LCR:begin=534, end=546
+GGGMGGMGGMGGM
+>sp|P34611|NCL1_CAEEL B-box type zinc finger protein ncl-1 OS=Caenorhabditis elegans OX=6239 GN=ncl-1 PE=2 SV=1 LCR:begin=180, end=196
+SSSSSTSSSSSASSTSS
+>sp|P48423|GAP1_DROME GTPase-activating protein OS=Drosophila melanogaster OX=7227 GN=RasGAP1 PE=1 SV=2 LCR:begin=1092, end=1110
+HQQQQQHHQQLQQQQSQFQ
+>sp|Q8UZB4|ORF3_GFKVM Uncharacterized protein ORF3 OS=Grapevine fleck virus (isolate Italy/MT48) OX=652668 GN=ORF3 PE=4 SV=1 LCR:begin=80, end=101
+APSTSPPPSSSPPSSPASTPPS
+>sp|Q8T277|PRKAG_DICDI 5'-AMP-activated protein kinase subunit gamma OS=Dictyostelium discoideum OX=44689 GN=prkag PE=3 SV=3 LCR:begin=187, end=214
+SSSPSKSTTTTTTSTSTTTTPSLSSLSS
+>sp|Q54SF4|Y4797_DICDI Putative uncharacterized protein DDB_G0282499 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0282499 PE=4 SV=2 LCR:begin=70, end=185
+NTNNNNNNTTNNNPNNNNNNNNNNPNYNNNNPNYNNNDNNPNNNNNNNNNNNNNNNNNNNNKNYINNKNYINNNNINYINNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNTSNN
+>sp|O22299|LET6_SOLLC Homeobox protein knotted-1-like LET6 OS=Solanum lycopersicum OX=4081 GN=LET6 PE=2 SV=1 LCR:begin=23, end=38
+NNNNNNGNGNGNGNGN
+>sp|Q04213|IOC4_YEAST ISWI one complex protein 4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=IOC4 PE=1 SV=1 LCR:begin=180, end=194
+EEEYVEEEEEENEPE
+>sp|P09405|NUCL_MOUSE Nucleolin OS=Mus musculus OX=10090 GN=Ncl PE=1 SV=2 LCR:begin=240, end=272
+EEEDDEEEDEDDEDEDDEEEDDEDDDEEEEEEE
+>sp|Q6PDM2|SRSF1_MOUSE Serine/arginine-rich splicing factor 1 OS=Mus musculus OX=10090 GN=Srsf1 PE=1 SV=3 LCR:begin=89, end=112
+RSGRGTGRGGGGGGGGGAPRGRYG
+>sp|Q3V4U7|Y567_ATV Structural protein ORF567 OS=Acidianus two-tailed virus OX=315953 PE=4 SV=1 LCR:begin=352, end=372
+GSSSTNSSSSTSNSSSGGTNN
+>sp|Q12489|YD012_YEAST Cysteine-rich and transmembrane domain-containing protein YDL012C OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YDL012C PE=1 SV=1 LCR:begin=38, end=73
+QQNYYPPQQQQQQYQQQPQYYQQQQPQYYQQHPQQP
+>sp|Q6P0Q8|MAST2_HUMAN Microtubule-associated serine/threonine-protein kinase 2 OS=Homo sapiens OX=9606 GN=MAST2 PE=1 SV=2 LCR:begin=1293, end=1307
+SSQSSSPSSSVPSSP
+>sp|Q55F37|SRFC_DICDI Transcription factor mef2A OS=Dictyostelium discoideum OX=44689 GN=mef2A PE=2 SV=2 LCR:begin=525, end=569
+MHPHQMHHQQHQHQQHPQMQQQQQQQQQHQQHPQMQQIQQQQHPQ
+>sp|Q92563|TICN2_HUMAN Testican-2 OS=Homo sapiens OX=9606 GN=SPOCK2 PE=1 SV=1 LCR:begin=394, end=416
+EEEKETEEAGEEAEEEEGEAGEA
+>sp|O97554|PGH1_RABIT Prostaglandin G/H synthase 1 OS=Oryctolagus cuniculus OX=9986 GN=PTGS1 PE=2 SV=1 LCR:begin=9, end=29
+LPVLLLLLLLLLLPPPPPVLP
+>sp|Q4KME6|GGYF2_DANRE GRB10-interacting GYF protein 2 OS=Danio rerio OX=7955 GN=gigyf2 PE=2 SV=2 LCR:begin=844, end=865
+EEALRRLEERRREEEERRQREE
+>sp|A6T3L4|RL7_JANMA 50S ribosomal protein L7/L12 OS=Janthinobacterium sp. (strain Marseille) OX=375286 GN=rplL PE=3 SV=1 LCR:begin=34, end=51
+AAAMAAPAAGGAAGGAAA
+>sp|Q9ZUL3|IDD5_ARATH Protein indeterminate-domain 5, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=IDD5 PE=1 SV=1 LCR:begin=545, end=559
+QQQQQQQQQQQQQQQ
+>sp|O60216|RAD21_HUMAN Double-strand-break repair protein rad21 homolog OS=Homo sapiens OX=9606 GN=RAD21 PE=1 SV=2 LCR:begin=523, end=542
+EKEKEKEKEKEDDEEEEDED
+>sp|Q8FJC7|FTSK_ECOL6 DNA translocase FtsK OS=Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC) OX=199310 GN=ftsK PE=3 SV=1 LCR:begin=786, end=801
+PQPQYQQPQYQQPQQP
+>sp|Q9VT28|FRY_DROME Protein furry OS=Drosophila melanogaster OX=7227 GN=fry PE=1 SV=2 LCR:begin=173, end=202
+QQLLYQQQQQQQQQQSQQQQQQQQQQQQQL
+>sp|Q01538|MYT1_HUMAN Myelin transcription factor 1 OS=Homo sapiens OX=9606 GN=MYT1 PE=1 SV=2 LCR:begin=257, end=305
+EEEDEEEEEEEEEEEEDEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+>sp|P54677|PI4K_DICDI Phosphatidylinositol 4-kinase OS=Dictyostelium discoideum OX=44689 GN=pikD PE=3 SV=3 LCR:begin=269, end=292
+INSNNNNNNNINNNNSNNDDNNNN
+>sp|Q9H7N4|SFR19_HUMAN Splicing factor, arginine/serine-rich 19 OS=Homo sapiens OX=9606 GN=SCAF1 PE=1 SV=3 LCR:begin=1021, end=1038
+EEEEEEEEEEEEEEEEEE
+>sp|P25490|TYY1_HUMAN Transcriptional repressor protein YY1 OS=Homo sapiens OX=9606 GN=YY1 PE=1 SV=2 LCR:begin=45, end=79
+EEDDDDEDGGGGDHGGGGGHGHAGHHHHHHHHHHH
+>sp|P44106|Y1058_HAEIN Uncharacterized protein HI_1058 OS=Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd) OX=71421 GN=HI_1058 PE=3 SV=1 LCR:begin=137, end=179
+SQSVSQSVSQSVSQSVSQSVSQSVSQSVSQSVSQSVSQSVSQS
+>sp|G5EEN4|GCK3_CAEEL Germinal center kinase 3 OS=Caenorhabditis elegans OX=6239 GN=gck-3 PE=1 SV=1 LCR:begin=457, end=481
+ASASASGAGAAGAAGGATGGAASGA
+>sp|Q55GF9|ICPA_DICDI Inner centromere protein A OS=Dictyostelium discoideum OX=44689 GN=icpA PE=1 SV=1 LCR:begin=824, end=848
+QQEKEKQEKQKQQQQQQEEEQQKKK
+>sp|Q6P5B0|RRP12_MOUSE RRP12-like protein OS=Mus musculus OX=10090 GN=Rrp12 PE=1 SV=1 LCR:begin=1054, end=1064
+EEEEEEEEEEE
+>sp|Q55GP8|GACO_DICDI Rho GTPase-activating protein gacO OS=Dictyostelium discoideum OX=44689 GN=gacO PE=3 SV=1 LCR:begin=99, end=114
+PPTTTTTTTTTMPPPP
+>sp|Q54E21|RFC2_DICDI Probable replication factor C subunit 2 OS=Dictyostelium discoideum OX=44689 GN=rfc2 PE=3 SV=1 LCR:begin=1, end=14
+TTTTTTTTNTNTTN
+>sp|P27464|RLA1_POLPE 60S acidic ribosomal protein P1 OS=Polyorchis penicillatus OX=6091 PE=3 SV=1 LCR:begin=61, end=78
+GSSGPAAGAPAAGAAGGA
+>sp|P97471|SMAD4_MOUSE Mothers against decapentaplegic homolog 4 OS=Mus musculus OX=10090 GN=Smad4 PE=1 SV=2 LCR:begin=444, end=464
+QMQQQAATAQAAAAAQAAAVA
+>sp|C8ZDL9|HAP1_YEAS8 Heme-responsive zinc finger transcription factor HAP1 OS=Saccharomyces cerevisiae (strain Lalvin EC1118 / Prise de mousse) OX=643680 GN=HAP1 PE=3 SV=1 LCR:begin=176, end=188
+QQQQQQQQQEQQQ
+>sp|Q2LZ59|MOB2_DROPS MOB kinase activator-like 2 OS=Drosophila pseudoobscura pseudoobscura OX=46245 GN=Mob1 PE=3 SV=2 LCR:begin=470, end=515
+NNNNNNHNLNHLNHHHHHHHHQHHHQHHPHGHHGHQGHQGHQGHHQ
+>sp|B4MUE1|AFFL_DROWI AF4/FMR2 family member lilli OS=Drosophila willistoni OX=7260 GN=lilli PE=3 SV=1 LCR:begin=31, end=60
+LLLLQQQQQQQQQQQQQQQQLLQQEQQLQQ
+>sp|P02457|CO1A1_CHICK Collagen alpha-1(I) chain OS=Gallus gallus OX=9031 GN=COL1A1 PE=1 SV=3 LCR:begin=127, end=146
+PGQPGLPGPPGPPGPPGLGG
+>sp|P50222|MEOX2_HUMAN Homeobox protein MOX-2 OS=Homo sapiens OX=9606 GN=MEOX2 PE=1 SV=2 LCR:begin=62, end=85
+QHHRGHHHHHHHHHHHHHQQQQHQ
+>sp|P20617|ANP8_MYOAE Ice-structuring protein GS-8 OS=Myoxocephalus aenaeus OX=8096 PE=1 SV=1 LCR:begin=6, end=39
+AQKAARLAAAAAALAAKTAADAAAKAAAIAAAAA
+>sp|Q98329|MC163_MCV1 Apoptosis regulator MC163R OS=Molluscum contagiosum virus subtype 1 OX=10280 GN=MC163R PE=3 SV=1 LCR:begin=108, end=129
+LALTAPLPLLLLPLLLPPMILL
+>sp|P04261|K2C3_BOVIN Keratin, type II cytoskeletal 60 kDa, component III (Fragment) OS=Bos taurus OX=9913 PE=2 SV=1 LCR:begin=80, end=124
+SSGYGGGSGFGGGLGGGLGGGLGGGLGGGLGGGLGSGLGGGGSSS
+>sp|Q6Z528|ZHD10_ORYSJ Zinc-finger homeodomain protein 10 OS=Oryza sativa subsp. japonica OX=39947 GN=ZHD10 PE=3 SV=1 LCR:begin=93, end=122
+PPSPPLLALPPPPPPPPPPPPPPQPQQHLP
+>sp|P33244|FTZF1_DROME Nuclear hormone receptor FTZ-F1 OS=Drosophila melanogaster OX=7227 GN=ftz-f1 PE=1 SV=2 LCR:begin=24, end=46
+HHHLQHQHQQQHSHQQQQQQQLL
+>sp|Q68A65|SPT21_RAT Spermatogenesis-associated protein 21 OS=Rattus norvegicus OX=10116 GN=Spata21 PE=2 SV=1 LCR:begin=239, end=258
+SPRPPPPPPSPPPPPPPEER
+>sp|Q1L5Z8|HOG1_TORDE Mitogen-activated protein kinase HOG1 OS=Torulaspora delbrueckii OX=4950 GN=HOG1 PE=1 SV=1 LCR:begin=361, end=383
+QVAAATAAAAHAAAVAQAQAQAH
+>sp|Q9SQV1|RH40_ARATH DEAD-box ATP-dependent RNA helicase 40 OS=Arabidopsis thaliana OX=3702 GN=RH40 PE=2 SV=1 LCR:begin=979, end=999
+SYSRSRSRSRSWSRSRSRSPR
+>sp|P54258|ATN1_RAT Atrophin-1 OS=Rattus norvegicus OX=10116 GN=Atn1 PE=1 SV=1 LCR:begin=804, end=829
+REEKEREREREREKEREREKERELER
+>sp|Q9DDT5|SPT5H_DANRE Transcription elongation factor SPT5 OS=Danio rerio OX=7955 GN=supt5h PE=1 SV=1 LCR:begin=673, end=698
+PGGGGQPQRGGGGGGGGGMGRGRGRR
+>sp|Q5XI70|PCGF6_RAT Polycomb group RING finger protein 6 OS=Rattus norvegicus OX=10116 GN=Pcgf6 PE=2 SV=1 LCR:begin=79, end=100
+EDYDEELEEDEEMEEEEEEEEE
+>sp|Q54D75|Y2550_DICDI Probable cyclin-dependent serine/threonine-protein kinase DDB_G0292550 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0292550 PE=3 SV=1 LCR:begin=542, end=581
+NDDNNNNNSYNNVNNNNINNNNNNNNGFNGFNNYGNNFNN
+>sp|F5B8V8|CONA3_LUPAN Conglutin alpha 3 OS=Lupinus angustifolius OX=3871 GN=TanjilG_01206 PE=1 SV=1 LCR:begin=294, end=321
+EEPRQRRRRERREEREEEEKEEEDEPRE
+>sp|O22315|SR34_ARATH Serine/arginine-rich-splicing factor SR34 OS=Arabidopsis thaliana OX=3702 GN=SR34 PE=1 SV=1 LCR:begin=212, end=234
+SRSRSRGRSVSRSRSRSRSRSRS
+>sp|Q40505|FL2_TOBAC Floricaula/leafy homolog 2 OS=Nicotiana tabacum OX=4097 GN=FL2 PE=2 SV=1 LCR:begin=27, end=43
+AAVAPPPPPPALPPPQP
+>sp|Q86IW1|Y7918_DICDI Uncharacterized protein DDB_G0274353 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0274353 PE=4 SV=1 LCR:begin=258, end=288
+INNNNNNNNNNSNNNNNNNNSNNNDNNNNIN
+>sp|Q555C6|VP13B_DICDI Putative vacuolar protein sorting-associated protein 13B OS=Dictyostelium discoideum OX=44689 GN=vps13B PE=3 SV=1 LCR:begin=805, end=833
+NSDNNNNNISDNINNNNNINNKNNINNNK
+>sp|P31009|RS2_DROME 40S ribosomal protein S2 OS=Drosophila melanogaster OX=7227 GN=RpS2 PE=1 SV=2 LCR:begin=7, end=35
+RSGFRGGFGSRGGRGGRGRGRGRWARGRG
+>sp|Q5BKY9|F133B_HUMAN Protein FAM133B OS=Homo sapiens OX=9606 GN=FAM133B PE=1 SV=1 LCR:begin=104, end=124
+SSSSSSSSDSSSSSSDSEDED
+>sp|C5BWS3|IF2_BEUC1 Translation initiation factor IF-2 OS=Beutenbergia cavernae (strain ATCC BAA-8 / DSM 12333 / NBRC 16432) OX=471853 GN=infB PE=3 SV=1 LCR:begin=255, end=289
+RGGSGGPGGGRGGPGGGRGGGGGFGGAPGRGGPGG
+>sp|C0PZJ5|OBG_SALPC GTPase Obg OS=Salmonella paratyphi C (strain RKS4594) OX=476213 GN=obg PE=3 SV=1 LCR:begin=364, end=381
+EEDADDDWDDDWDEDDEE
+>sp|Q555D2|NUPL_DICDI Nuclear pore complex protein DDB_G0274915 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0274915 PE=4 SV=2 LCR:begin=1249, end=1260
+ATTTTTAATTAT
+>sp|Q5EA53|T2FA_BOVIN General transcription factor IIF subunit 1 OS=Bos taurus OX=9913 GN=GTF2F1 PE=2 SV=1 LCR:begin=308, end=327
+EESEEEKPPEEDKEEEEEKK
+>sp|Q8VHZ4|PNMA1_RAT Paraneoplastic antigen Ma1 homolog OS=Rattus norvegicus OX=10116 GN=Pnma1 PE=2 SV=1 LCR:begin=329, end=342
+EEEAKEEEEEAEAA
+>sp|A6RGE3|DBP2_AJECN ATP-dependent RNA helicase DBP2 OS=Ajellomyces capsulatus (strain NAm1 / WU24) OX=339724 GN=DBP2 PE=3 SV=1 LCR:begin=509, end=526
+GSGGGGNRWGGRGRGRGG
+>sp|P32378|COQ2_YEAST 4-hydroxybenzoate polyprenyltransferase, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=COQ2 PE=1 SV=1 LCR:begin=35, end=45
+SSSSSSSSPSS
+>sp|P50344|RLA1_DAVTA 60S acidic ribosomal protein P1 OS=Davidiella tassiana OX=29918 GN=CLAH12 PE=1 SV=1 LCR:begin=65, end=82
+GGGAAPAAGGAAAGGAAA
+>sp|Q6GIK4|CLFA_STAAR Clumping factor A OS=Staphylococcus aureus (strain MRSA252) OX=282458 GN=clfA PE=3 SV=1 LCR:begin=590, end=941
+SDSGSDSASDSDSASDSDSASDSDSASDSDSASDSDSASDSDSASDSDSTSDSDSTSDSDSASDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSESDSDSDSDSDSDSDSDSDSDSDSVSDSDSDSDSDSESDSDSDSDSDSDSDSDSESDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSESDSDSDSDSDSDSDSDSDSDSDSDSDSDLDSDSDSDSDSDSDSDSDSDSDSDSDSDSDLDSDSDSDSDSDSDSDSASDSDSDSDSDSDSESDSDSDSDSDSDSDSASDSDSDSDSASDSDSDSTSD
+>sp|Q00194|CNGA1_BOVIN cGMP-gated cation channel alpha-1 OS=Bos taurus OX=9913 GN=CNGA1 PE=1 SV=1 LCR:begin=119, end=151
+KKDPEKKKKKEKDKDKKKKEEKGKDKKEEEKKE
+>sp|A8ICS9|CFA46_CHLRE Cilia- and flagella-associated protein 46 OS=Chlamydomonas reinhardtii OX=3055 GN=CFAP46 PE=1 SV=1 LCR:begin=2096, end=2112
+DTAAADAAAEAAEAAAT
+>sp|Q9NQX0|PRDM6_HUMAN Putative histone-lysine N-methyltransferase PRDM6 OS=Homo sapiens OX=9606 GN=PRDM6 PE=1 SV=2 LCR:begin=83, end=110
+ASSSTSASSASSCAAAAAAAALAGLSAL
+>sp|Q8LDS4|NAKR1_ARATH Protein SODIUM POTASSIUM ROOT DEFECTIVE 1 OS=Arabidopsis thaliana OX=3702 GN=NAKR1 PE=1 SV=1 LCR:begin=223, end=241
+SPPPPPPPSPPQSSPPSPP
+>sp|B3NAM7|AFFL_DROER AF4/FMR2 family member lilli OS=Drosophila erecta OX=7220 GN=lilli PE=3 SV=1 LCR:begin=1264, end=1284
+ERDRDRERERERERERDRERE
+>sp|Q01851|PO4F1_HUMAN POU domain, class 4, transcription factor 1 OS=Homo sapiens OX=9606 GN=POU4F1 PE=1 SV=4 LCR:begin=219, end=249
+VAAAAHHGAAAAAAAAAAGQVAAASAAAAVV
+>sp|Q54GY6|KXCA_DICDI Kinase and exchange factor for Rac A OS=Dictyostelium discoideum OX=44689 GN=kxcA PE=3 SV=1 LCR:begin=508, end=533
+QQQQQQQQQQQQQQQQQDNQSSSQNQ
+>sp|P56388|CART_MOUSE Cocaine- and amphetamine-regulated transcript protein OS=Mus musculus OX=10090 GN=Cartpt PE=1 SV=2 LCR:begin=4, end=23
+RLRLLPLLGAALLLLLPLLG
+>sp|Q55E26|GXCB_DICDI Rac guanine nucleotide exchange factor B OS=Dictyostelium discoideum OX=44689 GN=gxcB PE=2 SV=1 LCR:begin=976, end=989
+NSNNNNNSNSNKSN
+>sp|Q9Y5H5|PCDA9_HUMAN Protocadherin alpha-9 OS=Homo sapiens OX=9606 GN=PCDHA9 PE=2 SV=1 LCR:begin=916, end=933
+GKKEETKKKKKKKKGNKT
+>sp|Q6MJ06|RL7_BDEBA 50S ribosomal protein L7/L12 OS=Bdellovibrio bacteriovorus (strain ATCC 15356 / DSM 50701 / NCIB 9529 / HD100) OX=264462 GN=rplL PE=3 SV=1 LCR:begin=34, end=49
+AAAPVAAAAAGPAAAV
+>sp|Q8BG79|C19L2_MOUSE CWF19-like protein 2 OS=Mus musculus OX=10090 GN=Cwf19l2 PE=1 SV=1 LCR:begin=79, end=96
+KHSKKVKKEKKKKRKKQK
+>sp|Q72AL6|CH60_DESVH 60 kDa chaperonin OS=Desulfovibrio vulgaris (strain Hildenborough / ATCC 29579 / DSM 644 / NCIMB 8303) OX=882 GN=groL PE=3 SV=1 LCR:begin=530, end=545
+MPMPGGMGGMGGMGGM
+>sp|Q8W3L9|EIL2_ORYSJ Protein ETHYLENE-INSENSITIVE 3-like 2 OS=Oryza sativa subsp. japonica OX=39947 GN=EIL2 PE=2 SV=2 LCR:begin=61, end=83
+EDESDGDDDDDDDDDVDDIEELE
+>sp|P22681|CBL_HUMAN E3 ubiquitin-protein ligase CBL OS=Homo sapiens OX=9606 GN=CBL PE=1 SV=2 LCR:begin=7, end=23
+SSGAGGGSGSGGSGSGG
+>sp|P0DOS3|A31_VAR67 Protein A31 OS=Variola virus (isolate Human/India/Ind3/1967) OX=587200 GN=A31R PE=3 SV=1 LCR:begin=112, end=130
+NNNYNNYNNYNNYYNCYNY
+>sp|Q54VB4|HBX9_DICDI Homeobox protein 9 OS=Dictyostelium discoideum OX=44689 GN=hbx9 PE=3 SV=1 LCR:begin=436, end=463
+NKNNNNNNNNNNNNNNNYHSNNNNYSNS
+>sp|P38835|YHT1_YEAST PH domain-containing protein YHR131C OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YHR131C PE=1 SV=2 LCR:begin=800, end=845
+GEDDGDGDDGEDDDDDDDDDDDDDDDEDDDDDDDDDDDDDDDDDDG
+>sp|A6ZMM3|MSS11_YEAS7 Transcription activator MSS11 OS=Saccharomyces cerevisiae (strain YJM789) OX=307796 GN=MSS11 PE=3 SV=1 LCR:begin=589, end=618
+NNNNNNNNNNNNNNNSNNSNNNNNNNNSNN
+>sp|P33402|GCYA2_HUMAN Guanylate cyclase soluble subunit alpha-2 OS=Homo sapiens OX=9606 GN=GUCY1A2 PE=1 SV=1 LCR:begin=47, end=73
+PSPAAAAAAAAPAPTPAASAAAAAATA
+>sp|Q55FD8|GEFV_DICDI Ras guanine nucleotide exchange factor V OS=Dictyostelium discoideum OX=44689 GN=gefV PE=2 SV=1 LCR:begin=531, end=564
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+>sp|P22561|WT1_MOUSE Wilms tumor protein homolog OS=Mus musculus OX=10090 GN=Wt1 PE=1 SV=1 LCR:begin=54, end=67
+PAPPPAPPPPPPPP
+>sp|Q55GG6|ERCC1_DICDI DNA excision repair protein ERCC-1 OS=Dictyostelium discoideum OX=44689 GN=ercc1 PE=3 SV=1 LCR:begin=424, end=443
+KTKPSTKTTTTTTTTTTTTT
+>sp|Q940A7|TA12B_ARATH Transcription initiation factor TFIID subunit 12b OS=Arabidopsis thaliana OX=3702 GN=TAF12B PE=1 SV=1 LCR:begin=389, end=413
+SQRQALLLQQQQQQQQQLSSPQLHQ
+>sp|P42846|KRI1_YEAST Protein KRI1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=KRI1 PE=1 SV=1 LCR:begin=52, end=66
+EDEEEDEEEEEEEDD
+>sp|O96433|CCNT_DROME Cyclin-T OS=Drosophila melanogaster OX=7227 GN=CycT PE=1 SV=2 LCR:begin=994, end=1010
+GGGGYSSSGGSSSGGSS
+>sp|Q86J11|Y4267_DICDI Kelch repeat-containing protein DDB_G0274267 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0274267 PE=4 SV=2 LCR:begin=108, end=126
+SSGGGGSGGVVFSGGGGGG
+>sp|O35253|SMAD7_MOUSE Mothers against decapentaplegic homolog 7 OS=Mus musculus OX=10090 GN=Smad7 PE=1 SV=1 LCR:begin=19, end=40
+GGEDEEEGVGGGGGGGELRGEG
+>sp|P83211|HSP1_MURBR Sperm protamine P1 OS=Murex brandaris OX=181909 PE=1 SV=1 LCR:begin=42, end=56
+KGKGKAKGKGKGKGK
+>sp|Q008X6|R1AB_WBV24 Replicase polyprotein 1ab OS=White bream virus (isolate Blicca bjoerkna L./Germany/DF24/00) OX=766180 GN=rep PE=1 SV=1 LCR:begin=161, end=174
+TNTPTTPTTTTTTP
+>sp|Q54LU8|Y8646_DICDI Probable serine/threonine-protein kinase DDB_G0286465 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0286465 PE=3 SV=1 LCR:begin=966, end=992
+NNNNNNNNNNNNNNNNNNNNNNNNNNN
+>sp|Q8IID4|DYHC2_PLAF7 Dynein heavy chain-like protein PF11_0240 OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF11_0240 PE=1 SV=1 LCR:begin=691, end=729
+NNNNDNNDNNNNDNNNNNNNDNNNNNNNNNNNNNNNNDN
+>sp|P21519|MAM_DROME Neurogenic protein mastermind OS=Drosophila melanogaster OX=7227 GN=mam PE=2 SV=2 LCR:begin=1514, end=1535
+GSANNNNGGGGGGAAGGGNSAS
+>sp|A3MN99|DNAK_BURM7 Chaperone protein DnaK OS=Burkholderia mallei (strain NCTC 10247) OX=320389 GN=dnaK PE=3 SV=1 LCR:begin=609, end=630
+QAQQAGAAGAAGAAAEGASAQG
+>sp|Q54SZ6|Y8359_DICDI Putative uncharacterized protein DDB_G0282133 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0282133 PE=4 SV=2 LCR:begin=444, end=477
+NKNKNKNKNKNNNNNNNNNNNNNNNNNNNNNSNN
+>sp|P0A467|RL7_AQUPY 50S ribosomal protein L7/L12 OS=Aquifex pyrophilus OX=2714 GN=rplL PE=3 SV=1 LCR:begin=35, end=55
+AAAMVAAAPAAGAAAGAPAQA
+>sp|A8MPH9|FOSLD_DROME Transcription factor kayak, isoforms D/sro OS=Drosophila melanogaster OX=7227 GN=kay PE=1 SV=2 LCR:begin=15, end=41
+LQQQQQLQHQLLQQHQQQHQQQLQQQL
+>sp|P0DOL0|A12_VARV 25 kDa core protein A12L OS=Variola virus OX=10255 GN=A12L PE=2 SV=1 LCR:begin=70, end=88
+KSKSSSSSTSTSKSSKNTS
+>sp|Q9D4V4|TAF1D_MOUSE TATA box-binding protein-associated factor RNA polymerase I subunit D OS=Mus musculus OX=10090 GN=Taf1d PE=1 SV=2 LCR:begin=82, end=93
+KKKKRKKRKKRK
+>sp|Q54VF4|Y8236_DICDI TPR-containing protein DDB_G0280363 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0280363 PE=4 SV=2 LCR:begin=127, end=150
+YYNQQQQQHQHQQQQYYHEQQQQH
+>sp|O82170|IKU1_ARATH Protein HAIKU1 OS=Arabidopsis thaliana OX=3702 GN=IKU1 PE=1 SV=1 LCR:begin=220, end=235
+QSQSQSQPQPQPQPQQ
+>sp|P55011|S12A2_HUMAN Solute carrier family 12 member 2 OS=Homo sapiens OX=9606 GN=SLC12A2 PE=1 SV=1 LCR:begin=89, end=112
+AGRAAAAAAAAAAAAAAAGAGAGA
+>sp|Q91ZF7|AARD_RAT Alanine and arginine-rich domain-containing protein OS=Rattus norvegicus OX=10116 GN=Aard PE=2 SV=1 LCR:begin=75, end=97
+RARRAREAVAAVAAAAAAAREER
+>sp|B3PXE3|IF2_RHIE6 Translation initiation factor IF-2 OS=Rhizobium etli (strain CIAT 652) OX=491916 GN=infB PE=3 SV=1 LCR:begin=184, end=202
+AEAPAAAEPAVAAAPAPVV
+>sp|Q6BUE3|PXR1_DEBHA Protein PXR1 OS=Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / JCM 1990 / NBRC 0083 / IGC 2968) OX=284592 GN=PXR1 PE=3 SV=1 LCR:begin=188, end=266
+EKENSEIKKKKKEKKEKKEKKEKKDKNEKKEKKDKNEKKEKKDKNEEKEKKEKKEKKEKKDKKDKKDKKDKKEKKEVKE
+>sp|Q8BHG1|NRDC_MOUSE Nardilysin OS=Mus musculus OX=10090 GN=Nrdc PE=1 SV=1 LCR:begin=171, end=200
+DDDEEGFDDEEEFDDDDDDEHDDDDLENEE
+>sp|B0VXV8|BNP_SISCA Bradykinin potentiating and C-type natriuretic peptides OS=Sistrurus catenatus edwardsii OX=8762 PE=2 SV=1 LCR:begin=159, end=168
+GGGGGGGGGG
+>sp|P69734|REV_SIVML Protein Rev OS=Simian immunodeficiency virus (isolate K78) OX=11736 GN=rev PE=3 SV=1 LCR:begin=35, end=49
+QRRQRRRRWRRRWQQ
+>sp|Q86IG2|Y2682_DICDI Uncharacterized protein DDB_G0272682 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0272682 PE=4 SV=1 LCR:begin=198, end=219
+SNNSIGSSGGNGGGGSNGSSPS
+>sp|Q48E63|DNAJ_PSE14 Chaperone protein DnaJ OS=Pseudomonas savastanoi pv. phaseolicola (strain 1448A / Race 6) OX=264730 GN=dnaJ PE=3 SV=1 LCR:begin=105, end=117
+GGGRGGGGGGRGG
+>sp|G5EEH9|NUP98_CAEEL Nuclear pore complex protein Nup98-Nup96 OS=Caenorhabditis elegans OX=6239 GN=npp-10 PE=1 SV=1 LCR:begin=6, end=23
+SFGSSSFGGGSSGSGLFG
+>sp|Q336V9|BSK12_ORYSJ Serine/threonine-protein kinase BSK1-2 OS=Oryza sativa subsp. japonica OX=39947 GN=BSK1-2 PE=2 SV=2 LCR:begin=45, end=59
+AAASSSAASAAPAPA
+>sp|P9WIG2|PG03_MYCTO Uncharacterized PE-PGRS family protein PE_PGRS3 OS=Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh) OX=83331 GN=PE_PGRS3 PE=3 SV=1 LCR:begin=257, end=279
+GGVGGSGGAGSSGGAGGAGGAGG
+>sp|Q9BWU0|NADAP_HUMAN Kanadaptin OS=Homo sapiens OX=9606 GN=SLC4A1AP PE=1 SV=1 LCR:begin=641, end=669
+KDEPEVEEEEEEEEEEEKEKEEHEKKKLE
+>sp|Q91743|FGFR4_XENLA Fibroblast growth factor receptor 4 OS=Xenopus laevis OX=8355 GN=fgfr4 PE=2 SV=1 LCR:begin=134, end=152
+GDEEEEEEDDDDEDGRRED
+>sp|O97239|DOP1_PLAF7 Protein dopey homolog PFC0245c OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PFC0245c PE=1 SV=1 LCR:begin=1215, end=1252
+DDTDDDDDDDDDDDDEEEDDDDEDDDDEDDEEEDDEED
+>sp|Q12499|NOP58_YEAST Nucleolar protein 58 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NOP58 PE=1 SV=1 LCR:begin=444, end=462
+DDEEEEKKEKKEKKRKRDD
+>sp|Q9VXE6|NU153_DROME Nuclear pore complex protein Nup153 OS=Drosophila melanogaster OX=7227 GN=Nup153 PE=1 SV=4 LCR:begin=28, end=41
+EESEEEEEEEDESS
+>sp|A0LE19|IF2_MAGMM Translation initiation factor IF-2 OS=Magnetococcus marinus (strain ATCC BAA-1437 / JCM 17883 / MC-1) OX=156889 GN=infB PE=3 SV=1 LCR:begin=158, end=189
+AEEEAARAAAAAPAAPVAAPAEAAPAVPVAVA
+>sp|P50142|HSP60_AJECA Heat shock protein 60, mitochondrial OS=Ajellomyces capsulatus OX=5037 GN=HSP60 PE=3 SV=2 LCR:begin=570, end=588
+GPAGPPGGMGGMGGMGGGM
+>sp|Q8A468|RL7_BACTN 50S ribosomal protein L7/L12 OS=Bacteroides thetaiotaomicron (strain ATCC 29148 / DSM 2079 / NCTC 10582 / E50 / VPI-5482) OX=226186 GN=rplL PE=3 SV=1 LCR:begin=33, end=51
+PAAAAVAVAAGPAAGAAAV
+>sp|Q54B46|MED15_DICDI Putative mediator of RNA polymerase II transcription subunit 15 OS=Dictyostelium discoideum OX=44689 GN=med15 PE=3 SV=1 LCR:begin=804, end=826
+NDLNQLNNNINNNNNNNNSFSDN
+>sp|Q55DE2|SDA1_DICDI Protein SDA1 homolog OS=Dictyostelium discoideum OX=44689 GN=sdad1 PE=3 SV=1 LCR:begin=574, end=595
+DDDDDEEWEEVEEEVEEEEEEE
+>sp|A0K6X5|IF2_BURCH Translation initiation factor IF-2 OS=Burkholderia cenocepacia (strain HI2424) OX=331272 GN=infB PE=3 SV=1 LCR:begin=179, end=201
+AAAEVAAAQQQAAAQQAAAEQEA
+>sp|Q0WPR6|SAU65_ARATH Auxin-responsive protein SAUR65 OS=Arabidopsis thaliana OX=3702 GN=SAUR65 PE=2 SV=1 LCR:begin=29, end=44
+STTTTTTTTTTTSSST
+>sp|A0A286YEX9|SCGRX_HUMAN Small cysteine and glycine repeat-containing protein 10 OS=Homo sapiens OX=9606 GN=SCYGR10 PE=1 SV=1 LCR:begin=1, end=40
+GCCGCGGCGGRCSGGCGGGCGGGCGGGCGGGCGGCGGGCG
+>sp|P48665|CYB_HORSE Cytochrome b OS=Equus caballus OX=9796 GN=MT-CYB PE=3 SV=1 LCR:begin=229, end=243
+LGLLLLILLLLTLVL
+>sp|O88671|DLL3_RAT Delta-like protein 3 OS=Rattus norvegicus OX=10116 GN=Dll3 PE=2 SV=1 LCR:begin=497, end=513
+ALGLLAAAALAGAALLL
+>sp|Q6ZRS2|SRCAP_HUMAN Helicase SRCAP OS=Homo sapiens OX=9606 GN=SRCAP PE=1 SV=3 LCR:begin=1141, end=1157
+AAATTTSTTTATATTTA
+>sp|Q99395|YP229_YEAST Uncharacterized protein YPL229W OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YPL229W PE=1 SV=1 LCR:begin=39, end=50
+QQQQQQQQQQQQ
+>sp|Q54M23|Y8800_DICDI Putative uncharacterized protein DDB_G0286333 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0286333 PE=4 SV=1 LCR:begin=430, end=458
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+>sp|Q60829|PPR1B_MOUSE Protein phosphatase 1 regulatory subunit 1B OS=Mus musculus OX=10090 GN=Ppp1r1b PE=1 SV=2 LCR:begin=113, end=128
+EDDEEDEDEEEDEEED
+>sp|Q5DRF3|PCDAB_PANTR Protocadherin alpha-11 OS=Pan troglodytes OX=9598 GN=PCDHA11 PE=3 SV=1 LCR:begin=915, end=932
+GKKEETKKKKKKKKGNKT
+>sp|Q8BVU0|LRCH3_MOUSE DISP complex protein LRCH3 OS=Mus musculus OX=10090 GN=Lrch3 PE=1 SV=3 LCR:begin=758, end=773
+PPKQPPPQQPQQQQPQ
+>sp|Q55G83|ABKC_DICDI Probable serine/threonine-protein kinase abkC OS=Dictyostelium discoideum OX=44689 GN=abkC PE=3 SV=1 LCR:begin=47, end=82
+NYKNFNYNYKNKNNYNNNNNNNNSNSSSNNNGSNNN
+>sp|B8HFN5|RS2_PSECP 30S ribosomal protein S2 OS=Pseudarthrobacter chlorophenolicus (strain ATCC 700700 / DSM 12829 / CIP 107037 / JCM 12360 / KCTC 9906 / NCIMB 13794 / A6) OX=452863 GN=rpsB PE=3 SV=1 LCR:begin=256, end=287
+AEEAAAAAPAENAEAPAAPAAEAPAAAEAPAE
+>sp|Q04956|ATX1_PLAFA Probable cation-transporting ATPase 1 OS=Plasmodium falciparum OX=5833 PE=3 SV=1 LCR:begin=1362, end=1376
+NNNNNNNKNNSKEKK
+>sp|Q552C1|Y9957_DICDI Probable serine/threonine-protein kinase DDB_G0276181 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0276181 PE=3 SV=1 LCR:begin=481, end=503
+NTTTTTTTTTTTTAPTTTNTNTN
+>sp|P29128|ICP0_BHV1J E3 ubiquitin-protein ligase ICP0 OS=Bovine herpesvirus 1.1 (strain Jura) OX=31518 GN=BICP0 PE=1 SV=1 LCR:begin=519, end=536
+TPAAAAAVTAAAAAPSVA
+>sp|P12035|K2C3_HUMAN Keratin, type II cytoskeletal 3 OS=Homo sapiens OX=9606 GN=KRT3 PE=1 SV=3 LCR:begin=535, end=552
+GGYGGGYGGGMGGGLGGG
+>sp|Q3UJB9|EDC4_MOUSE Enhancer of mRNA-decapping protein 4 OS=Mus musculus OX=10090 GN=Edc4 PE=1 SV=2 LCR:begin=608, end=642
+SASPSSSSSSSSSSSSSSSSSSSSLTAVSAVSSSS
+>sp|P32257|MED15_KLULA Mediator of RNA polymerase II transcription subunit 15 OS=Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) OX=284590 GN=GAL11 PE=3 SV=3 LCR:begin=389, end=419
+QQQSQLLQQQQQQQQQQQQQQRQQQIPQVQQ
+>sp|P02604|MLE1_CHICK Myosin light chain 1, skeletal muscle isoform OS=Gallus gallus OX=9031 PE=1 SV=3 LCR:begin=7, end=34
+KKPAAAAAPAPAPAPAPAPAPAKPKEPA
+>sp|A3N8V8|IF2_BURP6 Translation initiation factor IF-2 OS=Burkholderia pseudomallei (strain 668) OX=320373 GN=infB PE=3 SV=1 LCR:begin=170, end=201
+AEEEAAAKRAAAAQAEAAQQAAAAREQAQRAQ
+>sp|A9MIF9|ZIPA_SALAR Cell division protein ZipA OS=Salmonella arizonae (strain ATCC BAA-731 / CDC346-86 / RSK2980) OX=41514 GN=zipA PE=3 SV=1 LCR:begin=105, end=131
+PPQPQAPQQQPVQQPPQPVPPPQQVQP
+>sp|Q7SCN0|FKBP4_NEUCR FK506-binding protein 4 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=fkr-4 PE=3 SV=1 LCR:begin=213, end=230
+EDDEEDSEDDEDESDDED
+>sp|P30936|SSR3_RAT Somatostatin receptor type 3 OS=Rattus norvegicus OX=10116 GN=Sstr3 PE=1 SV=1 LCR:begin=357, end=374
+EEEEDEEEEERREEEERR
+>sp|P03720|VPIP_BPT4 Prehead core component PIP OS=Enterobacteria phage T4 OX=10665 GN=67 PE=4 SV=1 LCR:begin=47, end=79
+EEPEDEDEDEDDEDSDDKDDKKDEDSDEDEDDE
+>sp|Q54F65|TIRC_DICDI Protein tirC OS=Dictyostelium discoideum OX=44689 GN=tirC PE=2 SV=1 LCR:begin=28, end=50
+NSSVINNNNNNNYNNNSISNGNN
+>sp|P20105|E74EA_DROME Ecdysone-induced protein 74EF isoform A OS=Drosophila melanogaster OX=7227 GN=Eip74EF PE=2 SV=2 LCR:begin=655, end=678
+SSAVAAAAMLSASAAAAATAAAAA
+>sp|P19837|SPD1_NEPCL Spidroin-1 (Fragment) OS=Nephila clavipes OX=2585209 PE=1 SV=3 LCR:begin=580, end=606
+QGAGRGGQGAGAAAAAAGGAGQGGYGG
+>sp|A1L317|K1C24_MOUSE Keratin, type I cytoskeletal 24 OS=Mus musculus OX=10090 GN=Krt24 PE=2 SV=2 LCR:begin=80, end=120
+SSYGGGSGFGGSSGFGGGSGFGGGSGFGGGSSGGFSSYGGS
+>sp|P21519|MAM_DROME Neurogenic protein mastermind OS=Drosophila melanogaster OX=7227 GN=mam PE=2 SV=2 LCR:begin=753, end=775
+QQQQAMQQQQQQQHHQQQQQQQQ
+>sp|Q24206|BRC4_DROME Broad-complex core protein isoform 6 OS=Drosophila melanogaster OX=7227 GN=br PE=1 SV=2 LCR:begin=452, end=465
+SNSSSNNNNNNSNN
+>sp|O15069|NACAD_HUMAN NAC-alpha domain-containing protein 1 OS=Homo sapiens OX=9606 GN=NACAD PE=1 SV=3 LCR:begin=1508, end=1516
+EEEEEEEEE
+>sp|Q9VX39|TM41_DROME Transmembrane protein 41 homolog OS=Drosophila melanogaster OX=7227 GN=stas PE=2 SV=2 LCR:begin=43, end=67
+QEQQDLNPQQQQQQQQQQQATPQKQ
+>sp|Q54Y73|BZPD_DICDI Probable basic-leucine zipper transcription factor D OS=Dictyostelium discoideum OX=44689 GN=bzpD PE=3 SV=1 LCR:begin=191, end=202
+TTTTTTTTTTAT
+>sp|Q5R4U5|CNPD1_PONAB Protein CNPPD1 OS=Pongo abelii OX=9601 GN=CNPPD1 PE=2 SV=1 LCR:begin=317, end=331
+PPPLPPPDPPAPPTP
+>sp|Q54ER4|ATR1_DICDI Probable serine/threonine-protein kinase atr1 OS=Dictyostelium discoideum OX=44689 GN=atr1 PE=3 SV=1 LCR:begin=805, end=835
+TTTTTTTTTTTTTTTTTTATTNTTTTTATTT
+>sp|Q1LWL6|GSE1_DANRE Genetic suppressor element 1 OS=Danio rerio OX=7955 GN=gse1 PE=4 SV=1 LCR:begin=1086, end=1101
+EESEEEEEEDDTEEDE
+>sp|Q54TL0|KIF7_DICDI Kinesin-related protein 7 OS=Dictyostelium discoideum OX=44689 GN=kif7 PE=2 SV=1 LCR:begin=580, end=602
+NDHNINNNNNNNNNINNDNNSNS
+>sp|D0Z5N4|E2AKB_CAEEL Eukaryotic translation initiation factor 2-alpha kinase gcn-2 OS=Caenorhabditis elegans OX=6239 GN=gcn-2 PE=1 SV=2 LCR:begin=685, end=706
+ESEEVEDEESDDSDEEDEDDGE
+>sp|Q5M934|TRUB1_RAT Probable tRNA pseudouridine synthase 1 OS=Rattus norvegicus OX=10116 GN=Trub1 PE=2 SV=1 LCR:begin=23, end=38
+AAASLAAAVSAAAAAA
+>sp|P56724|RLA3_ORYSJ 60S acidic ribosomal protein P3 OS=Oryza sativa subsp. japonica OX=39947 GN=Os06g0701400 PE=3 SV=3 LCR:begin=69, end=94
+GAVGGGAAIGGGAAAGAASGGAAAEA
+>sp|Q43402|OLNB6_BRANA Oleosin-B6 OS=Brassica napus OX=3708 GN=OlnB6 PE=1 SV=3 LCR:begin=239, end=279
+PAAPAAPEAPATPAAPPAPAAAPAPAAPAAPPAPAAPPRPP
+>sp|Q54VE0|AP4E_DICDI AP-4 complex subunit epsilon OS=Dictyostelium discoideum OX=44689 GN=ap4e1 PE=3 SV=1 LCR:begin=881, end=906
+PPQNATPQQQQQQQQQQTQNTLSQQQ
+>sp|P21519|MAM_DROME Neurogenic protein mastermind OS=Drosophila melanogaster OX=7227 GN=mam PE=2 SV=2 LCR:begin=258, end=282
+NNNNNSNSNNNNGNANANNGGNGSN
+>sp|Q54V85|Y6038_DICDI Putative uncharacterized protein DDB_G0280555 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0280555 PE=4 SV=2 LCR:begin=303, end=322
+TTTTTTTTTTTSSSNNCTNS
+>sp|Q7S133|SWR1_NEUCR Helicase swr-1 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=crf1-1 PE=3 SV=1 LCR:begin=679, end=702
+SSEESDDDEEEEEDDEEEEESDDE
+>sp|P04725|GDA5_WHEAT Alpha/beta-gliadin A-V OS=Triticum aestivum OX=4565 PE=2 SV=1 LCR:begin=113, end=150
+QPQQPISQQQAQQQQQQQQQQQQQQQILQQILQQQLIP
+>sp|P36024|SIS2_YEAST Phosphopantothenoylcysteine decarboxylase subunit SIS2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SIS2 PE=1 SV=1 LCR:begin=517, end=550
+NENNNDDDDDDDDDDDDDDDDDDDDDDDDEDEDE
+>sp|Q91VE1|PRM2_RATFU Protamine-2 OS=Rattus fuscipes OX=10119 GN=Prm2 PE=2 SV=1 LCR:begin=76, end=94
+CHRRRHRRGCRRSRRRRRC
+>sp|Q62671|UBR5_RAT E3 ubiquitin-protein ligase UBR5 OS=Rattus norvegicus OX=10116 GN=Ubr5 PE=1 SV=3 LCR:begin=1512, end=1525
+SSDQSSSSSQSQSS
+>sp|H2N4I1|QSOX1_PONAB Sulfhydryl oxidase 1 OS=Pongo abelii OX=9601 GN=QSOX1 PE=3 SV=2 LCR:begin=13, end=24
+LLLLLLLLLWLL
+>sp|A5E4V9|NOP58_LODEL Nucleolar protein 58 OS=Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239) OX=379508 GN=NOP58 PE=3 SV=1 LCR:begin=502, end=517
+SSKLKKDKKSKKSKKD
+>sp|P21519|MAM_DROME Neurogenic protein mastermind OS=Drosophila melanogaster OX=7227 GN=mam PE=2 SV=2 LCR:begin=1413, end=1431
+QMQQQLMRQQQQQQQQQQQ
+>sp|Q8TRZ6|ACDB1_METAC Acetyl-CoA decarbonylase/synthase complex subunit beta 1 OS=Methanosarcina acetivorans (strain ATCC 35395 / DSM 2834 / JCM 12185 / C2A) OX=188937 GN=cdhC1 PE=3 SV=1 LCR:begin=400, end=420
+AAEEEEEEEEEEEEEVAVAAA
+>sp|Q54DG3|Y4305_DICDI Putative uncharacterized protein DDB_G0292292 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0292292 PE=4 SV=1 LCR:begin=534, end=574
+NINNNNNNNNNNNNSNNVNNNNNNNNNNNNNNNNNNNNNNN
+>sp|Q9TYU9|EXC6_CAEEL Excretory canal abnormal protein 6 OS=Caenorhabditis elegans OX=6239 GN=exc-6 PE=1 SV=2 LCR:begin=83, end=101
+PPPPPPPPPPTLKAPPPPP
+>sp|C0HLI9|CO1A1_NEOCO Collagen alpha-1(I) chain (Fragments) OS=Neocnus comes OX=2546658 PE=1 SV=1 LCR:begin=979, end=996
+GPVGPPGPPGPPGPPGPP
+>sp|O77033|CYC8_DICDI General transcriptional corepressor trfA OS=Dictyostelium discoideum OX=44689 GN=trfA PE=2 SV=1 LCR:begin=1312, end=1336
+SKSSSSSSSSSSSSTNTGSSSTNSS
+>sp|P34478|GEI13_CAEEL Gex-3-interacting protein 13 OS=Caenorhabditis elegans OX=6239 GN=gei-13 PE=1 SV=2 LCR:begin=321, end=350
+QLQAAQAAVQKQQQQQQQQQIQQQQQQQQQ
+>sp|Q75JN1|IFKC_DICDI Probable serine/threonine-protein kinase ifkC OS=Dictyostelium discoideum OX=44689 GN=ifkC PE=3 SV=1 LCR:begin=1508, end=1544
+NNSNNSSSSSSSSSSNNNNSYNNYNNNNNYNYNYYSN
+>sp|Q0TPA4|SEPF_CLOP1 Cell division protein SepF OS=Clostridium perfringens (strain ATCC 13124 / DSM 756 / JCM 1290 / NCIMB 6125 / NCTC 8237 / Type A) OX=195103 GN=sepF PE=3 SV=1 LCR:begin=17, end=33
+EDEDEVMEEEEVMEEEE
+>sp|Q2IKI2|CH601_ANADE 60 kDa chaperonin 1 OS=Anaeromyxobacter dehalogenans (strain 2CP-C) OX=290397 GN=groL1 PE=3 SV=1 LCR:begin=528, end=542
+AAAGGGAGAGMGGGM
+>sp|Q8IZL2|MAML2_HUMAN Mastermind-like protein 2 OS=Homo sapiens OX=9606 GN=MAML2 PE=1 SV=2 LCR:begin=587, end=672
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQSSISAQQQQQQQSSISAQQQQQQQQQQQQQQQQQQQQQQQQQQQPSSQPAQS
+>sp|Q16IW3|RU1C_AEDAE U1 small nuclear ribonucleoprotein C OS=Aedes aegypti OX=7159 GN=AAEL013527 PE=3 SV=1 LCR:begin=103, end=132
+MGPGPMGMRPPMMMPMGMPPMGMGMRPPMM
+>sp|Q16204|CCDC6_HUMAN Coiled-coil domain-containing protein 6 OS=Homo sapiens OX=9606 GN=CCDC6 PE=1 SV=2 LCR:begin=24, end=47
+SSCSSTSGGGGGGGGGGGGGKSGG
+>sp|Q54LH5|INT4_DICDI Integrator complex subunit 4 homolog OS=Dictyostelium discoideum OX=44689 GN=ints4 PE=3 SV=1 LCR:begin=993, end=1023
+KKLKENEENEENEENENNENENEKENGKNKE
+>sp|Q8E7Q7|DNAJ_STRA3 Chaperone protein DnaJ OS=Streptococcus agalactiae serotype III (strain NEM316) OX=211110 GN=dnaJ PE=3 SV=1 LCR:begin=74, end=95
+GGFGGFDGGGFGGFDGGGFGGF
+>sp|O53553|PG54_MYCTU Uncharacterized PE-PGRS family protein PE_PGRS54 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=PE_PGRS54 PE=1 SV=1 LCR:begin=1508, end=1529
+GDGGIGGTGGAGGAGGAGADGD
+>sp|A5IDK7|DNAJ_LEGPC Chaperone protein DnaJ OS=Legionella pneumophila (strain Corby) OX=400673 GN=dnaJ PE=3 SV=1 LCR:begin=78, end=91
+GGGPGGFGGFGGFG
+>sp|P58122|RS16_CAUVC 30S ribosomal protein S16 OS=Caulobacter vibrioides (strain ATCC 19089 / CB15) OX=190650 GN=rpsP PE=3 SV=1 LCR:begin=115, end=163
+AEADAKAAAEAEKAAAAEAAAAAAAAPAVEEAPAEEAPAAEAPAEEAAE
+>sp|Q3UHJ0|AAK1_MOUSE AP2-associated protein kinase 1 OS=Mus musculus OX=10090 GN=Aak1 PE=1 SV=2 LCR:begin=11, end=32
+GSSGLGSGSSGGGGSSSGLGSG
+>sp|Q54ER5|FORJ_DICDI Formin-J OS=Dictyostelium discoideum OX=44689 GN=forJ PE=1 SV=1 LCR:begin=2070, end=2121
+QQKQQKQQQQQQQQQQQQQQLPQPQQQQQQQQQQQQQQQQQQQQQQQQPQQQ
+>sp|Q7TNF8|RIMB1_MOUSE Peripheral-type benzodiazepine receptor-associated protein 1 OS=Mus musculus OX=10090 GN=Tspoap1 PE=2 SV=2 LCR:begin=1324, end=1333
+EEEEEEEEEE
+>sp|P08510|KCNAS_DROME Potassium voltage-gated channel protein Shaker OS=Drosophila melanogaster OX=7227 GN=Sh PE=1 SV=3 LCR:begin=605, end=618
+QQQQQTQQQLQQQQ
+>sp|P10360|P53_CHICK Cellular tumor antigen p53 OS=Gallus gallus OX=9031 GN=TP53 PE=1 SV=1 LCR:begin=42, end=70
+PLEPSDPPPPPPPPPLPLAAAAPPPLNPP
+>sp|Q54ZP5|WDR48_DICDI WD repeat-containing protein 48 homolog OS=Dictyostelium discoideum OX=44689 GN=DDB_G0277533 PE=3 SV=1 LCR:begin=504, end=542
+NKNKKKYDDNNNNNNYNNNNNKKNNSNDNNNDNNNLNKK
+>sp|P17442|PHO81_YEAST Phosphate system positive regulatory protein PHO81 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PHO81 PE=1 SV=2 LCR:begin=221, end=252
+NNTSNNNKHNNNNNNNNNNNNNNNNNNILHNN
+>sp|Q0CXU6|ATG15_ASPTN Putative lipase atg15 OS=Aspergillus terreus (strain NIH 2624 / FGSC A1156) OX=341663 GN=atg15 PE=3 SV=1 LCR:begin=472, end=492
+TTTTTTTTTTTTTPPSTSTST
+>sp|Q940M0|GPDP1_ARATH G-patch domain-containing protein 1 OS=Arabidopsis thaliana OX=3702 GN=GDP1 PE=2 SV=1 LCR:begin=266, end=293
+DDDDDDDDDDDEEDEEEDEDESEADDDD
+>sp|Q9VJ62|NAF1_DROME H/ACA ribonucleoprotein complex non-core subunit NAF1 OS=Drosophila melanogaster OX=7227 GN=CG10341 PE=1 SV=2 LCR:begin=196, end=215
+SSDDESSKSSSSSSDSDSDS
+>sp|Q9D0F4|NKAP_MOUSE NF-kappa-B-activating protein OS=Mus musculus OX=10090 GN=Nkap PE=2 SV=1 LCR:begin=228, end=247
+KRRAKKAKKKDKKKKRRGKK
+>sp|Q6CR51|SSN3_KLULA Serine/threonine-protein kinase SSN3 OS=Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) OX=284590 GN=SSN3 PE=3 SV=1 LCR:begin=559, end=569
+AAAAAAAAAAA
+>sp|Q54SF4|Y4797_DICDI Putative uncharacterized protein DDB_G0282499 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0282499 PE=4 SV=2 LCR:begin=271, end=328
+NNDNENNNYPNFNNNNNYNNYNNNDNIINNNNNNNNNNINNNINNNINNINNINNNNN
+>sp|P0C6A2|MAMD1_MOUSE Mastermind-like domain-containing protein 1 OS=Mus musculus OX=10090 GN=Mamld1 PE=3 SV=1 LCR:begin=322, end=340
+PVPSPHPPPPQPPPPPFSP
+>sp|C5JYV0|MMM1_BLAGS Maintenance of mitochondrial morphology protein 1 OS=Blastomyces gilchristii (strain SLH14081) OX=559298 GN=MMM1 PE=3 SV=1 LCR:begin=443, end=468
+GGDGVGVRGGGGGGGGGGGVGGSGGG
+>sp|Q8L7B5|CH60B_ARATH Chaperonin CPN60-like 1, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=At2g33210 PE=1 SV=1 LCR:begin=564, end=583
+GMGGGGMGGMGGMGGMGGMG
+>sp|B8AH02|G1L3_ORYSI Protein G1-like3 OS=Oryza sativa subsp. indica OX=39946 GN=OsI_05696 PE=3 SV=1 LCR:begin=37, end=59
+AGGGGGGGGDGAGGSSSAGASSS
+>sp|G5EB30|CHIA1_EMENI Endochitinase A OS=Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) OX=227321 GN=chiA PE=1 SV=1 LCR:begin=343, end=409
+PPPTTSPTPTPTPSTTTTSTTSTTSTTSATSTTSTTSTTSTTSTTPTTSTTSTTSTTTPTPSPSPST
+>sp|Q54GQ1|MTMR_DICDI Myotubularin-related protein DDB_G0290005 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0290005 PE=3 SV=2 LCR:begin=1096, end=1108
+QNQNQLQQQQQQQ
+>sp|A6H7J1|INSM1_BOVIN Insulinoma-associated protein 1 OS=Bos taurus OX=9913 GN=INSM1 PE=2 SV=1 LCR:begin=141, end=158
+GGGGGGGGGGANGAGGGG
+>sp|Q3AND9|SSRP_SYNSC SsrA-binding protein OS=Synechococcus sp. (strain CC9605) OX=110662 GN=smpB PE=3 SV=1 LCR:begin=1, end=17
+AKGGAKKAAAAAARAAA
+>sp|Q05610|DON1_YEAST Donuts protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=DON1 PE=2 SV=1 LCR:begin=226, end=243
+KGKEKGKEEEKEKGEEKG
+>sp|P07185|CH15_DROME Chorion protein S15 OS=Drosophila melanogaster OX=7227 GN=Cp15 PE=3 SV=1 LCR:begin=70, end=81
+SAAAAAAASAAA
+>sp|Q55G93|TBCD_DICDI Tubulin-specific chaperone D OS=Dictyostelium discoideum OX=44689 GN=tbcd PE=3 SV=2 LCR:begin=451, end=485
+INNNNNNNNNENNNEEGEEEEEEIPEEIDEILEEI
+>sp|Q54BM8|U652_DICDI UPF0652 protein OS=Dictyostelium discoideum OX=44689 GN=DDB_G0293552 PE=3 SV=1 LCR:begin=112, end=125
+NNNNNNNNTNNTNN
+>sp|Q5ZLH9|CDV3_CHICK Protein CDV3 homolog OS=Gallus gallus OX=9031 GN=CDV3 PE=2 SV=1 LCR:begin=27, end=53
+SAAAASTASSASSAASSAAGAAAAAGG
+>sp|Q54ED2|EXO1_DICDI Exonuclease 1 OS=Dictyostelium discoideum OX=44689 GN=exo1 PE=3 SV=1 LCR:begin=648, end=670
+NSNSSSNSSNSSNSSSGNSNSGN
+>sp|G9LZD7|XIAO_ORYSJ Probable inactive leucine-rich repeat receptor kinase XIAO OS=Oryza sativa subsp. japonica OX=39947 GN=XIAO PE=2 SV=1 LCR:begin=1006, end=1023
+TAGAAAAAAAASTSATTT
+>sp|Q1A1A1|FOXG1_CERSI Forkhead box protein G1 OS=Ceratotherium simum OX=9807 GN=FOXG1 PE=3 SV=1 LCR:begin=42, end=80
+HHPQHHHHHHHHHHHPPPPAPQPPPPPPPPQQPPPAPQP
+>sp|Q9NQZ2|SAS10_HUMAN Something about silencing protein 10 OS=Homo sapiens OX=9606 GN=UTP3 PE=1 SV=1 LCR:begin=150, end=168
+QQEAEEEEREEEEEAQIIQ
+>sp|B2RY56|RBM25_MOUSE RNA-binding protein 25 OS=Mus musculus OX=10090 GN=Rbm25 PE=1 SV=2 LCR:begin=354, end=369
+ERDRDRERDRDRDRER
+>sp|Q86IX1|DST1_DICDI Serine/threonine-protein kinase dst1 OS=Dictyostelium discoideum OX=44689 GN=dst1 PE=3 SV=1 LCR:begin=557, end=578
+NNNSVIYNNSNNINNNNNNNII
+>sp|Q925H2|KR191_MOUSE Keratin-associated protein 19-1 OS=Mus musculus OX=10090 GN=Krtap19-1 PE=2 SV=1 LCR:begin=34, end=53
+GSGYGGFGYGSGYGGYGYGS
+>sp|Q86KH4|Y8830_DICDI Putative uncharacterized protein DDB_G0272516 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0272516 PE=4 SV=2 LCR:begin=294, end=375
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNSNNNNNNNNNNNNNININNNNNINNNNNINNNSNN
+>sp|Q16AN8|RS16_ROSDO 30S ribosomal protein S16 OS=Roseobacter denitrificans (strain ATCC 33942 / OCh 114) OX=375451 GN=rpsP PE=3 SV=1 LCR:begin=103, end=121
+AEEKAAKAAAPAEEEAAAE
+>sp|Q6P788|ATF5_RAT Cyclic AMP-dependent transcription factor ATF-5 OS=Rattus norvegicus OX=10116 GN=Atf5 PE=1 SV=1 LCR:begin=118, end=143
+APLLPPPSPPPPPPPAPSLPLPLPLP
+>sp|Q10M29|WOX6_ORYSJ WUSCHEL-related homeobox 6 OS=Oryza sativa subsp. japonica OX=39947 GN=WOX6 PE=2 SV=1 LCR:begin=20, end=35
+RGGGGSGGGGGRSAAG
+>sp|P82118|CUO5_BLACR Cuticle protein 5 OS=Blaberus craniifer OX=6982 PE=1 SV=1 LCR:begin=126, end=143
+AVAAAKAAHFAAHAHAAH
+>sp|Q54XT8|RRP36_DICDI Ribosomal RNA processing protein 36 homolog OS=Dictyostelium discoideum OX=44689 GN=DDB_G0278751 PE=3 SV=1 LCR:begin=27, end=56
+EDDNNNYEEDEDDDDDDDEDDEDDDENEEE
+>sp|Q4KKT0|DNAA_PSEF5 Chromosomal replication initiator protein DnaA OS=Pseudomonas fluorescens (strain ATCC BAA-477 / NRRL B-23932 / Pf-5) OX=220664 GN=dnaA PE=3 SV=1 LCR:begin=103, end=125
+AAAANAAPAAAPAPAPAPTSAPA
+>sp|Q01130|SRSF2_HUMAN Serine/arginine-rich splicing factor 2 OS=Homo sapiens OX=9606 GN=SRSF2 PE=1 SV=4 LCR:begin=166, end=195
+RRSKSKSSSVSRSRSRSRSRSRSRSPPPVS
+>sp|Q54I65|HBX13_DICDI Homeobox protein 13 OS=Dictyostelium discoideum OX=44689 GN=hbx13 PE=3 SV=1 LCR:begin=254, end=268
+DDEEFDEFDEEEDDD
+>sp|Q9HFQ6|RLA3_CANAX 60S acidic ribosomal protein P1-B OS=Candida albicans OX=5476 GN=RPP1B PE=1 SV=1 LCR:begin=61, end=85
+AAAAPASGAAAGSASGAAAGGEAAA
+>sp|Q55FW7|GLE1_DICDI Nucleoporin GLE1 OS=Dictyostelium discoideum OX=44689 GN=gle1 PE=3 SV=1 LCR:begin=708, end=718
+SSSSSSSSSSS
+>sp|P69193|SERA5_PLAFD Serine-repeat antigen protein 5 OS=Plasmodium falciparum (isolate CDC / Honduras) OX=5836 GN=SERA5 PE=1 SV=1 LCR:begin=190, end=224
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+>sp|Q08460|KCMA1_MOUSE Calcium-activated potassium channel subunit alpha-1 OS=Mus musculus OX=10090 GN=Kcnma1 PE=1 SV=2 LCR:begin=1160, end=1180
+SLSHSSHSSQSSSKKSSSVHS
+>sp|Q9S7T5|OFP14_ARATH Transcription repressor OFP14 OS=Arabidopsis thaliana OX=3702 GN=OFP14 PE=1 SV=1 LCR:begin=115, end=128
+SSSDDSDDDDDDDD
+>sp|Q54UV8|Y0809_DICDI UPF0746 protein DDB_G0280809 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0280809 PE=3 SV=2 LCR:begin=773, end=796
+LTTTLTTTTTTTTTTTTGTTATAT
+>sp|Q54QA0|PMS1_DICDI Mismatch repair endonuclease pms1 OS=Dictyostelium discoideum OX=44689 GN=pms1 PE=3 SV=1 LCR:begin=597, end=609
+SNNNNSNNSNNSN
+>sp|Q7SZM9|TB1RA_XENLA F-box-like/WD repeat-containing protein TBL1XR1-A OS=Xenopus laevis OX=8355 GN=tbl1xr1-a PE=1 SV=1 LCR:begin=103, end=120
+AQQQTAAAAAAAAAAAAT
+>sp|A4F5G6|RFOX2_XENLA RNA binding protein fox-1 homolog 2 OS=Xenopus laevis OX=8355 GN=rbfox2 PE=1 SV=1 LCR:begin=353, end=368
+ATAATAATAAAAAAAA
+>sp|Q55F68|CYAD_DICDI Adenylate cyclase, terminal-differentiation specific OS=Dictyostelium discoideum OX=44689 GN=acrA PE=1 SV=1 LCR:begin=437, end=468
+NINSNNNNNNNNNNNINNNNIDNNNNNIKNNN
+>sp|Q54NF1|VPS28_DICDI Vacuolar protein sorting-associated protein 28 OS=Dictyostelium discoideum OX=44689 GN=vps28 PE=3 SV=1 LCR:begin=34, end=63
+NNSNTNNNNNNNSTNNNNNNNNNNNNNNSN
+>sp|Q84MN7|HFA2A_ORYSJ Heat stress transcription factor A-2a OS=Oryza sativa subsp. japonica OX=39947 GN=HSFA2A PE=2 SV=1 LCR:begin=144, end=159
+PPPSSPPSSSSSSSSS
+>sp|E3L3Q8|MAP2_PUCGT Methionine aminopeptidase 2 OS=Puccinia graminis f. sp. tritici (strain CRL 75-36-700-3 / race SCCL) OX=418459 GN=PGTG_16374 PE=3 SV=1 LCR:begin=65, end=78
+KKKKKKKKKPKKKK
+>sp|Q54K19|MYBD_DICDI Myb-like protein D OS=Dictyostelium discoideum OX=44689 GN=mybD PE=3 SV=1 LCR:begin=516, end=558
+QQNQQNNNNNNYNNNINNNSNYNNNNNNINNSINNNNSNQNNY
+>sp|Q7A362|SRAP_STAAN Serine-rich adhesin for platelets OS=Staphylococcus aureus (strain N315) OX=158879 GN=sraP PE=1 SV=1 LCR:begin=2053, end=2077
+SLSTSDSDSTSTSTSDSTSGSTSTS
+>sp|B3DPX0|PNP_BIFLD Polyribonucleotide nucleotidyltransferase OS=Bifidobacterium longum (strain DJO10A) OX=205913 GN=pnp PE=3 SV=1 LCR:begin=799, end=822
+RRRRSDDRDFDRDDRDDDRPRRRR
+>sp|Q55CN0|TBCE_DICDI Tubulin-specific chaperone E OS=Dictyostelium discoideum OX=44689 GN=tbce PE=3 SV=1 LCR:begin=422, end=445
+NNNNNIKKDNNNNNKNNKNNKNNK
+>sp|Q8H8U0|CLS_ORYSJ Cardiolipin synthase (CMP-forming), mitochondrial OS=Oryza sativa subsp. japonica OX=39947 GN=Os03g0283600 PE=2 SV=1 LCR:begin=91, end=107
+SGGGGGGGEGMGSEGVG
+>sp|Q24106|HID_DROME Cell death protein hid OS=Drosophila melanogaster OX=7227 GN=hid PE=1 SV=2 LCR:begin=34, end=69
+SSASSSVSSSGVSSASASSASSSSSASSDGASSAAS
+>sp|G5E829|AT2B1_MOUSE Plasma membrane calcium-transporting ATPase 1 OS=Mus musculus OX=10090 GN=Atp2b1 PE=1 SV=1 LCR:begin=295, end=311
+EEEEKKDEKKKEKKNKK
+>sp|Q54KF2|Y7452_DICDI Putative uncharacterized protein DDB_G0287457 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0287457 PE=4 SV=2 LCR:begin=609, end=624
+EEEEEEEEEISTIESE
+>sp|Q8I8U2|AP1G_DICDI AP-1 complex subunit gamma OS=Dictyostelium discoideum OX=44689 GN=ap1g1 PE=1 SV=1 LCR:begin=676, end=693
+NMNNNNNMNNMNNNMNNN
+>sp|P41777|NOLC1_RAT Nucleolar and coiled-body phosphoprotein 1 OS=Rattus norvegicus OX=10116 GN=Nolc1 PE=1 SV=2 LCR:begin=519, end=534
+ESSSSSSSSEDSSEEE
+>sp|P38250|IST2_YEAST Increased sodium tolerance protein 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=IST2 PE=1 SV=2 LCR:begin=670, end=688
+PSSLSSASSPSLSSSSSSS
+>sp|G5ED41|CAND1_CAEEL Cullin-associated NEDD8-dissociated protein 1 OS=Caenorhabditis elegans OX=6239 GN=cand-1 PE=1 SV=1 LCR:begin=326, end=343
+DDDEDEQMEDDEDDDEDE
+>sp|C4Y1F8|MAP2_CLAL4 Methionine aminopeptidase 2 OS=Clavispora lusitaniae (strain ATCC 42720) OX=306902 GN=MAP2 PE=3 SV=1 LCR:begin=62, end=76
+AAAKKKKSKKKKKKA
+>sp|Q71V18|HSP1_ANTBE Sperm protamine P1 OS=Antechinus bellus OX=71384 GN=PRM1 PE=2 SV=3 LCR:begin=2, end=30
+RYRRHSRSRSRSRYRRRRRRRSRHHNRRR
+>sp|Q99299|AIM44_YEAST Altered inheritance of mitochondria protein 44 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=AIM44 PE=1 SV=1 LCR:begin=650, end=689
+DEEEEEDEDDEDDEEEEEENDDEEDEEDEEDDEDDEEEEE
+>sp|Q9H6T0|ESRP2_HUMAN Epithelial splicing regulatory protein 2 OS=Homo sapiens OX=9606 GN=ESRP2 PE=1 SV=1 LCR:begin=2, end=22
+PPPPPPPPPGPDPAADPAADP
+>sp|Q86JF2|LVSB_DICDI BEACH domain-containing protein lvsB OS=Dictyostelium discoideum OX=44689 GN=lvsB PE=4 SV=1 LCR:begin=2014, end=2046
+STNNNSNNSNNSNSNNNNNNNNTNYNSNSLNNS
+>sp|Q9DF69|CSPG5_CHICK Chondroitin sulfate proteoglycan 5 OS=Gallus gallus OX=9031 GN=CSPG5 PE=1 SV=1 LCR:begin=348, end=374
+EGDDDAEEELEEDEEEEEEEDGGLEDE
+>sp|P51991|ROA3_HUMAN Heterogeneous nuclear ribonucleoprotein A3 OS=Homo sapiens OX=9606 GN=HNRNPA3 PE=1 SV=2 LCR:begin=237, end=266
+GRGGNFGGRGGYGGGGGGSRGSYGGGDGGY
+>sp|Q6GBS5|SDRD_STAAS Serine-aspartate repeat-containing protein D OS=Staphylococcus aureus (strain MSSA476) OX=282459 GN=sdrD PE=3 SV=1 LCR:begin=1123, end=1304
+SDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSESDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSD
+>sp|Q54DK0|Y9625_DICDI Putative protein DDB_G0292252 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0292252 PE=4 SV=1 LCR:begin=874, end=886
+QQQQQQPQQPQQQ
+>sp|Q27394|LE653_CAEEL Protein let-653 OS=Caenorhabditis elegans OX=6239 GN=let-653 PE=1 SV=2 LCR:begin=422, end=448
+TSPKPTTSPSTTTSTTTSTTIPPSTTT
+>sp|Q9WUP0|RAMP2_MOUSE Receptor activity-modifying protein 2 OS=Mus musculus OX=10090 GN=Ramp2 PE=1 SV=1 LCR:begin=25, end=38
+LCLPPLLLLLLLLL
+>sp|Q54KX0|GTAN_DICDI GATA zinc finger domain-containing protein 14 OS=Dictyostelium discoideum OX=44689 GN=gtaN PE=4 SV=1 LCR:begin=689, end=715
+GNNGFNNQNNLNNGNNGNQNYNNNNGQ
+>sp|C7GP20|DEF1_YEAS2 RNA polymerase II degradation factor 1 OS=Saccharomyces cerevisiae (strain JAY291) OX=574961 GN=DEF1 PE=3 SV=1 LCR:begin=658, end=679
+QQKQSQQQQQQQPQGQPQPEVQ
+>sp|A0A1B0GTW7|LMLN2_HUMAN Leishmanolysin-like peptidase 2 OS=Homo sapiens OX=9606 GN=LMLN2 PE=3 SV=1 LCR:begin=1, end=15
+LLLLLLLLLLPPLVL
+>sp|P71366|T3MH_HAEIN Putative type III restriction-modification system HindVIP enzyme mod OS=Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd) OX=71421 GN=HI_1056 PE=3 SV=1 LCR:begin=18, end=60
+VSQSVSQSVSQSVSQSVSQSVSQSVSQSVSQSVSQSVSQSVSQ
+>sp|Q01955|CO4A3_HUMAN Collagen alpha-3(IV) chain OS=Homo sapiens OX=9606 GN=COL4A3 PE=1 SV=3 LCR:begin=652, end=673
+PVPGPPGPPGPPGHPGPQGPPG
+>sp|P58392|KCNN3_PIG Small conductance calcium-activated potassium channel protein 3 OS=Sus scrofa OX=9823 GN=KCNN3 PE=2 SV=1 LCR:begin=47, end=79
+PQQPPGPPLQPQPLQLQQQQQQQQQQPPHPLSQ
+>sp|Q6C4D4|DBP2_YARLI ATP-dependent RNA helicase DBP2 OS=Yarrowia lipolytica (strain CLIB 122 / E 150) OX=284591 GN=DBP2 PE=3 SV=1 LCR:begin=11, end=41
+RGYGGGRGFGGGRGGRGGSRGGRGGFGGDRG
+>sp|Q55FG3|VP13C_DICDI Putative vacuolar protein sorting-associated protein 13C OS=Dictyostelium discoideum OX=44689 GN=tipC PE=3 SV=1 LCR:begin=1174, end=1189
+NNQNNNQNNNQNNNQN
+>sp|C9JC47|F157A_HUMAN Putative protein FAM157A OS=Homo sapiens OX=9606 GN=FAM157A PE=3 SV=1 LCR:begin=70, end=83
+QQQQQQQQQQQQQQ
+>sp|O14654|IRS4_HUMAN Insulin receptor substrate 4 OS=Homo sapiens OX=9606 GN=IRS4 PE=1 SV=1 LCR:begin=627, end=638
+PPPPPPPPPPPP
+>sp|Q8QG78|NCOR1_XENLA Nuclear receptor corepressor 1 OS=Xenopus laevis OX=8355 GN=ncor1 PE=1 SV=1 LCR:begin=520, end=539
+KKEDERREEEEKEEKEELRE
+>sp|Q6PEV3|WIPF2_MOUSE WAS/WASL-interacting protein family member 2 OS=Mus musculus OX=10090 GN=Wipf2 PE=1 SV=1 LCR:begin=1, end=16
+PIPPPPPPPPGPPPPP
+>sp|B4UIZ5|3MGH_ANASK Putative 3-methyladenine DNA glycosylase OS=Anaeromyxobacter sp. (strain K) OX=447217 GN=AnaeK_4364 PE=3 SV=1 LCR:begin=180, end=205
+RPAPGAAAARAARAPAAPAPRPRRPR
+>sp|P36313|ICP34_HHV11 Neurovirulence factor ICP34.5 OS=Human herpesvirus 1 (strain 17) OX=10299 GN=ICP34.5 PE=1 SV=2 LCR:begin=41, end=56
+APAAAPPPPPAGGPPP
+>sp|O80297|G3P_BPIF1 Attachment protein G3P OS=Escherichia phage If1 OX=10868 GN=III PE=1 SV=1 LCR:begin=276, end=298
+GSNGSGGSGGSGGSGNDGGGTGN
+>sp|P07835|ANPX_PSEAM Ice-structuring protein 2A7 OS=Pseudopleuronectes americanus OX=8265 PE=1 SV=2 LCR:begin=33, end=88
+AAAAPDTASDAAAAAAATAATAAAAAAATAATAAKAAALTAANAAAAAAATAAAAA
+>sp|B4JND4|ATBP_DROGR AT-rich binding protein OS=Drosophila grimshawi OX=7222 GN=ATbp PE=3 SV=1 LCR:begin=281, end=296
+TTATTTAAAAAAVTTV
+>sp|Q8YAA3|RL7_LISMO 50S ribosomal protein L7/L12 OS=Listeria monocytogenes serovar 1/2a (strain ATCC BAA-679 / EGD-e) OX=169963 GN=rplL PE=3 SV=1 LCR:begin=34, end=48
+AAAPVAVAAAGGAAA
+>sp|Q5DRE1|PCDC2_PANTR Protocadherin alpha-C2 OS=Pan troglodytes OX=9598 GN=PCDHAC2 PE=3 SV=1 LCR:begin=22, end=36
+LLLLPLLLLLLLLLP
+>sp|Q6BXI1|SEC16_DEBHA COPII coat assembly protein SEC16 OS=Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / JCM 1990 / NBRC 0083 / IGC 2968) OX=284592 GN=SEC16 PE=3 SV=2 LCR:begin=44, end=75
+DDDVKDDVKDDVKDDVKDDVKDDVKDDLKDDV
+>sp|Q6TQE1|ZCH18_RAT Zinc finger CCCH domain-containing protein 18 OS=Rattus norvegicus OX=10116 GN=Zc3h18 PE=1 SV=1 LCR:begin=678, end=700
+LSGSGSGSGSSYSGSSSRSRSLS
+>sp|Q8XZ47|Y1559_RALSO UPF0761 membrane protein RSc1559 OS=Ralstonia solanacearum (strain GMI1000) OX=267608 GN=RSc1559 PE=3 SV=1 LCR:begin=421, end=440
+AAAEAAAAPAAATLAASARA
+>sp|Q499S5|MMP11_RAT Stromelysin-3 OS=Rattus norvegicus OX=10116 GN=Mmp11 PE=1 SV=1 LCR:begin=14, end=30
+LLLPLPLLLLLLLLLPP
+>sp|Q54J88|MMS19_DICDI MMS19 nucleotide excision repair protein homolog OS=Dictyostelium discoideum OX=44689 GN=mms19 PE=3 SV=2 LCR:begin=558, end=581
+NINTTNNKINNNNNNNNIVIKNNK
+>sp|A6L3Y9|RS16_BACV8 30S ribosomal protein S16 OS=Bacteroides vulgatus (strain ATCC 8482 / DSM 1447 / JCM 5826 / NBRC 14291 / NCTC 11154) OX=435590 GN=rpsP PE=3 SV=1 LCR:begin=143, end=170
+AKKVAEKKAAEAAAKAEAEAANAPAEEA
+>sp|Q54VD8|RIO1_DICDI Serine/threonine-protein kinase rio1 OS=Dictyostelium discoideum OX=44689 GN=rio1 PE=3 SV=1 LCR:begin=485, end=504
+DSDDSSSDSSEDSDDDSDSD
+>sp|Q24762|ZEST_DROVI Regulatory protein zeste OS=Drosophila virilis OX=7244 GN=z PE=3 SV=1 LCR:begin=385, end=408
+QAQQLAQQQLAAQQQQLAVAAAAA
+>sp|Q54WS5|ROCO6_DICDI Probable serine/threonine-protein kinase roco6 OS=Dictyostelium discoideum OX=44689 GN=roco6 PE=3 SV=1 LCR:begin=455, end=481
+SSNSLISNSLSNSSISSNNINSNNNIN
+>sp|P37198|NUP62_HUMAN Nuclear pore glycoprotein p62 OS=Homo sapiens OX=9606 GN=NUP62 PE=1 SV=3 LCR:begin=262, end=288
+AASGTSTTTSTAATATATTTSSSSTTG
+>sp|Q9JIX5|CHD8_RAT Chromodomain-helicase-DNA-binding protein 8 OS=Rattus norvegicus OX=10116 GN=Chd8 PE=1 SV=2 LCR:begin=2492, end=2508
+HHHHHHPHPHHHHHHHP
+>sp|Q5VJL3|GDT9_DICDI Probable serine/threonine-protein kinase gdt9 OS=Dictyostelium discoideum OX=44689 GN=gdt9 PE=2 SV=2 LCR:begin=930, end=946
+SYESSDSSSSSSNSSSS
+>sp|C5DGQ7|RGT1_LACTC Glucose transport transcription regulator RGT1 OS=Lachancea thermotolerans (strain ATCC 56472 / CBS 6340 / NRRL Y-8284) OX=559295 GN=RGT1 PE=3 SV=1 LCR:begin=250, end=262
+QQQQQQQQQNAQQ
+>sp|Q9UPS6|SET1B_HUMAN Histone-lysine N-methyltransferase SETD1B OS=Homo sapiens OX=9606 GN=SETD1B PE=1 SV=3 LCR:begin=725, end=739
+PPPPLPAPPGVPPPP
+>sp|Q8K4J6|MRTFA_MOUSE Myocardin-related transcription factor A OS=Mus musculus OX=10090 GN=Mrtfa PE=1 SV=2 LCR:begin=311, end=319
+QQQQQQQQQ
+>sp|B3M3M6|UBP36_DROAN Ubiquitin carboxyl-terminal hydrolase 36 OS=Drosophila ananassae OX=7217 GN=Usp36 PE=3 SV=1 LCR:begin=804, end=822
+DDGDDDEDDDDDDDEVVEE
+>sp|Q86JF2|LVSB_DICDI BEACH domain-containing protein lvsB OS=Dictyostelium discoideum OX=44689 GN=lvsB PE=4 SV=1 LCR:begin=1, end=16
+NRNFNNINNNNNNNNN
+>sp|Q54BP9|GACV_DICDI Rho GTPase-activating protein gacV OS=Dictyostelium discoideum OX=44689 GN=gacV PE=3 SV=1 LCR:begin=120, end=188
+EEKQQQQQEEDQQQQQQQQQEEEEEEEEQQEIEEDEEEEEGQEQEEEEEQQEIEEGEEEQQEEEQEEEQ
+>sp|Q559G8|MOCOS_DICDI Molybdenum cofactor sulfurase OS=Dictyostelium discoideum OX=44689 GN=mocos PE=3 SV=2 LCR:begin=120, end=133
+NNNNNNNNNNNNNN
+>sp|Q00451|PRF1_SOLLC 36.4 kDa proline-rich protein OS=Solanum lycopersicum OX=4081 GN=TPRP-F1 PE=2 SV=1 LCR:begin=230, end=252
+TPPIVPTPPTPCPPPPPPPAIIP
+>sp|Q5UP44|YL645_MIMIV Uncharacterized protein L645 OS=Acanthamoeba polyphaga mimivirus OX=212035 GN=MIMI_L645 PE=4 SV=1 LCR:begin=83, end=98
+NNNFNPNFNPNFNPNF
+>sp|A0A0H2URK1|PSRP_STRPN Pneumococcal serine-rich repeat protein OS=Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4) OX=170187 GN=psrP PE=1 SV=1 LCR:begin=3581, end=3797
+SASESASTSASASASTSASASASTSASASASTSASESASTSTSASASTSASESASTSASASASTSASASASTSASASASTSASASASTSASASTSASESASTSASASASTSASASASTSASASASTSASASASTSASASASTSASASASTSASASASTSASASASTSASESASTSASASASTSASASASTSASASASTSASASASTSASVSASTSAS
+>sp|Q9QYX7|PCLO_MOUSE Protein piccolo OS=Mus musculus OX=10090 GN=Pclo PE=1 SV=4 LCR:begin=3214, end=3235
+LAQQQLQLEQIQQLQQQLHQQL
+>sp|Q0IF90|WDR55_AEDAE WD repeat-containing protein 55 homolog OS=Aedes aegypti OX=7159 GN=AAEL006422 PE=3 SV=1 LCR:begin=64, end=78
+SSSDDEDDSDDSDSD
+>sp|C4YNS4|AIM23_CANAW Altered inheritance of mitochondria protein 23, mitochondrial OS=Candida albicans (strain WO-1) OX=294748 GN=AIM23 PE=3 SV=1 LCR:begin=74, end=91
+QQQQQQQQQQRKPQQHQQ
+>sp|O15014|ZN609_HUMAN Zinc finger protein 609 OS=Homo sapiens OX=9606 GN=ZNF609 PE=1 SV=2 LCR:begin=724, end=739
+KDKKKKDKKKKESSKE
+>sp|Q54SY5|Y5150_DICDI Putative uncharacterized protein DDB_G0282129 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0282129 PE=4 SV=1 LCR:begin=98, end=130
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+>sp|Q9DGM7|MVP_ICTPU Major vault protein (Fragment) OS=Ictalurus punctatus OX=7998 GN=mvp PE=2 SV=2 LCR:begin=356, end=371
+EAQEEDEEEEEEEEQA
+>sp|Q8I1N6|AP2A_PLAF7 AP2/ERF domain-containing protein PFD0985w OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PFD0985w PE=1 SV=2 LCR:begin=1123, end=1148
+NANNANNANNPNNANNPNNANNSNNA
+>sp|Q90243|VIT_ACITR Vitellogenin (Fragment) OS=Acipenser transmontanus OX=7904 PE=2 SV=1 LCR:begin=1096, end=1121
+SSSSSSSSSSSSSSSSSSSSSSSQQS
+>sp|Q71T09|BHE22_CHICK Class E basic helix-loop-helix protein 22 OS=Gallus gallus OX=9031 GN=BHLHE22 PE=2 SV=1 LCR:begin=125, end=145
+GGGGGGGGGGGGGPGGGGGGG
+>sp|Q54ET6|ABPF_DICDI Actin-binding protein F OS=Dictyostelium discoideum OX=44689 GN=abpF PE=1 SV=1 LCR:begin=1986, end=2013
+KKREKEELKKKEKEEKKKKEEEKKLKKK
+>sp|Q54UA9|CLKA_DICDI Probable serine/threonine-protein kinase clkA OS=Dictyostelium discoideum OX=44689 GN=clkA PE=3 SV=1 LCR:begin=365, end=383
+SGNNNSNNYNHNNSNNNGG
+>sp|P28284|ICP0_HHV2H E3 ubiquitin-protein ligase ICP0 OS=Human herpesvirus 2 (strain HG52) OX=10315 GN=RL2 PE=1 SV=1 LCR:begin=580, end=633
+SSQAAVAAASSSSASSSSASSSSASSSSASSSSASSSSASSSSASSSAGGAGGS
+>sp|P19757|PRM2_PIG Protamine-2 OS=Sus scrofa OX=9823 GN=PRM2 PE=2 SV=1 LCR:begin=50, end=80
+RHRSHTRRRRSCRRRRRRACRHRRHRRGCRR
+>sp|Q9FI79|TED7_ARATH Protein TRACHEARY ELEMENT DIFFERENTIATION-RELATED 7 OS=Arabidopsis thaliana OX=3702 GN=TED7 PE=2 SV=1 LCR:begin=50, end=81
+PPHQPPPSPYPHPHPPPPSPYPHPHQPPPPPH
+>sp|Q8IZL8|PELP1_HUMAN Proline-, glutamic acid- and leucine-rich protein 1 OS=Homo sapiens OX=9606 GN=PELP1 PE=1 SV=2 LCR:begin=832, end=857
+PAAPGPLPPPPPPPPPVPGPVTLPPP
+>sp|Q8IVL6|P3H3_HUMAN Prolyl 3-hydroxylase 3 OS=Homo sapiens OX=9606 GN=P3H3 PE=1 SV=1 LCR:begin=688, end=703
+ELLQESQEEEEEEEEE
+>sp|P14044|PRO2_TRYBB Duplicate procyclin OS=Trypanosoma brucei brucei OX=5702 PE=4 SV=1 LCR:begin=44, end=74
+QVQVRVRVQVQVQVRVQVRVQVRVQVRVRVQ
+>sp|Q9Y6V0|PCLO_HUMAN Protein piccolo OS=Homo sapiens OX=9606 GN=PCLO PE=1 SV=5 LCR:begin=16, end=30
+AAAAAAGGGASGAGS
+>sp|A8JUV0|SBNO_DROME Protein strawberry notch OS=Drosophila melanogaster OX=7227 GN=sno PE=1 SV=2 LCR:begin=112, end=128
+STNGSSNNNNNSINNNS
+>sp|Q7XSS9|ARFM_ORYSJ Auxin response factor 13 OS=Oryza sativa subsp. japonica OX=39947 GN=ARF13 PE=2 SV=2 LCR:begin=3, end=22
+PPAATAPPPPPPPPPPPPPP
+>sp|Q8IS16|GEFH_DICDI Ras guanine nucleotide exchange factor H OS=Dictyostelium discoideum OX=44689 GN=gefH PE=1 SV=1 LCR:begin=26, end=48
+SSSSNLNNINNNNNNNNNNNNNS
+>sp|Q9W0T1|NU301_DROME Nucleosome-remodeling factor subunit NURF301 OS=Drosophila melanogaster OX=7227 GN=E(bx) PE=1 SV=2 LCR:begin=1857, end=1873
+QTQQQQQQHHVVQPQQQ
+>sp|Q54FF3|GEFK_DICDI Ras guanine nucleotide exchange factor K OS=Dictyostelium discoideum OX=44689 GN=gefK PE=2 SV=1 LCR:begin=26, end=39
+NNNTNNTNNTNNTN
+>sp|P0C7N2|ERIC4_RAT Glutamate-rich protein 4 OS=Rattus norvegicus OX=10116 GN=Erich4 PE=4 SV=1 LCR:begin=90, end=107
+EEEEEDDDEEEQEEEGEG
+>sp|P08570|RLA1_DROME 60S acidic ribosomal protein P1 OS=Drosophila melanogaster OX=7227 GN=RpLP1 PE=1 SV=2 LCR:begin=67, end=85
+GAAPAGGAAPAAAAAAPAA
+>sp|P04729|GDB1_WHEAT Gamma-gliadin B-I OS=Triticum aestivum OX=4565 PE=2 SV=1 LCR:begin=232, end=253
+QQPQQQLGQQPQQQQQQQVLQG
+>sp|Q9JZG4|FTSK2_NEIMB DNA translocase FtsK 2 OS=Neisseria meningitidis serogroup B (strain MC58) OX=122586 GN=ftsK2 PE=3 SV=1 LCR:begin=119, end=139
+TEEAETEEAEAAEEEAADTED
+>sp|Q86JF2|LVSB_DICDI BEACH domain-containing protein lvsB OS=Dictyostelium discoideum OX=44689 GN=lvsB PE=4 SV=1 LCR:begin=342, end=367
+TFTKPSSSTTTTTTTTTQTPTPNSNT
+>sp|Q3USH5|SFSWA_MOUSE Splicing factor, suppressor of white-apricot homolog OS=Mus musculus OX=10090 GN=Sfswap PE=1 SV=2 LCR:begin=407, end=425
+VTTTVPPPPGTTPPPPPTT
+>sp|Q9NQR7|CC177_HUMAN Coiled-coil domain-containing protein 177 OS=Homo sapiens OX=9606 GN=CCDC177 PE=2 SV=3 LCR:begin=167, end=189
+SPAAAAAAAAAAASAPSAGSSSS
+>sp|Q6FS54|DBP3_CANGA ATP-dependent RNA helicase DBP3 OS=Candida glabrata (strain ATCC 2001 / CBS 138 / JCM 3761 / NBRC 0622 / NRRL Y-65) OX=284593 GN=DBP3 PE=3 SV=1 LCR:begin=20, end=69
+EKKIKKDKKVKDKKDKKDKKDKKDKKEKKEKKEKKEKNDKKDKKDKKDKK
+>sp|Q14AX6|CDK12_MOUSE Cyclin-dependent kinase 12 OS=Mus musculus OX=10090 GN=Cdk12 PE=1 SV=2 LCR:begin=537, end=553
+TTPPPQTPPLPPLPPLP
+>sp|Q946J2|SUVR1_ARATH Probable inactive histone-lysine N-methyltransferase SUVR1 OS=Arabidopsis thaliana OX=3702 GN=SUVR1 PE=1 SV=2 LCR:begin=116, end=131
+RSRRGRASSSSSSSSS
+>sp|Q8BG75|TM198_MOUSE Transmembrane protein 198 OS=Mus musculus OX=10090 GN=Tmem198 PE=2 SV=1 LCR:begin=121, end=135
+GLLLGLLLAAAALLG
+>sp|Q80TP3|UBR5_MOUSE E3 ubiquitin-protein ligase UBR5 OS=Mus musculus OX=10090 GN=Ubr5 PE=1 SV=2 LCR:begin=1657, end=1676
+DDSQSNDSSDSDSSSSQSDD
+>sp|Q4A0V8|UAFA_STAS1 Uro-adherence factor A OS=Staphylococcus saprophyticus subsp. saprophyticus (strain ATCC 15305 / DSM 20229 / NCIMB 8711 / NCTC 7292 / S-41) OX=342451 GN=uafA PE=1 SV=1 LCR:begin=1051, end=1081
+STSESLSTSESLSESESLSESESLSEYESLS
+>sp|Q5BCX8|EGLD_EMENI Endo-beta-1,4-glucanase D OS=Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) OX=227321 GN=eglD PE=1 SV=1 LCR:begin=232, end=254
+GASSGSGSSGSGSSSSAAATSSA
+>sp|Q95XZ5|NPBL_CAEEL Nipped-B-like protein pqn-85 OS=Caenorhabditis elegans OX=6239 GN=pqn-85 PE=3 SV=2 LCR:begin=118, end=146
+QHQMLQLMQQQQQQQQQQPVQQIQRQQPI
+>sp|Q5A119|EAF1_CANAL Chromatin modification-related protein EAF1 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=VID21 PE=3 SV=2 LCR:begin=599, end=614
+QQQQQQQQQQQHQQQQ
+>sp|Q9SJ56|BLH1_ARATH BEL1-like homeodomain protein 1 OS=Arabidopsis thaliana OX=3702 GN=BLH1 PE=1 SV=1 LCR:begin=145, end=157
+QQQQQQQHHQQHQ
+>sp|P0C1J6|FKBP4_RHIO9 FK506-binding protein 4 OS=Rhizopus delemar (strain RA 99-880 / ATCC MYA-4621 / FGSC 9543 / NRRL 43880) OX=246409 GN=FKBP4 PE=3 SV=1 LCR:begin=152, end=171
+ESDEEIESDEEIESEEEEEE
+>sp|Q54N73|7TMK1_DICDI Seven transmembrane domain-containing tyrosine-protein kinase 1 OS=Dictyostelium discoideum OX=44689 GN=7tmk1 PE=3 SV=1 LCR:begin=65, end=81
+SSNNNNGNGNGNGSSNN
+>sp|Q86JF2|LVSB_DICDI BEACH domain-containing protein lvsB OS=Dictyostelium discoideum OX=44689 GN=lvsB PE=4 SV=1 LCR:begin=1944, end=1970
+SINNNNNNNNNSNNNNNNNSISSSTSS
+>sp|Q55GJ2|IREA_DICDI Probable serine/threonine-protein kinase ireA OS=Dictyostelium discoideum OX=44689 GN=ireA PE=3 SV=1 LCR:begin=486, end=507
+NNKKTPKKKKKKQKNKNNKNNN
+>sp|Q0V7S6|FK125_ARATH F-box/kelch-repeat protein OR23 OS=Arabidopsis thaliana OX=3702 GN=OR23 PE=2 SV=1 LCR:begin=12, end=26
+SSSSSSSSSRSSFFR
+>sp|Q08499|PDE4D_HUMAN cAMP-specific 3',5'-cyclic phosphodiesterase 4D OS=Homo sapiens OX=9606 GN=PDE4D PE=1 SV=2 LCR:begin=56, end=87
+LPPPPPPSPQPQPQCPLQPPPPPPLPPPPPPP
+>sp|P30667|NIFA_AZOBR Nif-specific regulatory protein OS=Azospirillum brasilense OX=192 GN=nifA PE=1 SV=1 LCR:begin=551, end=569
+PLPPQAPPPSPAAAPPPAA
+>sp|P59906|DICT_DICLA Dicentracin OS=Dicentrarchus labrax OX=13489 PE=3 SV=1 LCR:begin=46, end=68
+AQQDQQDQQYQQDQQDQQAEQYQ
+>sp|Q8BH43|WASF2_MOUSE Wiskott-Aldrich syndrome protein family member 2 OS=Mus musculus OX=10090 GN=Wasf2 PE=1 SV=1 LCR:begin=353, end=378
+PPHPDFAAPPPPPPPPAADYPMPPPP
+>sp|P0CK30|GD_BHV1C Envelope glycoprotein D OS=Bovine herpesvirus 1.1 (strain Cooper) OX=10323 GN=gD PE=3 SV=1 LCR:begin=366, end=383
+IGIAAAAIACVAAAAAGA
+>sp|P9WIG4|WA22_MYCTO WAG22 antigen OS=Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh) OX=83331 GN=wag22 PE=3 SV=1 LCR:begin=379, end=399
+FGSGGGGGTGGFGFAAGGQGG
+>sp|O14559|RHG33_HUMAN Rho GTPase-activating protein 33 OS=Homo sapiens OX=9606 GN=ARHGAP33 PE=1 SV=2 LCR:begin=673, end=698
+SCESLSSSSSSESSSSESSSSSSESS
+>sp|Q4H3P5|DRI_CIOIN Protein dead ringer homolog OS=Ciona intestinalis OX=7719 GN=Ci-DRIL1/2 PE=2 SV=1 LCR:begin=453, end=470
+QAAQQAAHHAAQQAAQHQ
+>sp|Q2IIA8|DNAE2_ANADE Error-prone DNA polymerase OS=Anaeromyxobacter dehalogenans (strain 2CP-C) OX=290397 GN=dnaE2 PE=3 SV=1 LCR:begin=314, end=337
+LPAEPPAAPAPEAPAAAAAPGLAA
+>sp|Q9PWX1|DR1_HHV6Z Uncharacterized protein DR1 OS=Human herpesvirus 6B (strain Z29) OX=36351 GN=DR1 PE=4 SV=1 LCR:begin=658, end=686
+SLSSLSSSSSSSSSSSPSYSPSPLSPPSP
+>sp|Q9QR71|LANA1_HHV8P Protein LANA1 OS=Human herpesvirus 8 type P (isolate GK18) OX=868565 GN=LANA1 PE=1 SV=1 LCR:begin=430, end=477
+QQQQEPQQQEPQQQEPQQQEPQQQEPQQQEPQQQEPQQQEPQQREPQQ
+>sp|Q9U6A1|PROS_DROVI Homeobox protein prospero OS=Drosophila virilis OX=7244 GN=pros PE=3 SV=1 LCR:begin=771, end=808
+EQQQQQQQQQQQQQQQQQQQQQQQEQQRRYEQEQEQQR
+>sp|B4JQ42|AFFL_DROGR AF4/FMR2 family member lilli OS=Drosophila grimshawi OX=7222 GN=lilli PE=3 SV=1 LCR:begin=971, end=992
+LAKSTAAAAAAAALAATALTVA
+>sp|A0A3Q7JC00|MED25_SOLLC Mediator of RNA polymerase II transcription subunit 25 OS=Solanum lycopersicum OX=4081 GN=MED25 PE=1 SV=1 LCR:begin=728, end=765
+PQMQQQQIHQMQQQQQIPQMQQQQQIPQMQQQQQQQPM
+>sp|Q5SUF2|LC7L3_MOUSE Luc7-like protein 3 OS=Mus musculus OX=10090 GN=Luc7l3 PE=1 SV=1 LCR:begin=247, end=282
+KKEKQEREEREKEREREREERERKRRREEEEREKER
+>sp|Q61169|GATA6_MOUSE Transcription factor GATA-6 OS=Mus musculus OX=10090 GN=Gata6 PE=1 SV=3 LCR:begin=171, end=184
+SAAAAAAAAAAASS
+>sp|Q54GT9|ATG5_DICDI Autophagy protein 5 OS=Dictyostelium discoideum OX=44689 GN=atg5 PE=3 SV=1 LCR:begin=93, end=146
+NNNCNNSNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+>sp|A9LNK9|CPSF_ARATH 30-kDa cleavage and polyadenylation specificity factor 30 OS=Arabidopsis thaliana OX=3702 GN=CPSF30 PE=1 SV=1 LCR:begin=413, end=431
+EDNEEEEEEEDESEEEEES
+>sp|Q54W86|MYLKF_DICDI Probable myosin light chain kinase DDB_G0279831 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0279831 PE=3 SV=1 LCR:begin=192, end=213
+NTNTSSSLSLSSNSSNNSLSTL
+>sp|Q55DK5|MGP3_DICDI Mental retardation GTPase activating protein homolog 3 OS=Dictyostelium discoideum OX=44689 GN=mgp3 PE=3 SV=1 LCR:begin=733, end=755
+NNNNQNQNQNQNQNQNQDQNQNQ
+>sp|P33417|IXR1_YEAST Intrastrand cross-link recognition protein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=IXR1 PE=1 SV=2 LCR:begin=51, end=76
+QFQAQPQQQQQQQQQQQQQQQQAPYQ
+>sp|Q8VE08|FBX33_MOUSE F-box only protein 33 OS=Mus musculus OX=10090 GN=Fbxo33 PE=1 SV=3 LCR:begin=27, end=50
+RRRQRLRLLQLRRLRGLLRGLRRR
+>sp|A3M1G2|RL7_ACIBT 50S ribosomal protein L7/L12 OS=Acinetobacter baumannii (strain ATCC 17978 / CIP 53.77 / LMG 1025 / NCDC KC755 / 5377) OX=400667 GN=rplL PE=3 SV=1 LCR:begin=34, end=50
+AAAVAVAAPAGGAAAAA
+>sp|B0G170|PKS28_DICDI Probable polyketide synthase 28 OS=Dictyostelium discoideum OX=44689 GN=pks28 PE=3 SV=1 LCR:begin=1401, end=1429
+NHHNNSENKNKNNNNNNNSNNNENSNNES
+>sp|B4MUE1|AFFL_DROWI AF4/FMR2 family member lilli OS=Drosophila willistoni OX=7260 GN=lilli PE=3 SV=1 LCR:begin=186, end=199
+QTQQQQQQQQQQQQ
+>sp|Q54VM3|TBC5A_DICDI TBC1 domain family member 5 homolog A OS=Dictyostelium discoideum OX=44689 GN=tbc1d5A PE=1 SV=1 LCR:begin=37, end=57
+NGNENNNNMNTNNNNSNQNNN
+>sp|Q9D7J7|CPNS2_MOUSE Calpain small subunit 2 OS=Mus musculus OX=10090 GN=Capns2 PE=2 SV=1 LCR:begin=13, end=26
+GLGGALGGLLGGGG
+>sp|Q04999|INHBB_MOUSE Inhibin beta B chain OS=Mus musculus OX=10090 GN=Inhbb PE=2 SV=4 LCR:begin=27, end=50
+GSPTPPPSPAAPPPPPPPGAPGGS
+>sp|B4LKS9|BOP1_DROVI Ribosome biogenesis protein BOP1 homolog OS=Drosophila virilis OX=7244 GN=GJ22246 PE=3 SV=1 LCR:begin=81, end=106
+EAEGDAEEDEDDDEEEDEDSDEASED
+>sp|Q172Y1|MED30_AEDAE Mediator of RNA polymerase II transcription subunit 30 OS=Aedes aegypti OX=7159 GN=MED30 PE=3 SV=1 LCR:begin=83, end=101
+GQGQQQQPGQGQAQGQQQQ
+>sp|B9FXT3|UDT1_ORYSJ Transcription factor UDT1 OS=Oryza sativa subsp. japonica OX=39947 GN=UDT1 PE=2 SV=2 LCR:begin=31, end=46
+GGGGGGEEDGDDGEEE
+>sp|P46997|JJJ2_YEAST J protein JJJ2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=JJJ2 PE=1 SV=2 LCR:begin=239, end=251
+QQQQQQQQQQQQQ
+>sp|Q9LK24|FB327_ARATH F-box protein At3g27290 OS=Arabidopsis thaliana OX=3702 GN=At3g27290 PE=2 SV=1 LCR:begin=110, end=124
+DDDDGDDDDDGGGGG
+>sp|Q9ST48|DWRF8_MAIZE DELLA protein DWARF8 OS=Zea mays OX=4577 GN=D8 PE=1 SV=1 LCR:begin=185, end=199
+TGGGSTSSSSSSSSS
+>sp|Q54LN2|VP13D_DICDI Putative vacuolar protein sorting-associated protein 13D OS=Dictyostelium discoideum OX=44689 GN=vps13D PE=3 SV=1 LCR:begin=4109, end=4126
+NQQLQQNPQQQQPQQQNN
+>sp|F5A894|DAAF3_CHLRE Dynein assembly factor 3, axonemal homolog OS=Chlamydomonas reinhardtii OX=3055 GN=DAB1 PE=3 SV=1 LCR:begin=389, end=410
+AAAEEAAAAASGAGAEAGAGAG
+>sp|Q4KLR8|ZNRF3_XENLA E3 ubiquitin-protein ligase ZNRF3 OS=Xenopus laevis OX=8355 GN=znrf3 PE=2 SV=1 LCR:begin=690, end=704
+ALAEAAAAAAAAAVA
+>sp|A7IKP9|RL7_XANP2 50S ribosomal protein L7/L12 OS=Xanthobacter autotrophicus (strain ATCC BAA-1158 / Py2) OX=78245 GN=rplL PE=3 SV=1 LCR:begin=33, end=51
+AAAAVAVAAAPAGAAAAAV
+>sp|Q1ZXE6|CDC16_DICDI Anaphase-promoting complex subunit 6 OS=Dictyostelium discoideum OX=44689 GN=anapc6 PE=3 SV=1 LCR:begin=184, end=199
+DDDDDDDDDDDDDDDD
+>sp|Q9RPX0|ZNUA_HAEDU High-affinity zinc uptake system protein ZnuA OS=Haemophilus ducreyi (strain 35000HP / ATCC 700724) OX=233412 GN=znuA PE=1 SV=1 LCR:begin=114, end=130
+DHDHHDHDHDHDHDHDH
+>sp|Q931R6|EBHA_STAAM Extracellular matrix-binding protein EbhA OS=Staphylococcus aureus (strain Mu50 / ATCC 700699) OX=158878 GN=ebhA PE=1 SV=1 LCR:begin=6695, end=6712
+SKKVAAKKKKKKSKKNKK
+>sp|O00806|RLA2_PLAF7 60S acidic ribosomal protein P2 OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=MAL3P3.19 PE=3 SV=1 LCR:begin=83, end=104
+AEAKKEDKKEEKKEEEEEEEDD
+>sp|P06921|VE2_HPV05 Regulatory protein E2 OS=Human papillomavirus 5 OX=333923 GN=E2 PE=3 SV=2 LCR:begin=265, end=283
+RRSRSRHRSRSRSRSRSKS
+>sp|Q8NP40|IF2_CORGL Translation initiation factor IF-2 OS=Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025) OX=196627 GN=infB PE=3 SV=1 LCR:begin=347, end=367
+RGGGTGGGAGRGGRRGGTAGA
+>sp|Q28UE6|RS16_JANSC 30S ribosomal protein S16 OS=Jannaschia sp. (strain CCS1) OX=290400 GN=rpsP PE=3 SV=1 LCR:begin=106, end=129
+KAAKASAAAEAPAEAPAAEAAAEE
+>sp|Q5DRE4|PCDA8_PANTR Protocadherin alpha-8 OS=Pan troglodytes OX=9598 GN=PCDHA8 PE=3 SV=1 LCR:begin=916, end=933
+GKKEETKKKKKKKKGNKT
+>sp|Q91025|VIT3_CHICK Vitellogenin-3 (Fragments) OS=Gallus gallus OX=9031 GN=VTG3 PE=2 SV=2 LCR:begin=143, end=163
+SSSSSSSSSTGSGSSKTCSSS
+>sp|P10118|HSP1_RAT Sperm protamine P1 OS=Rattus norvegicus OX=10116 GN=Prm1 PE=1 SV=2 LCR:begin=4, end=42
+RCCRSKSRSRCRRRRRRCRRRRRRCCRRRRRRCCRRRRS
+>sp|Q3ZBT6|TRA2B_BOVIN Transformer-2 protein homolog beta OS=Bos taurus OX=9913 GN=TRA2B PE=2 SV=1 LCR:begin=69, end=87
+RSRSRSRSHRRSRSRSYSR
+>sp|Q54VI5|Y6510_DICDI Uncharacterized protein DDB_G0280315 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0280315 PE=4 SV=1 LCR:begin=304, end=322
+NVNENNGGDNNNDNNNDND
+>sp|Q2IL14|NUOI2_ANADE NADH-quinone oxidoreductase subunit I 2 OS=Anaeromyxobacter dehalogenans (strain 2CP-C) OX=290397 GN=nuoI2 PE=3 SV=1 LCR:begin=190, end=258
+PPKPAEAKPAAKAAPAAKPAAAAPAAPAAAAPAAAPAPAKPAAAPAPAAAAAPAAPAAEAPAAPAAPAA
+>sp|Q04861|NFKB1_CHICK Nuclear factor NF-kappa-B p105 subunit OS=Gallus gallus OX=9031 GN=NFKB1 PE=2 SV=2 LCR:begin=377, end=401
+GYGGGSGAGGGGMFGGGGGGAGSGF
+>sp|P51774|EGR2_RAT E3 SUMO-protein ligase EGR2 OS=Rattus norvegicus OX=10116 GN=Egr2 PE=2 SV=2 LCR:begin=424, end=438
+SSAPSSSASAQSSAS
+>sp|P38216|YBM6_YEAST Uncharacterized protein YBR016W OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YBR016W PE=1 SV=1 LCR:begin=40, end=51
+QQQQQYYQQQQQ
